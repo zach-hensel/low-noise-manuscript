@@ -1,1 +1,1043 @@
-[]
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2018-08-08T10:22:38Z",
+      "timestamp": 1533723758548
+    },
+    "reference-count": 37,
+    "publisher": "Wiley",
+    "license": [
+      {
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1",
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "delay-in-days": 3318,
+        "content-version": "tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          8,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1038/msb4100081",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2006-08-02T10:46:54Z",
+      "timestamp": 1154515614000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 108,
+    "title": "Noise in transcription negative feedback loops: simulation and experimental analysis",
+    "prefix": "10.1002",
+    "volume": "2",
+    "author": [
+      {
+        "given": "Yann",
+        "family": "Dublanche",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Konstantinos",
+        "family": "Michalodimitrakis",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nico",
+        "family": "Kümmerer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mathilde",
+        "family": "Foglierini",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Luis",
+        "family": "Serrano",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "311",
+    "container-title": "Molecular Systems Biology",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1038%2Fmsb4100081",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1038/msb4100081",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2018-08-01T04:43:42Z",
+      "timestamp": 1533098622000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          8,
+          1
+        ]
+      ]
+    },
+    "references-count": 37,
+    "alternative-id": [
+      "msb4100081"
+    ],
+    "URL": "https://doi.org/10.1038/msb4100081",
+    "relation": {
+      "cites": []
+    },
+    "subject": [
+      "General Biochemistry, Genetics and Molecular Biology",
+      "Computational Theory and Mathematics",
+      "General Immunology and Microbiology",
+      "Applied Mathematics",
+      "General Agricultural and Biological Sciences",
+      "Information Systems"
+    ],
+    "container-title-short": "Mol Syst Biol",
+    "short_url": "https://doi.org/fdbvv5",
+    "id": "x1Hd2npA"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T11:02:44Z",
+      "timestamp": 1535626964893
+    },
+    "reference-count": 18,
+    "publisher": "Springer Nature",
+    "issue": "5",
+    "license": [
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2009-04-12T00:00:00Z",
+          "timestamp": 1239494400000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1038/nmeth.1318",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2009-04-12T17:42:09Z",
+      "timestamp": 1239558129000
+    },
+    "page": "343-345",
+    "source": "Crossref",
+    "is-referenced-by-count": 2164,
+    "title": "Enzymatic assembly of DNA molecules up to several hundred kilobases",
+    "prefix": "10.1038",
+    "volume": "6",
+    "author": [
+      {
+        "given": "Daniel G",
+        "family": "Gibson",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lei",
+        "family": "Young",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ray-Yuan",
+        "family": "Chuang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J Craig",
+        "family": "Venter",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Clyde A",
+        "family": "Hutchison",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hamilton O",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          12
+        ]
+      ]
+    },
+    "container-title": "Nature Methods",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/nmeth.1318.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/nmeth.1318",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/nmeth.1318.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2018-01-10T16:19:05Z",
+      "timestamp": 1515601145000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          12
+        ]
+      ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      },
+      "issue": "5"
+    },
+    "alternative-id": [
+      "BFnmeth1318"
+    ],
+    "URL": "https://doi.org/10.1038/nmeth.1318",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Nat Methods",
+    "short_url": "https://doi.org/ckn92w",
+    "id": "dc6GAnhL"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2018-08-01T14:02:34Z",
+      "timestamp": 1533132154621
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "12",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "DOI": "10.1093/nar/12.12.4849",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2007-01-04T22:15:07Z",
+      "timestamp": 1167948907000
+    },
+    "page": "4849-4863",
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": "Nucleotide sequence of the repressor gene of the TN10 tetracycline resistance determinant",
+    "prefix": "10.1093",
+    "volume": "12",
+    "author": [
+      {
+        "given": "Kathleen",
+        "family": "Postle",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Toai T.",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kevin P.",
+        "family": "Bertrand",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "286",
+    "container-title": "Nucleic Acids Research",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/nar/article-pdf/12/12/4849/3918733/12-12-4849.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2017-08-23T19:05:29Z",
+      "timestamp": 1503515129000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1984
+          ]
+        ]
+      },
+      "issue": "12"
+    },
+    "URL": "https://doi.org/10.1093/nar/12.12.4849",
+    "relation": {},
+    "container-title-short": "Nucl Acids Res",
+    "short_url": "https://doi.org/cvpfkh",
+    "id": "Q1a7tU8"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T01:02:28Z",
+      "timestamp": 1535590948794
+    },
+    "reference-count": 33,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "5991",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          30
+        ]
+      ]
+    },
+    "DOI": "10.1126/science.1188308",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2010-07-29T21:52:27Z",
+      "timestamp": 1280440347000
+    },
+    "page": "533-538",
+    "source": "Crossref",
+    "is-referenced-by-count": 922,
+    "title": "Quantifying E. coli Proteome and Transcriptome with Single-Molecule Sensitivity in Single Cells",
+    "prefix": "10.1126",
+    "volume": "329",
+    "author": [
+      {
+        "given": "Y.",
+        "family": "Taniguchi",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "P. J.",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "G.-W.",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "H.",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M.",
+        "family": "Babu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J.",
+        "family": "Hearn",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Emili",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "X. S.",
+        "family": "Xie",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "221",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          29
+        ]
+      ]
+    },
+    "container-title": "Science",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1126/science.1188308",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2017-06-19T11:53:56Z",
+      "timestamp": 1497873236000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          29
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2010,
+            7,
+            29
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            7,
+            30
+          ]
+        ]
+      },
+      "issue": "5991"
+    },
+    "URL": "https://doi.org/10.1126/science.1188308",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Science",
+    "short_url": "https://doi.org/c3tkbc",
+    "id": "oD6kpSs3"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T11:02:44Z",
+      "timestamp": 1535626964901
+    },
+    "reference-count": 38,
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1186/1754-1611-5-12",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2011-09-20T18:44:00Z",
+      "timestamp": 1316544240000
+    },
+    "page": "12",
+    "source": "Crossref",
+    "is-referenced-by-count": 135,
+    "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression",
+    "prefix": "10.1186",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Taek",
+        "family": "Lee",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Rachel A",
+        "family": "Krupa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Fuzhong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meghdad",
+        "family": "Hajimorad",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "William J",
+        "family": "Holtz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nilu",
+        "family": "Prasad",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sung",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jay D",
+        "family": "Keasling",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "container-title": "Journal of Biological Engineering",
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2016-05-16T17:28:01Z",
+      "timestamp": 1463419681000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "1754-1611-5-12"
+    ],
+    "URL": "https://doi.org/10.1186/1754-1611-5-12",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "J Biol Eng",
+    "short_url": "https://doi.org/dvqf88",
+    "id": "fyyCRa8e"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2018-05-08T03:48:29Z",
+      "timestamp": 1525751309671
+    },
+    "reference-count": 36,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "license": [
+      {
+        "URL": "http://creativecommons.org/licenses/by/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              10,
+              30
+            ]
+          ],
+          "date-time": "2017-10-30T00:00:00Z",
+          "timestamp": 1509321600000
+        },
+        "delay-in-days": 0,
+        "content-version": "vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100005856",
+        "name": "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa",
+        "doi-asserted-by": "publisher",
+        "award": []
+      },
+      {
+        "name": "FEDER (European Regional Development Fund)",
+        "award": [
+          "LISBOA-01-0145-FEDER-007660"
+        ]
+      },
+      {
+        "name": "Okinawa Institute of Science and Technology Graduate University (JP)",
+        "award": []
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1371/journal.pone.0187259",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2017-10-30T17:41:32Z",
+      "timestamp": 1509385292000
+    },
+    "page": "e0187259",
+    "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": "A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit",
+    "prefix": "10.1371",
+    "volume": "12",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0002-4348-6229",
+        "authenticated-orcid": true,
+        "given": "Zach",
+        "family": "Hensel",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          30
+        ]
+      ]
+    },
+    "container-title": "PLOS ONE",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0187259",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2017-10-30T17:41:45Z",
+      "timestamp": 1509385305000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "David D.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          30
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            10,
+            30
+          ]
+        ]
+      },
+      "issue": "10"
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0187259",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.1101/192963",
+          "asserted-by": "object"
+        }
+      ],
+      "cites": []
+    },
+    "container-title-short": "PLoS ONE",
+    "short_url": "https://doi.org/gcg8pf",
+    "id": "RB57dahw"
+  },
+  {
+    "title": "A pSC101-derived plasmid which shows no sequence homology to other commonly used cloning vectors.",
+    "volume": "31",
+    "issue": "1-3",
+    "page": "165-71",
+    "container-title": "Gene",
+    "container-title-short": "Gene",
+    "issued": {
+      "date-parts": [
+        [
+          1984,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "G",
+        "family": "Churchward"
+      },
+      {
+        "given": "D",
+        "family": "Belin"
+      },
+      {
+        "given": "Y",
+        "family": "Nagamine"
+      }
+    ],
+    "PMID": "6098521",
+    "abstract": "We have constructed a plasmid cloning vector, pGB2, which is derived from the Escherichia coli plasmid pSC101. The plasmid, which specifies resistance to spectinomycin and streptomycin, contains unique restriction sites for the enzymes HindIII, PstI, SalI, BamHI, SmaI and EcoRI. pGB2 shows no sequence homology, as detected by DNA-DNA hybridization, to several widely used vectors such as pBR322, pUC8 and phage lambda L47.1. Amongst other applications, DNA fragments can be cloned into the plasmid and then radioactive plasmid DNA can be used as a probe to screen recombinant DNA libraries.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/6098521",
+    "type": "article-journal",
+    "id": "5CRbRLYC"
+  },
+  {
+    "title": "FACS-optimized mutants of the green fluorescent protein (GFP).",
+    "volume": "173",
+    "issue": "1 Spec No",
+    "page": "33-8",
+    "container-title": "Gene",
+    "container-title-short": "Gene",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "B P",
+        "family": "Cormack"
+      },
+      {
+        "given": "R H",
+        "family": "Valdivia"
+      },
+      {
+        "given": "S",
+        "family": "Falkow"
+      }
+    ],
+    "PMID": "8707053",
+    "abstract": "We have constructed a library in Escherichia coli of mutant gfp genes (encoding green fluorescent protein, GFP) expressed from a tightly regulated inducible promoter. We introduced random amino acid (aa) substitutions in the twenty aa flanking the chromophore Ser-Tyr-Gly sequence at aa 65-67. We then used fluorescence-activated cell sorting (FACS) to select variants of GFP that fluoresce between 20-and 35-fold more intensely than wild type (wt), when excited at 488 nm. Sequence analysis reveals three classes of aa substitutions in GFP. All three classes of mutant proteins have highly shifted excitation maxima. In addition, when produced in E. coli, the folding of the mutant proteins is more efficient than folding of wt GFP. These two properties contribute to a greatly increased (100-fold) fluorescence intensity, making the mutants useful for a number of applications.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/8707053",
+    "type": "article-journal",
+    "id": "13TJF2gcl"
+  },
+  {
+    "title": "Intrinsic termination of T7 RNA polymerase mediated by either RNA or DNA.",
+    "volume": "15",
+    "issue": "17",
+    "page": "4767-74",
+    "container-title": "The EMBO journal",
+    "container-title-short": "EMBO J.",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          9,
+          2
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "L",
+        "family": "Hartvig"
+      },
+      {
+        "given": "J",
+        "family": "Christiansen"
+      }
+    ],
+    "PMID": "8887568",
+    "PMCID": "PMC452209",
+    "abstract": "Intrinsic termination of T7 RNA polymerase transcription occurs at different signals in vitro. One type of signal is similar to that mediating factor-independent termination of Escherichia coli RNA polymerase, whereas the other type does not involve RNA hairpin formation. By examining the termination behaviour of T7 RNA polymerase at the E.coli rrnB operon t1 terminator, at the T7-t(phi) terminator, at the human preproparathyroid hormone gene terminator on both single- and double-stranded templates, and in the presence of GTP or ITP during transcription, we show that the termination event can be mediated by either RNA or DNA structural features. Moreover, by using co-transcriptional probing with potassium permanganate, we present evidence for the presence of transcription-induced hyperreactive thymidines on the non-template strand in the DNA-mediated event, and a putative sequence motif is identified. We conclude that intrinsic termination of T7 RNA polymerase transcription in vitro can be mediated either by a hairpin in the nascent RNA or by a sequence motif including hyperreactive thymidines in the non-template DNA strand.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/8887568",
+    "type": "article-journal",
+    "id": "xjKSoV9v"
+  },
+  {
+    "URL": "https://www.addgene.org/Zach_Hensel/",
+    "title": "Addgene: Zach Hensel Lab Plasmids",
+    "greycite-status": "Scanned",
+    "greycite-scanned": "2018-08-30 12:43:09",
+    "type": "webpage",
+    "id": "q8xLcfYV"
+  }
+]

@@ -2,56 +2,52 @@
   "date": "August 30, 2018",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "github": "zach-hensel",
+      "name": "Zach Hensel",
+      "initials": "ZH",
+      "orcid": "0000-0002-4348-6229",
+      "twitter": "alchemytoday",
+      "email": "zach.hensel@itqb.unl.pt",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
-      "funders": "Grant XXXXXXXX",
+      "funders": "Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)",
       "affiliation_numbers": [
         1
       ]
     },
     {
       "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
+      "name": "Jo\u00e3o Silva",
+      "initials": "JS",
       "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
       "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
+        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
       "affiliation_numbers": [
-        1,
-        2
+        1
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal",
       "affiliation_number": 1
-    },
-    {
-      "affiliation": "Department of Whatever, University of Something",
-      "affiliation_number": 2
     }
   ],
   "ci_source": {
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "daa8a42be8acba09d440e101013c70013ee11922"
+    "commit": "5147b97612d5e24e479b5765588a1ea8681c1597"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "total": 0
+      "doi": 6,
+      "pmid": 3,
+      "url": 1,
+      "total": 10
     },
-    "word_count": 219
+    "word_count": 656
   }
 }
