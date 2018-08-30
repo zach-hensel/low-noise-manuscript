@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2018-08-29'
+date-meta: '2018-08-30'
 keywords:
 - markdown
 - publishing
@@ -18,10 +18,10 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/9018dae8a2251696f833ecf3548ea991932d0ea3/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/daa8a42be8acba09d440e101013c70013ee11922/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@9018dae](https://github.com/zach-hensel/low-noise-manuscript/tree/9018dae8a2251696f833ecf3548ea991932d0ea3)
-on August 29, 2018.
+from [zach-hensel/low-noise-manuscript@daa8a42](https://github.com/zach-hensel/low-noise-manuscript/tree/daa8a42be8acba09d440e101013c70013ee11922)
+on August 30, 2018.
 </em></small>
 
 ## Authors
@@ -53,8 +53,7 @@ on August 29, 2018.
 
 ## Abstract {.page_break_before}
 
-
-
+test test test
 
 ## References {.page_break_before}
 

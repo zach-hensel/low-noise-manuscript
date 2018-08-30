@@ -1,5 +1,5 @@
 {
-  "date": "August 29, 2018",
+  "date": "August 30, 2018",
   "authors": [
     {
       "github": "johndoe",
@@ -46,12 +46,12 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "9018dae8a2251696f833ecf3548ea991932d0ea3"
+    "commit": "daa8a42be8acba09d440e101013c70013ee11922"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 216
+    "word_count": 219
   }
 }
