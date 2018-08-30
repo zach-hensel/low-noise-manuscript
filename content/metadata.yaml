@@ -1,27 +1,25 @@
 ---
-title: "Manubot Rootstock: Manuscript Title"
+title: "New plasmids for low-noise gene expression in Escherichia coli"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - gene expression
+  - synthetic biology
+  - transcription
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: zach-hensel
+    name: Zach Hensel
+    initials: ZH
+    orcid: 0000-0002-4348-6229
+    twitter: alchemytoday
+    email: zach.hensel@itqb.unl.pt
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
+      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+    funders: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)
   -
     github: janeroe
-    name: Jane Roe
-    initials: JR
+    name: João Silva
+    initials: JS
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
