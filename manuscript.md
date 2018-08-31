@@ -2,7 +2,7 @@
 author-meta:
 - Zach Hensel
 - "Jo\xE3o Silva"
-date-meta: '2018-08-30'
+date-meta: '2018-08-31'
 keywords:
 - gene expression
 - synthetic biology
@@ -18,10 +18,10 @@ title: New plasmids for low-noise gene expression in Escherichia coli
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/5147b97612d5e24e479b5765588a1ea8681c1597/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/ee6757d91b4a6180946a0a4ae12224735d29028a/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@5147b97](https://github.com/zach-hensel/low-noise-manuscript/tree/5147b97612d5e24e479b5765588a1ea8681c1597)
-on August 30, 2018.
+from [zach-hensel/low-noise-manuscript@ee6757d](https://github.com/zach-hensel/low-noise-manuscript/tree/ee6757d91b4a6180946a0a4ae12224735d29028a)
+on August 31, 2018.
 </em></small>
 
 ## Authors
@@ -42,9 +42,7 @@ on August 30, 2018.
 
 + **João Silva**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [janeroe](https://github.com/janeroe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
   </small>
@@ -55,7 +53,7 @@ on August 30, 2018.
 
 Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor, and bicistronic gene expression to reduce gene expression noise. We report several new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. This system was moved to a compatible plasmid backbone, and a system based on the lactose repressor was found to also exhibit gene expression noise below the extrinsic noise limit. We further investigated the effects of increasing repressor binding strength and the addition of a weak constitutive promoter on protein induction and expression noise.
 
-## Introduction [.page_break_before]
+## Introduction {.page_break_before}
 
 We recently reported the development of a plasmid-based gene-expression system in which a gene of interest is expressed bicistronically with the tetracycline repressor (TetR) [@RB57dahw]. Using this gene expression system, cell-to-cell is below the “extrinsic noise limit” observed for genes expressed from the chromosome [@oD6kpSs3]. When TetR and GFP are expressed bicistronically, GFP induction and gene expression noise is similar to that observed for a TetR-GFP fusion protein with autoregulation [@x1Hd2npA]. Compared to induction of gene expression under the control of a constitutively expressed transcriptional repressor, the inducer dose-response is relatively linearized, and gene expression noise is much lower at intermediate induction levels.
 
@@ -67,6 +65,21 @@ All plasmids were constructed using isothermal assembly [@dc6GAnhL] of fragments
 
 Plasmid pZH509 [@RB57dahw] was used as a template to amplify the bicistronic regulatory construct including the P~LtetO-1~ promoter, GFPmut2 [@13TJF2gcl], tn10 TetR [@Q1a7tU8] and rrnB T1 transcription terminator [@xjKSoV9v]. This was assembled by isothermal assembly with the backbone from pGB2 [@5CRbRLYC] with the pSC101 origin of replication and spectinomycin resistance to generate plasmid pJS101. Plasmids with the pSC101 and p15a origins of replication have been co-transformed in previous synthetic biology experiments [@fyyCRa8e].
 
+### Cell Growth
+
+test
+
+### Flow Cytometry
+
+blah
+
+#### Data analysis
+
+ok
+
+### Microscopy
+
+123
 
 ## References {.page_break_before}
 

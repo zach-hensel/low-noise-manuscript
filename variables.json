@@ -1,5 +1,5 @@
 {
-  "date": "August 30, 2018",
+  "date": "August 31, 2018",
   "authors": [
     {
       "github": "zach-hensel",
@@ -17,7 +17,6 @@
       ]
     },
     {
-      "github": "janeroe",
       "name": "Jo\u00e3o Silva",
       "initials": "JS",
       "orcid": "XXXX-XXXX-XXXX-XXXX",
@@ -39,7 +38,7 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "5147b97612d5e24e479b5765588a1ea8681c1597"
+    "commit": "ee6757d91b4a6180946a0a4ae12224735d29028a"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -48,6 +47,6 @@
       "url": 1,
       "total": 10
     },
-    "word_count": 656
+    "word_count": 671
   }
 }
