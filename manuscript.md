@@ -18,9 +18,9 @@ title: New plasmids for low-noise gene expression in Escherichia coli
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/ee6757d91b4a6180946a0a4ae12224735d29028a/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/9f37622e2174b0919870417213babc74a6101caa/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@ee6757d](https://github.com/zach-hensel/low-noise-manuscript/tree/ee6757d91b4a6180946a0a4ae12224735d29028a)
+from [zach-hensel/low-noise-manuscript@9f37622](https://github.com/zach-hensel/low-noise-manuscript/tree/9f37622e2174b0919870417213babc74a6101caa)
 on August 31, 2018.
 </em></small>
 
@@ -65,21 +65,30 @@ All plasmids were constructed using isothermal assembly [@dc6GAnhL] of fragments
 
 Plasmid pZH509 [@RB57dahw] was used as a template to amplify the bicistronic regulatory construct including the P~LtetO-1~ promoter, GFPmut2 [@13TJF2gcl], tn10 TetR [@Q1a7tU8] and rrnB T1 transcription terminator [@xjKSoV9v]. This was assembled by isothermal assembly with the backbone from pGB2 [@5CRbRLYC] with the pSC101 origin of replication and spectinomycin resistance to generate plasmid pJS101. Plasmids with the pSC101 and p15a origins of replication have been co-transformed in previous synthetic biology experiments [@fyyCRa8e].
 
+| Plasmid | Ori | Promoter | GOI | Repressor Expression | Reference |
+|----------|----------|----------|----------|----------|----------|
+| pZH501 | p15a | CI-SNAP-tag | ~LtetO-1~ | bicistronic | [@RB57dahw] |
+| pZH509 | p15a | GFPmut2 |  P~LtetO-1~ | bicistronic | [@RB57dahw] |
+| pZH520 | p15a | GFPmut2 | P~LtetO-1~ | constitutive | [@RB57dahw] |
+| pJS101 | pSC101 | GFPmut2 | P~LtetO-1~ | bicistronic | This work |
+| pJS102 | p15a | GFPmut2 | P~LlacO~ | bicistronic | This work |
+| pJS103 | p15a | GFPmut2 | P~LlacOsym~ | bicistronic | This work |
+| pJS23103 | p15a | GFPmut2 | P~LtetO-1~ | bicistronic/constitutive | This work |
+
+Table 1: Plasmids used in this study. {#tbl:plasmidList}
+
 ### Cell Growth
 
-test
-
-### Flow Cytometry
-
-blah
-
-#### Data analysis
-
-ok
+Cells were grown in overnight cultures at 32 C in M9 minimal media supplemented with 1% SOB media, 50 µg/mL carbenicillin or 50 µg/mL spectinomycin. The next day, cells were diluted 1:100 or more (if multiple experiments were to be done sequentially over several hours) in the same media supplemented with anhydrotetracycline. In this growth condition, doubling time was approximately 30 minutes for MG1655 strains harboring these plasmids.
 
 ### Microscopy
 
-123
+blah
+
+### Flow cytometry
+
+ok
+
 
 ## References {.page_break_before}
 
