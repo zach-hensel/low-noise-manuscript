@@ -160,6 +160,165 @@
         [
           2018,
           8,
+          1
+        ]
+      ],
+      "date-time": "2018-08-01T14:42:40Z",
+      "timestamp": 1533134560931
+    },
+    "reference-count": 38,
+    "publisher": "Springer Nature",
+    "issue": "7302",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1038/nature09152",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          21
+        ]
+      ],
+      "date-time": "2010-06-21T01:10:40Z",
+      "timestamp": 1277082640000
+    },
+    "page": "77-81",
+    "source": "Crossref",
+    "is-referenced-by-count": 193,
+    "title": "Spatial organization of the flow of genetic information in bacteria",
+    "prefix": "10.1038",
+    "volume": "466",
+    "author": [
+      {
+        "given": "Paula Montero",
+        "family": "Llopis",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Audrey F.",
+        "family": "Jackson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Oleksii",
+        "family": "Sliusarenko",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ivan",
+        "family": "Surovtsev",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jennifer",
+        "family": "Heinritz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thierry",
+        "family": "Emonet",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christine",
+        "family": "Jacobs-Wagner",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          20
+        ]
+      ]
+    },
+    "container-title": "Nature",
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2017-06-19T09:44:00Z",
+      "timestamp": 1497865440000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6,
+          20
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            20
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            7,
+            1
+          ]
+        ]
+      },
+      "issue": "7302"
+    },
+    "alternative-id": [
+      "nature09152"
+    ],
+    "URL": "https://doi.org/10.1038/nature09152",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Nature",
+    "short_url": "https://doi.org/bzfvpp",
+    "id": "cfHwILHp"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
           30
         ]
       ],
@@ -334,6 +493,572 @@
     "container-title-short": "Nat Methods",
     "short_url": "https://doi.org/ckn92w",
     "id": "dc6GAnhL"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T15:22:32Z",
+      "timestamp": 1535642552637
+    },
+    "reference-count": 28,
+    "publisher": "Springer Nature",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1038/nmeth.2413",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          22
+        ]
+      ],
+      "date-time": "2013-03-22T17:39:59Z",
+      "timestamp": 1363973999000
+    },
+    "page": "407-409",
+    "source": "Crossref",
+    "is-referenced-by-count": 225,
+    "title": "A bright monomeric green fluorescent protein derived from Branchiostoma lanceolatum",
+    "prefix": "10.1038",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Nathan C",
+        "family": "Shaner",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Gerard G",
+        "family": "Lambert",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew",
+        "family": "Chammas",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yuhui",
+        "family": "Ni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Paula J",
+        "family": "Cranfill",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michelle A",
+        "family": "Baird",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Brittney R",
+        "family": "Sell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John R",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard N",
+        "family": "Day",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maria",
+        "family": "Israelsson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Michael W",
+        "family": "Davidson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jiwu",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          24
+        ]
+      ]
+    },
+    "container-title": "Nature Methods",
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2013-04-29T13:08:01Z",
+      "timestamp": 1367240881000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          24
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            3,
+            24
+          ]
+        ]
+      },
+      "issue": "5"
+    },
+    "alternative-id": [
+      "nmeth.2413"
+    ],
+    "URL": "https://doi.org/10.1038/nmeth.2413",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Nat Meth",
+    "short_url": "https://doi.org/f24459",
+    "id": "ne2ewtkS"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T09:22:28Z",
+      "timestamp": 1535620948850
+    },
+    "reference-count": 44,
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "license": [
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              21
+            ]
+          ],
+          "date-time": "2016-11-21T00:00:00Z",
+          "timestamp": 1479686400000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1038/nmeth.4074",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2016-11-21T17:34:56Z",
+      "timestamp": 1479749696000
+    },
+    "page": "53-56",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 49,
+    "title": "mScarlet: a bright monomeric red fluorescent protein for cellular imaging",
+    "prefix": "10.1038",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Daphne S",
+        "family": "Bindels",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Lindsay",
+        "family": "Haarbosch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Laura",
+        "family": "van Weeren",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marten",
+        "family": "Postma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Katrin E",
+        "family": "Wiese",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marieke",
+        "family": "Mastop",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sylvain",
+        "family": "Aumonier",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guillaume",
+        "family": "Gotthard",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Antoine",
+        "family": "Royant",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mark A",
+        "family": "Hink",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Theodorus W J",
+        "family": "Gadella",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          21
+        ]
+      ]
+    },
+    "container-title": "Nature Methods",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/nmeth.4074.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/nmeth.4074",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/nmeth.4074.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2017-12-27T15:15:31Z",
+      "timestamp": 1514387731000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          21
+        ]
+      ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "BFnmeth4074"
+    ],
+    "URL": "https://doi.org/10.1038/nmeth.4074",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Nat Methods",
+    "short_url": "https://doi.org/gcx4mw",
+    "id": "H1cK0KNl"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2018-08-25T15:43:21Z",
+      "timestamp": 1535211801787
+    },
+    "reference-count": 33,
+    "publisher": "Wiley",
+    "issue": "9",
+    "license": [
+      {
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "delay-in-days": 6697,
+        "content-version": "tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          5,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1093/emboj/16.9.2197",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2002-07-26T22:44:48Z",
+      "timestamp": 1027723488000
+    },
+    "page": "2197-2204",
+    "source": "Crossref",
+    "is-referenced-by-count": 45,
+    "title": "Negatively charged amino acid residues play an active role in orienting the Sec-independent Pf3 coat protein in theEscherichia coliinner membrane",
+    "prefix": "10.1002",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Dorothee",
+        "family": "Kiefer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Microbiology, University of Karlsruhe; D-76128 Karlsruhe Germany"
+          },
+          {
+            "name": "Department of Chemistry, The Ohio State University; Columbus OH 43210 USA"
+          }
+        ]
+      },
+      {
+        "given": "Xintong",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ross",
+        "family": "Dalbey",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andreas",
+        "family": "Kuhn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Microbiology, University of Karlsruhe; D-76128 Karlsruhe Germany"
+          },
+          {
+            "name": "Department of Chemistry, The Ohio State University; Columbus OH 43210 USA"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          5,
+          1
+        ]
+      ]
+    },
+    "container-title": "The EMBO Journal",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1093%2Femboj%2F16.9.2197",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1093/emboj/16.9.2197",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2018-07-31T11:08:02Z",
+      "timestamp": 1533035282000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            5,
+            1
+          ]
+        ]
+      },
+      "issue": "9"
+    },
+    "URL": "https://doi.org/10.1093/emboj/16.9.2197",
+    "relation": {
+      "cites": []
+    },
+    "subject": [
+      "General Biochemistry, Genetics and Molecular Biology",
+      "General Immunology and Microbiology",
+      "General Neuroscience",
+      "Molecular Biology"
+    ],
+    "short_url": "https://doi.org/ftxhzv",
+    "id": "oLbIsF1b"
   },
   {
     "indexed": {
@@ -966,6 +1691,42 @@
     "id": "5CRbRLYC"
   },
   {
+    "title": "A perfectly symmetric lac operator binds the lac repressor very tightly.",
+    "volume": "80",
+    "issue": "22",
+    "page": "6785-9",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "issued": {
+      "date-parts": [
+        [
+          1983,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "J R",
+        "family": "Sadler"
+      },
+      {
+        "given": "H",
+        "family": "Sasmor"
+      },
+      {
+        "given": "J L",
+        "family": "Betz"
+      }
+    ],
+    "PMID": "6316325",
+    "PMCID": "PMC390070",
+    "abstract": "A completely symmetric DNA segment has been constructed that binds the lactose repressor of Escherichia coli 10-fold more tightly than does the natural lactose operator sequence. This tight-binding operator is an inverted repeat of a 15-base-pair segment from the left half of the natural operator sequence, the inversion being about the point indicated by the arrow shown below: (sequence in text) where the upper sequence is the natural operator and the lower sequence is the symmetric operator. The increased affinity of repressor for this symmetric sequence supports the idea that the tetrameric repressor is designed for a two-module binding to DNA, presumably via two (or two pairs) of its identical subunits. The natural operator is apparently \"flawed\" by \"incorrect\" base pairs in the right operator half and by an \"incorrect\" spacing between the operator halves with respect to maximal repressor binding.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/6316325",
+    "type": "article-journal",
+    "id": "swicCLW1"
+  },
+  {
     "title": "FACS-optimized mutants of the green fluorescent protein (GFP).",
     "volume": "173",
     "issue": "1 Spec No",
@@ -1031,6 +1792,39 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/8887568",
     "type": "article-journal",
     "id": "xjKSoV9v"
+  },
+  {
+    "title": "Independent and tight regulation of transcriptional units in Escherichia coli via the LacR/O, the TetR/O and AraC/I1-I2 regulatory elements.",
+    "volume": "25",
+    "issue": "6",
+    "page": "1203-10",
+    "container-title": "Nucleic acids research",
+    "container-title-short": "Nucleic Acids Res.",
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          3,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "R",
+        "family": "Lutz"
+      },
+      {
+        "given": "H",
+        "family": "Bujard"
+      }
+    ],
+    "PMID": "9092630",
+    "PMCID": "PMC146584",
+    "abstract": "Based on parameters governing promoter activity and using regulatory elements of the lac, ara and tet operon transcription control sequences were composed which permit the regulation in Escherichia coli of several gene activities independently and quantitatively. The novel promoter PLtetO-1 allows the regulation of gene expression over an up to 5000-fold range with anhydrotetracycline (aTc) whereas with IPTG and arabinose the activity of Plac/ara-1 may be controlled 1800-fold. Escherichia coli host strains which produce defined amounts of the regulatory proteins, Lac and Tet repressor as well as AraC from chromosomally located expression units provide highly reproducible in vivo conditions. Controlling the expression of the genes encoding luciferase, the low abundance E.coli protein DnaJ and restriction endonuclease Cfr9I not only demonstrates that high levels of expression can be achieved but also suggests that under conditions of optimal repression only around one mRNA every 3rd generation is produced. This potential of quantitative control will open up new approaches in the study of gene function in vivo, in particular with low abundance regulatory gene products. The system will also provide new opportunities for the controlled expression of heterologous genes.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/9092630",
+    "type": "article-journal",
+    "id": "NCWOk1rp"
   },
   {
     "URL": "http://parts.igem.org/Promoters/Catalog/Anderson",
