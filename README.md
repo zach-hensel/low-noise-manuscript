@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/zach-hensel/low-noise-manuscript/tree/gh-pages) branch hosts the contents of this directory at https://zach-hensel.github.io/low-noise-manuscript/.
-The permalink for this webpage version is https://zach-hensel.github.io/low-noise-manuscript/v/5147b97612d5e24e479b5765588a1ea8681c1597/.
+The permalink for this webpage version is https://zach-hensel.github.io/low-noise-manuscript/v/ee6757d91b4a6180946a0a4ae12224735d29028a/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://zach-hensel.github.io/low-noise-manuscript/v/freeze/.
 
 ## Files
@@ -32,4 +32,4 @@ git add v/*/*.ots
 ## Source
 
 The manuscripts in this directory were built from
-[`5147b97612d5e24e479b5765588a1ea8681c1597`](https://github.com/zach-hensel/low-noise-manuscript/commit/5147b97612d5e24e479b5765588a1ea8681c1597).
+[`ee6757d91b4a6180946a0a4ae12224735d29028a`](https://github.com/zach-hensel/low-noise-manuscript/commit/ee6757d91b4a6180946a0a4ae12224735d29028a).
