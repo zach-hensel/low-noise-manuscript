@@ -2,7 +2,7 @@
 author-meta:
 - Zach Hensel
 - "Jo\xE3o Silva"
-date-meta: '2018-08-31'
+date-meta: '2018-09-03'
 keywords:
 - gene expression
 - synthetic biology
@@ -18,10 +18,10 @@ title: New plasmids for low-noise gene expression in Escherichia coli
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/53a073a8d2b9ecb456ba5ec23bb600c8bbc3d2e5/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@53a073a](https://github.com/zach-hensel/low-noise-manuscript/tree/53a073a8d2b9ecb456ba5ec23bb600c8bbc3d2e5)
-on August 31, 2018.
+from [zach-hensel/low-noise-manuscript@72dd71b](https://github.com/zach-hensel/low-noise-manuscript/tree/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63)
+on September 3, 2018.
 </em></small>
 
 ## Authors
@@ -95,12 +95,11 @@ Cells were grown in overnight cultures at 32 C in M9 minimal media supplemented 
 
 ### Microscopy
 
-blah
+Microscopy methods and microscopy data analysis methods
 
 ### Flow cytometry
 
-ok
-
+Flow cytometry methods and data analysis methods
 
 ## Results 
 
@@ -120,6 +119,8 @@ Figure 3: pZH509 vs pJS102 vs pJS103 (a) mean(aTc), (b) noise(mean), (c) Microsc
 
 ### Increasing dynamic range with the addition of a weak constitutive promoter
 
+![(**A**) Mean GFP fluorescence for pJS23103, pZH509 and pZH520 as a function of ATc concentration. The additional weak, constitutive promoter for TetR in pJS23103 results in lower GFP expression at low ATc concentrations. (**B**) Noise (*CV*^2^) as a function of mean GFP expression for the same strains. pJS23103 retains the low gene expression noise characteristic of pZH509. Error bars in both plots are bootstrapped 95% confidence intervals from a single experiment. The mean and variance of the pZH501 strain which does not express GFP was subtracted from each sample.](images/WeakConstitutivePromoter.png){#fig:weakPromoter}
+
 Figure 4: ZH509 vs pZH520 vs pJS23103 (a) mean(aTc), (b) noise(mean), (c) Microscope images at mid induction, (d) noise(mean) from microscope images
 
 ### Expression of two genes by remixing these components
@@ -129,6 +130,7 @@ Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult 
 [@ne2ewtkS] mNeonGreen
 [@H1cK0KNl] mScarlet-I
 [@oLbIsF1b] The Pf3 coat protein is a small membrane-spanning protein with a cytoplasm-facing C terminus.
+
 
 ## Discussion
 
