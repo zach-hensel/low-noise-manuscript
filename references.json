@@ -4,12 +4,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          8
+          12,
+          17
         ]
       ],
-      "date-time": "2018-08-08T10:22:38Z",
-      "timestamp": 1533723758548
+      "date-time": "2018-12-17T12:08:48Z",
+      "timestamp": 1545048528139
     },
     "reference-count": 37,
     "publisher": "Wiley",
@@ -58,7 +58,7 @@
       "timestamp": 1154515614000
     },
     "source": "Crossref",
-    "is-referenced-by-count": 108,
+    "is-referenced-by-count": 116,
     "title": "Noise in transcription negative feedback loops: simulation and experimental analysis",
     "prefix": "10.1002",
     "volume": "2",
@@ -159,12 +159,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          1
+          12,
+          11
         ]
       ],
-      "date-time": "2018-08-01T14:42:40Z",
-      "timestamp": 1533134560931
+      "date-time": "2018-12-11T12:23:35Z",
+      "timestamp": 1544531015826
     },
     "reference-count": 38,
     "publisher": "Springer Nature",
@@ -197,7 +197,7 @@
     },
     "page": "77-81",
     "source": "Crossref",
-    "is-referenced-by-count": 193,
+    "is-referenced-by-count": 214,
     "title": "Spatial organization of the flow of genetic information in bacteria",
     "prefix": "10.1038",
     "volume": "466",
@@ -318,12 +318,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          30
+          12,
+          26
         ]
       ],
-      "date-time": "2018-08-30T11:02:44Z",
-      "timestamp": 1535626964893
+      "date-time": "2018-12-26T07:02:38Z",
+      "timestamp": 1545807758621
     },
     "reference-count": 18,
     "publisher": "Springer Nature",
@@ -373,7 +373,7 @@
     },
     "page": "343-345",
     "source": "Crossref",
-    "is-referenced-by-count": 2164,
+    "is-referenced-by-count": 2496,
     "title": "Enzymatic assembly of DNA molecules up to several hundred kilobases",
     "prefix": "10.1038",
     "volume": "6",
@@ -499,12 +499,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          30
+          12,
+          21
         ]
       ],
-      "date-time": "2018-08-30T15:22:32Z",
-      "timestamp": 1535642552637
+      "date-time": "2018-12-21T22:22:38Z",
+      "timestamp": 1545430958840
     },
     "reference-count": 28,
     "publisher": "Springer Nature",
@@ -528,7 +528,7 @@
     },
     "page": "407-409",
     "source": "Crossref",
-    "is-referenced-by-count": 225,
+    "is-referenced-by-count": 264,
     "title": "A bright monomeric green fluorescent protein derived from Branchiostoma lanceolatum",
     "prefix": "10.1038",
     "volume": "10",
@@ -670,12 +670,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          30
+          12,
+          26
         ]
       ],
-      "date-time": "2018-08-30T09:22:28Z",
-      "timestamp": 1535620948850
+      "date-time": "2018-12-26T19:42:39Z",
+      "timestamp": 1545853359393
     },
     "reference-count": 44,
     "publisher": "Springer Nature",
@@ -728,7 +728,7 @@
     "page": "53-56",
     "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
     "source": "Crossref",
-    "is-referenced-by-count": 49,
+    "is-referenced-by-count": 68,
     "title": "mScarlet: a bright monomeric red fluorescent protein for cellular imaging",
     "prefix": "10.1038",
     "volume": "14",
@@ -884,12 +884,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          25
+          9,
+          21
         ]
       ],
-      "date-time": "2018-08-25T15:43:21Z",
-      "timestamp": 1535211801787
+      "date-time": "2018-09-21T08:02:53Z",
+      "timestamp": 1537516973318
     },
     "reference-count": 33,
     "publisher": "Wiley",
@@ -940,7 +940,7 @@
     },
     "page": "2197-2204",
     "source": "Crossref",
-    "is-referenced-by-count": 45,
+    "is-referenced-by-count": 46,
     "title": "Negatively charged amino acid residues play an active role in orienting the Sec-independent Pf3 coat protein in theEscherichia coliinner membrane",
     "prefix": "10.1002",
     "volume": "16",
@@ -1065,12 +1065,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          1
+          12,
+          13
         ]
       ],
-      "date-time": "2018-08-01T14:02:34Z",
-      "timestamp": 1533132154621
+      "date-time": "2018-12-13T18:04:08Z",
+      "timestamp": 1544724248533
     },
     "reference-count": 0,
     "publisher": "Oxford University Press (OUP)",
@@ -1101,7 +1101,7 @@
     },
     "page": "4849-4863",
     "source": "Crossref",
-    "is-referenced-by-count": 41,
+    "is-referenced-by-count": 44,
     "title": "Nucleotide sequence of the repressor gene of the TN10 tetracycline resistance determinant",
     "prefix": "10.1093",
     "volume": "12",
@@ -1180,12 +1180,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          30
+          12,
+          27
         ]
       ],
-      "date-time": "2018-08-30T01:02:28Z",
-      "timestamp": 1535590948794
+      "date-time": "2018-12-27T10:42:45Z",
+      "timestamp": 1545907365793
     },
     "reference-count": 33,
     "publisher": "American Association for the Advancement of Science (AAAS)",
@@ -1218,7 +1218,7 @@
     },
     "page": "533-538",
     "source": "Crossref",
-    "is-referenced-by-count": 922,
+    "is-referenced-by-count": 979,
     "title": "Quantifying E. coli Proteome and Transcriptome with Single-Molecule Sensitivity in Single Cells",
     "prefix": "10.1126",
     "volume": "329",
@@ -1351,12 +1351,12 @@
       "date-parts": [
         [
           2018,
-          8,
-          30
+          12,
+          25
         ]
       ],
-      "date-time": "2018-08-30T11:02:44Z",
-      "timestamp": 1535626964901
+      "date-time": "2018-12-25T01:42:39Z",
+      "timestamp": 1545702159787
     },
     "reference-count": 38,
     "publisher": "Springer Nature",
@@ -1387,7 +1387,7 @@
     },
     "page": "12",
     "source": "Crossref",
-    "is-referenced-by-count": 135,
+    "is-referenced-by-count": 155,
     "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression",
     "prefix": "10.1186",
     "volume": "5",
@@ -1493,12 +1493,12 @@
       "date-parts": [
         [
           2018,
-          5,
-          8
+          10,
+          22
         ]
       ],
-      "date-time": "2018-05-08T03:48:29Z",
-      "timestamp": 1525751309671
+      "date-time": "2018-10-22T16:13:01Z",
+      "timestamp": 1540224781287
     },
     "reference-count": 36,
     "publisher": "Public Library of Science (PLoS)",
@@ -1599,13 +1599,13 @@
     "deposited": {
       "date-parts": [
         [
-          2017,
+          2018,
           10,
-          30
+          22
         ]
       ],
-      "date-time": "2017-10-30T17:41:45Z",
-      "timestamp": 1509385305000
+      "date-time": "2018-10-22T15:40:38Z",
+      "timestamp": 1540222838000
     },
     "score": 1.0,
     "subtitle": [],
@@ -1642,15 +1642,13 @@
     },
     "URL": "https://doi.org/10.1371/journal.pone.0187259",
     "relation": {
-      "has-preprint": [
-        {
-          "id-type": "doi",
-          "id": "10.1101/192963",
-          "asserted-by": "object"
-        }
-      ],
       "cites": []
     },
+    "subject": [
+      "General Biochemistry, Genetics and Molecular Biology",
+      "General Agricultural and Biological Sciences",
+      "General Medicine"
+    ],
     "container-title-short": "PLoS ONE",
     "short_url": "https://doi.org/gcg8pf",
     "id": "RB57dahw"
@@ -1828,18 +1826,11 @@
   },
   {
     "URL": "http://parts.igem.org/Promoters/Catalog/Anderson",
-    "greycite-canonical-uri": null,
-    "title": "Promoters/Catalog/Anderson - parts.igem.org",
-    "greycite-status": "Scanned",
-    "greycite-scanned": "2018-08-31 16:44:10",
     "type": "webpage",
     "id": "ZZUG1lTS"
   },
   {
     "URL": "https://www.addgene.org/Zach_Hensel/",
-    "title": "Addgene: Zach Hensel Lab Plasmids",
-    "greycite-status": "Scanned",
-    "greycite-scanned": "2018-08-30 12:43:09",
     "type": "webpage",
     "id": "q8xLcfYV"
   }

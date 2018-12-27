@@ -1,14 +1,16 @@
 ---
 author-meta:
-- Zach Hensel
 - "Jo\xE3o Silva"
-date-meta: '2018-09-03'
+- Soraia Lopes
+- Diogo Grilo
+- Zach Hensel
+date-meta: '2018-12-27'
 keywords:
 - gene expression
 - synthetic biology
 - transcription
 lang: en-US
-title: New plasmids for low-noise gene expression in Escherichia coli
+title: Plasmids for independently tunable, low-noise gene expression
 ...
 
 
@@ -18,15 +20,36 @@ title: New plasmids for low-noise gene expression in Escherichia coli
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/b027f8358cccfa30254765886476f3e14dd0cb44/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@72dd71b](https://github.com/zach-hensel/low-noise-manuscript/tree/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63)
-on September 3, 2018.
+from [zach-hensel/low-noise-manuscript@b027f83](https://github.com/zach-hensel/low-noise-manuscript/tree/b027f8358cccfa30254765886476f3e14dd0cb44)
+on December 27, 2018.
 </em></small>
 
 ## Authors
 
 
+
++ **João Silva**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
+  <small>
+     Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+  </small>
+
++ **Soraia Lopes**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
+  <small>
+     Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+  </small>
+
++ **Diogo Grilo**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
+  <small>
+     Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+  </small>
 
 + **Zach Hensel**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
@@ -40,18 +63,11 @@ on September 3, 2018.
      · Funded by Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)
   </small>
 
-+ **João Silva**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
-  <small>
-     Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
-  </small>
-
 
 
 ## Abstract {.page_break_before}
 
-Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor, and bicistronic gene expression to reduce gene expression noise. We report several new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. This system was moved to a compatible plasmid backbone, and a system based on the lactose repressor was found to also exhibit gene expression noise below the extrinsic noise limit. We further investigated the effects of increasing repressor binding strength and the addition of a weak constitutive promoter on protein induction and expression noise.
+Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR), and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the lactose repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterized gene expression mean and noise across the range of induction levels for these strains, applied the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and showed that two plasmids can be co-transformed to independently tune expression of two different genes.
 
 ## Introduction {.page_break_before}
 

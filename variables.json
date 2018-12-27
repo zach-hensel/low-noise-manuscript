@@ -1,6 +1,39 @@
 {
-  "date": "September 3, 2018",
+  "date": "December 27, 2018",
   "authors": [
+    {
+      "name": "Jo\u00e3o Silva",
+      "initials": "JS",
+      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "affiliations": [
+        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
+      ],
+      "affiliation_numbers": [
+        1
+      ]
+    },
+    {
+      "name": "Soraia Lopes",
+      "initials": "SL",
+      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "affiliations": [
+        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
+      ],
+      "affiliation_numbers": [
+        1
+      ]
+    },
+    {
+      "name": "Diogo Grilo",
+      "initials": "DG",
+      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "affiliations": [
+        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
+      ],
+      "affiliation_numbers": [
+        1
+      ]
+    },
     {
       "github": "zach-hensel",
       "name": "Zach Hensel",
@@ -12,17 +45,6 @@
         "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
       "funders": "Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)",
-      "affiliation_numbers": [
-        1
-      ]
-    },
-    {
-      "name": "Jo\u00e3o Silva",
-      "initials": "JS",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "affiliations": [
-        "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
-      ],
       "affiliation_numbers": [
         1
       ]
@@ -38,7 +60,7 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "72dd71bcc32a473fc8c1e5e2b302de5c83d94d63"
+    "commit": "b027f8358cccfa30254765886476f3e14dd0cb44"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -47,6 +69,6 @@
       "url": 2,
       "total": 17
     },
-    "word_count": 1448
+    "word_count": 1474
   }
 }
