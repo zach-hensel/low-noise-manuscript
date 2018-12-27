@@ -4,11 +4,13 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <meta name="author" content="Zach Hensel" />
   <meta name="author" content="João Silva" />
-  <meta name="dcterms.date" content="2018-09-03" />
+  <meta name="author" content="Soraia Lopes" />
+  <meta name="author" content="Diogo Grilo" />
+  <meta name="author" content="Zach Hensel" />
+  <meta name="dcterms.date" content="2018-12-27" />
   <meta name="keywords" content="gene expression, synthetic biology, transcription" />
-  <title>New plasmids for low-noise gene expression in Escherichia coli</title>
+  <title>Plasmids for independently tunable, low-noise gene expression</title>
   <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -26,16 +28,18 @@
 </head>
 <body>
 <header>
-<h1 class="title">New plasmids for low-noise gene expression in Escherichia coli</h1>
+<h1 class="title">Plasmids for independently tunable, low-noise gene expression</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/72dd71bcc32a473fc8c1e5e2b302de5c83d94d63">zach-hensel/low-noise-manuscript@72dd71b</a> on September 3, 2018. </em></small></p>
+<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/b027f8358cccfa30254765886476f3e14dd0cb44/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/b027f8358cccfa30254765886476f3e14dd0cb44">zach-hensel/low-noise-manuscript@b027f83</a> on December 27, 2018. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
-<li><p><strong>Zach Hensel</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0002-4348-6229">0000-0002-4348-6229</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/zach-hensel">zach-hensel</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/alchemytoday">alchemytoday</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal · Funded by Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) </small></p></li>
 <li><p><strong>João Silva</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal </small></p></li>
+<li><p><strong>Soraia Lopes</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal </small></p></li>
+<li><p><strong>Diogo Grilo</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal </small></p></li>
+<li><p><strong>Zach Hensel</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0002-4348-6229">0000-0002-4348-6229</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/zach-hensel">zach-hensel</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/alchemytoday">alchemytoday</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal · Funded by Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) </small></p></li>
 </ul>
 <h2 id="abstract" class="page_break_before">Abstract</h2>
-<p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor, and bicistronic gene expression to reduce gene expression noise. We report several new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. This system was moved to a compatible plasmid backbone, and a system based on the lactose repressor was found to also exhibit gene expression noise below the extrinsic noise limit. We further investigated the effects of increasing repressor binding strength and the addition of a weak constitutive promoter on protein induction and expression noise.</p>
+<p>Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR), and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the lactose repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterized gene expression mean and noise across the range of induction levels for these strains, applied the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and showed that two plasmids can be co-transformed to independently tune expression of two different genes.</p>
 <h2 id="introduction" class="page_break_before">Introduction</h2>
 <p>We recently reported the development of a plasmid-based gene-expression system in which a gene of interest is expressed bicistronically with the tetracycline repressor (TetR) <span class="citation" data-cites="RB57dahw">[<a href="#ref-RB57dahw">1</a>]</span>. Using this gene expression system, cell-to-cell is below the “extrinsic noise limit” observed for genes expressed from the chromosome <span class="citation" data-cites="oD6kpSs3">[<a href="#ref-oD6kpSs3">2</a>]</span>. When TetR and GFP are expressed bicistronically, GFP induction and gene expression noise is similar to that observed for a TetR-GFP fusion protein with autoregulation <span class="citation" data-cites="x1Hd2npA">[<a href="#ref-x1Hd2npA">3</a>]</span>. Compared to induction of gene expression under the control of a constitutively expressed transcriptional repressor, the inducer dose-response is relatively linearized, and gene expression noise is much lower at intermediate induction levels.</p>
 <p>Why this would it be useful to do this for two different genes at the same time? Example for stoichiometric production of a protein complex Expressing genes at their native levels … e.g. for generating chromosome deletions</p>
@@ -187,7 +191,7 @@ Daniel G Gibson, Lei Young, Ray-Yuan Chuang, J Craig Venter, Clyde A Hutchison, 
 <em>Nature Methods</em> (2009-04-12) <a href="https://doi.org/10.1038/nmeth.1318" class="uri">https://doi.org/10.1038/nmeth.1318</a></p>
 </div>
 <div id="ref-q8xLcfYV">
-<p>5. <strong>Addgene: Zach Hensel Lab Plasmids</strong><a href="https://www.addgene.org/Zach_Hensel/" class="uri">https://www.addgene.org/Zach_Hensel/</a></p>
+<p>5. <a href="https://www.addgene.org/Zach_Hensel/" class="uri">https://www.addgene.org/Zach_Hensel/</a></p>
 </div>
 <div id="ref-NCWOk1rp">
 <p>6. <strong>Independent and tight regulation of transcriptional units in Escherichia coli via the LacR/O, the TetR/O and AraC/I1-I2 regulatory elements.</strong><br />
@@ -225,7 +229,7 @@ JR Sadler, H Sasmor, JL Betz<br />
 <em>Proceedings of the National Academy of Sciences of the United States of America</em> (1983-11) <a href="https://www.ncbi.nlm.nih.gov/pubmed/6316325" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/6316325</a></p>
 </div>
 <div id="ref-ZZUG1lTS">
-<p>13. <strong>Promoters/Catalog/Anderson - parts.igem.org</strong><a href="http://parts.igem.org/Promoters/Catalog/Anderson" class="uri">http://parts.igem.org/Promoters/Catalog/Anderson</a></p>
+<p>13. <a href="http://parts.igem.org/Promoters/Catalog/Anderson" class="uri">http://parts.igem.org/Promoters/Catalog/Anderson</a></p>
 </div>
 <div id="ref-cfHwILHp">
 <p>14. <strong>Spatial organization of the flow of genetic information in bacteria</strong><br />
