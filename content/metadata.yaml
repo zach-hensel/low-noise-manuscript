@@ -1,11 +1,29 @@
 ---
-title: "New plasmids for low-noise gene expression in Escherichia coli"
+title: "Plasmids for independently tunable, low-noise gene expression"
 keywords:
   - gene expression
   - synthetic biology
   - transcription
 lang: en-US
 author_info:
+  -
+    name: João Silva
+    initials: JS
+    orcid: XXXX-XXXX-XXXX-XXXX
+    affiliations:
+      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+  -
+    name: Soraia Lopes
+    initials: SL
+    orcid: XXXX-XXXX-XXXX-XXXX
+    affiliations:
+      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+  -
+    name: Diogo Grilo
+    initials: DG
+    orcid: XXXX-XXXX-XXXX-XXXX
+    affiliations:
+      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
   -
     github: zach-hensel
     name: Zach Hensel
@@ -16,9 +34,3 @@ author_info:
     affiliations:
       - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
     funders: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)
-  -
-    name: João Silva
-    initials: JS
-    orcid: XXXX-XXXX-XXXX-XXXX
-    affiliations:
-      - Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
