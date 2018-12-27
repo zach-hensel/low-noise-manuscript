@@ -60,7 +60,7 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "14fc71df64df235045f3f175976060753b9600f3"
+    "commit": "62669dab14ca79fbb802e2c4aec45ff0f30db5b2"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -69,6 +69,6 @@
       "url": 2,
       "total": 17
     },
-    "word_count": 1484
+    "word_count": 1485
   }
 }

@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/14fc71df64df235045f3f175976060753b9600f3/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/62669dab14ca79fbb802e2c4aec45ff0f30db5b2/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@14fc71d](https://github.com/zach-hensel/low-noise-manuscript/tree/14fc71df64df235045f3f175976060753b9600f3)
+from [zach-hensel/low-noise-manuscript@62669da](https://github.com/zach-hensel/low-noise-manuscript/tree/62669dab14ca79fbb802e2c4aec45ff0f30db5b2)
 on December 27, 2018.
 </em></small>
 
@@ -52,7 +52,6 @@ on December 27, 2018.
   </small>
 
 + **Zach Hensel**<br>
-    [zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
     [0000-0002-4348-6229](https://orcid.org/0000-0002-4348-6229)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
@@ -62,6 +61,7 @@ on December 27, 2018.
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
      · Funded by Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular)
+    <br>Correspondence: [zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)
   </small>
 
 
