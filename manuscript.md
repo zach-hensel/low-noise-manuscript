@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/b027f8358cccfa30254765886476f3e14dd0cb44/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/14fc71df64df235045f3f175976060753b9600f3/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@b027f83](https://github.com/zach-hensel/low-noise-manuscript/tree/b027f8358cccfa30254765886476f3e14dd0cb44)
+from [zach-hensel/low-noise-manuscript@14fc71d](https://github.com/zach-hensel/low-noise-manuscript/tree/14fc71df64df235045f3f175976060753b9600f3)
 on December 27, 2018.
 </em></small>
 
@@ -52,6 +52,7 @@ on December 27, 2018.
   </small>
 
 + **Zach Hensel**<br>
+    [zach.hensel@itqb.unl.pt](mailto:zach.hensel@itqb.unl.pt)
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
     [0000-0002-4348-6229](https://orcid.org/0000-0002-4348-6229)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
