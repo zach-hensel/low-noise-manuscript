@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/df15efb5568061431fe4dabadc5c91af98c98054/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/5d26b7d4de1ecf9d03d5baab9960ef8e638482fe/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@df15efb](https://github.com/zach-hensel/low-noise-manuscript/tree/df15efb5568061431fe4dabadc5c91af98c98054)
+from [zach-hensel/low-noise-manuscript@5d26b7d](https://github.com/zach-hensel/low-noise-manuscript/tree/5d26b7d4de1ecf9d03d5baab9960ef8e638482fe)
 on January 3, 2019.
 </em></small>
 
@@ -96,13 +96,9 @@ Plasmids were co-transformed into MG1655 by electroporation following the above 
 |----------|----------|----------|----------|----------|----------|
 | pZH501 | p15a | CI-SNAP-tag | ~LtetO-1~ | bicistronic | [@RB57dahw] |
 | pZH509 | p15a | GFPmut2 |  P~LtetO-1~ | bicistronic | [@RB57dahw] |
-| pZH520 | p15a | GFPmut2 | P~LtetO-1~ | constitutive | [@RB57dahw] |
 | pJS101 | pSC101 | GFPmut2 | P~LtetO-1~ | bicistronic | This work |
 | pJS102 | p15a | GFPmut2 | P~LlacO~ | bicistronic | This work |
-| pJS103 | p15a | GFPmut2 | P~LlacOsym~ | bicistronic | This work |
-| pJS23103 | p15a | GFPmut2 | P~LtetO-1~ | bicistronic/constitutive | This work |
-| pZH742 | pSC101 | PP7cp-mNeonGreen | P~LlacO~  | bicistronic | This work |
-| pZH740 | p15a | mScarlet-I-24xPP7sl | P~LtetO-1~  | constitutive | This work |
+| pZH713 | p15a | PP7cp-SYFP2 | P~LlacO~  | bicistronic | This work |
 
 Table: Plasmids used in this study. {#tbl:plasmidList}
 
@@ -181,7 +177,7 @@ Possible to extend to 3 genes? Possible using additional repressor, pMB1 origin 
 
 ## Author contributions
 
-JS and ZH designed experiments, performed experiments, analyzed data, and wrote the paper. ZH supervised the project.
+JS, DG and ZH designed experiments and performed experiments. JS, SL, DG, and ZH performed molecular cloning. ZH and JS analyzed data and wrote the paper. JS, SL, DG and ZH edited and approved the manuscript. ZH supervised the project.
 
 ## Acknowledgments
 
@@ -194,6 +190,6 @@ This work was financially supported by: Project LISBOA-01-0145-FEDER-007660 (Mic
 
 ## Supplementary Material {.page_break_before}
 
-![**Reproducibility of low-noise expression in 3 independent experiments.** Probability densities for each flow cytometry sample were calculated by kernel density estimates for the negative control plasmid pZH501 (orange), ZH509 (blue), pJS101 (green), and pJS102 (red) with fluorescence levels monotonically increasing with concentration of ATc (1, 5, 25, 125 nM) or IPTG (0, 2, 4.5, 10, 22.5, 50, 111.8, 250, 559, 1250). Distributions were fit by least squares regression to a gamma function (black dashed lines) to estimate sample mean and variance while minimizing the influence of non-fluorescent background events, which varied in frequency for different days and samples. ](images/FigureS1_gammaFits.png){#fig:gammaFits tag="S1" width=183mm}
+![**Reproducibility of low-noise expression in 3 independent experiments.** Probability densities for each flow cytometry sample were calculated by kernel density estimates for the negative control plasmid pZH501 (orange), ZH509 (blue), pJS101 (green), and pJS102 (red) with fluorescence levels monotonically increasing with concentration of ATc (1, 5, 25, 125 nM) or IPTG (0, 2, 4.5, 10, 22.5, 50, 111.8, 250, 559, 1250). Distributions were fit by least squares regression to a gamma function (black dashed lines) to estimate sample mean and variance while minimizing the influence of non-fluorescent background events, which varied in frequency for different days and samples. ](images/FigureS1_gammaFits.png){#fig:gammaFits tag="S1" width=89mm}
 
-**Supplementary File S2**: Raw flow cytometry data, Python scripts required to reproduce figures 1 and 2, and explanatory text files are available as a compressed archive at Zenodo.
+**Supplementary File S2**: Raw flow cytometry data, Python scripts required to reproduce Figures {@fig:pZH509-pJS101} and {@fig:pJS102-mean-noise}, DNA sequences, and explanatory text files are available as a compressed archive at Zenodo.
