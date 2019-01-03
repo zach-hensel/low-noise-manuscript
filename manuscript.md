@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/49084d1790d4e8a2abeeeb8070445e2dbcdc9861/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/dbb78c47009efb29898b749914014ff726f70b3d/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@49084d1](https://github.com/zach-hensel/low-noise-manuscript/tree/49084d1790d4e8a2abeeeb8070445e2dbcdc9861)
+from [zach-hensel/low-noise-manuscript@dbb78c4](https://github.com/zach-hensel/low-noise-manuscript/tree/dbb78c47009efb29898b749914014ff726f70b3d)
 on January 3, 2019.
 </em></small>
 
@@ -134,7 +134,7 @@ GFP expression mean and noise were characterized from low to high levels of indu
 [@S7KRThVS] paulsson summing up the noise
 [@NCWOk1rp] lutz laco1 etc
 
-![**Influence of plasmid backbone on induction of TetR expression system.** Mean single-cell GFP fluorescence for pZH509 (blue) and pJS101 (orange) plasmids as a function of ATc concentration. Error bars are 1 standard error. ](images/Fig1_pZH509_pJS101.png){#fig:pZH509-pJS101}
+![**Influence of plasmid backbone on induction of TetR expression system.** Mean single-cell GFP fluorescence for pZH509 (blue) and pJS101 (orange) plasmids as a function of ATc concentration. Error bars are 1 standard error. ](images/Fig1_pZH509_pJS101.png){#fig:pZH509-pJS101 width=89mm}
 
 ### Alternative regulatory constructs with LacI replacing TetR
 
@@ -150,7 +150,7 @@ LacI IPTG
 
 Figure {@fig:pJS102-mean-noise} shows 
 
-![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) pJS102 mean induction (**b**) mean vs noise for all strains.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise}
+![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) pJS102 mean induction (**b**) mean vs noise for all strains.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise width=183mm}
 
 ### Using the new induction system for detection of single mRNA in living *E. coli*
 
@@ -158,7 +158,7 @@ blah blah
 
 Figure {@fig:pZH713-optimization} shows 
 
-![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig3_pZH713_optimization.png){#fig:pZH713-optimization}
+![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig3_pZH713_optimization.png){#fig:pZH713-optimization width=89mm}
 
 
 ### Independent, tunable expression of two genes
@@ -171,7 +171,7 @@ Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult 
 
 Figure {@fig:pJS101-pDG101} shows 
 
-![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101}
+![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101 width=89mm}
 
 ## Discussion
 
