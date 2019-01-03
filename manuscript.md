@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/dbb78c47009efb29898b749914014ff726f70b3d/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/df15efb5568061431fe4dabadc5c91af98c98054/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@dbb78c4](https://github.com/zach-hensel/low-noise-manuscript/tree/dbb78c47009efb29898b749914014ff726f70b3d)
+from [zach-hensel/low-noise-manuscript@df15efb](https://github.com/zach-hensel/low-noise-manuscript/tree/df15efb5568061431fe4dabadc5c91af98c98054)
 on January 3, 2019.
 </em></small>
 
@@ -185,9 +185,15 @@ JS and ZH designed experiments, performed experiments, analyzed data, and wrote 
 
 ## Acknowledgments
 
-This work was financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020—Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT—Fundação para a Ciência e a Tecnologia, and through a joint research agreement with the Okinawa Institute of Science and Technology (OIST).
+This work was financially supported by: Project LISBOA-01-0145-FEDER-007660 (Microbiologia Molecular, Estrutural e Celular) funded by FEDER funds through COMPETE2020—Programa Operacional Competitividade e Internacionalização (POCI), by national funds through FCT—Fundação para a Ciência e a Tecnologia, and through a joint research agreement with the Okinawa Institute of Science and Technology (OIST). This manuscript was composed and edited using Manubot [@1GGGHdsew].
 
 ## References {.page_break_before}
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+
+## Supplementary Material {.page_break_before}
+
+![**Reproducibility of low-noise expression in 3 independent experiments.** Probability densities for each flow cytometry sample were calculated by kernel density estimates for the negative control plasmid pZH501 (orange), ZH509 (blue), pJS101 (green), and pJS102 (red) with fluorescence levels monotonically increasing with concentration of ATc (1, 5, 25, 125 nM) or IPTG (0, 2, 4.5, 10, 22.5, 50, 111.8, 250, 559, 1250). Distributions were fit by least squares regression to a gamma function (black dashed lines) to estimate sample mean and variance while minimizing the influence of non-fluorescent background events, which varied in frequency for different days and samples. ](images/FigureS1_gammaFits.png){#fig:gammaFits tag="S1" width=183mm}
+
+**Supplementary File S2**: Raw flow cytometry data, Python scripts required to reproduce figures 1 and 2, and explanatory text files are available as a compressed archive at Zenodo.
