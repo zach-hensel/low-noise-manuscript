@@ -8,7 +8,7 @@
   <meta name="author" content="Soraia Lopes" />
   <meta name="author" content="Diogo Grilo" />
   <meta name="author" content="Zach Hensel" />
-  <meta name="dcterms.date" content="2018-12-27" />
+  <meta name="dcterms.date" content="2019-01-03" />
   <meta name="keywords" content="gene expression, synthetic biology, transcription" />
   <title>Plasmids for independently tunable, low-noise gene expression</title>
   <style type="text/css">
@@ -30,7 +30,7 @@
 <header>
 <h1 class="title">Plasmids for independently tunable, low-noise gene expression</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/62669dab14ca79fbb802e2c4aec45ff0f30db5b2/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/62669dab14ca79fbb802e2c4aec45ff0f30db5b2">zach-hensel/low-noise-manuscript@62669da</a> on December 27, 2018. </em></small></p>
+<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/49084d1790d4e8a2abeeeb8070445e2dbcdc9861/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/49084d1790d4e8a2abeeeb8070445e2dbcdc9861">zach-hensel/low-noise-manuscript@49084d1</a> on January 3, 2019. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
 <li><p><strong>João Silva</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal </small></p></li>
@@ -146,20 +146,34 @@
 <p>Flow cytometry methods and data analysis methods</p>
 <h2 id="results">Results</h2>
 <h3 id="moving-bicistronic-autoregulatory-construct-to-a-compatible-plasmid-backbone">Moving bicistronic autoregulatory construct to a compatible plasmid backbone</h3>
-<p>Info and testing for pJS101</p>
-<p>Info for pJS102 / pJS103</p>
-<p>Figure 2: pZH509 vs pJS101 (a) mean(aTc), (b) noise(mean) flow cytometry</p>
-<h3 id="alternative-regulatory-constructs-with-laci-replacing-tetr">Alternative regulatory constructs with LacI replacing TetR</h3>
-<p>We hypothesized that replacing P<sub>LtetO-1</sub> with a promoter with similar characteristics and replacing TetR with a …</p>
-<p>Figure 3: pZH509 vs pJS102 vs pJS103 (a) mean(aTc), (b) noise(mean), (c) Microscope images at mid induction, (d) noise(mean) from microscope images</p>
-<h3 id="increasing-dynamic-range-with-the-addition-of-a-weak-constitutive-promoter">Increasing dynamic range with the addition of a weak constitutive promoter</h3>
+<p>The first step in creating a low-noise system for tuning expression of two genes is to establish that a previously characterized bicistronic autoregulatory circuit functions well in a compatible plasmid backbone. In this expression system, GFP and TetR are expressed bicistronically from the TetR-repressible promoter P<sub>LtetO-1</sub> and expression is induced by the addition of ATc <span class="citation" data-cites="TlAItren">[<a href="#ref-TlAItren">14</a>]</span>. This system was shown to have low noise and a linearized dose response compared to a system in which TetR is constitutively expressed. We moved the system from a plasmid with a p15A replicon conferring ampicillin resistance to a lower-copy-number plasmid with a pSC101 replicon conferring spectinomycin resistance <span class="citation" data-cites="5CRbRLYC">[<a href="#ref-5CRbRLYC">10</a>]</span>. The p15A and pSC101 replicons have been used together in multiplasmid systems <span class="citation" data-cites="15TQ1MvYV">[<a href="#ref-15TQ1MvYV">15</a>]</span>.</p>
+<p><span class="citation" data-cites="TlAItren">[<a href="#ref-TlAItren">14</a>]</span> my plosone paper <span class="citation" data-cites="15TQ1MvYV">[<a href="#ref-15TQ1MvYV">15</a>]</span> keasling biobricks</p>
+<p>GFP expression mean and noise were characterized from low to high levels of induction by flow cytometry. Figure <a href="#fig:pZH509-pJS101">1</a> shows that pJS101 induces at similar ATc concentrations as pZH509, with the change to the lower-copy pSC101 backbone resulting in a 58% drop in mean expression levels at a wide range of ATc concentrations. For a similar expression system in the absence of autoregulated TetR expression, moving the P<sub>LtetO-1</sub> promoter from a p15A to a pSC101 backbone resulted in an 87% drop in expression <span class="citation" data-cites="NCWOk1rp">[<a href="#ref-NCWOk1rp">6</a>]</span>. A smaller change is expected in our experiment since negative autoregulation will provide dosage compensation, just autoregulation can reduce noise in plasmid copy number <span class="citation" data-cites="GcRoYBF2 Qz6zNiXK S7KRThVS">[<a href="#ref-GcRoYBF2">16</a>,<a href="#ref-Qz6zNiXK">17</a>,<a href="#ref-S7KRThVS">18</a>]</span>.</p>
+<p><span class="citation" data-cites="GcRoYBF2">[<a href="#ref-GcRoYBF2">16</a>]</span> dublanche copy number variation <span class="citation" data-cites="Qz6zNiXK">[<a href="#ref-Qz6zNiXK">17</a>]</span> becskei serrano autoregulation noise <span class="citation" data-cites="S7KRThVS">[<a href="#ref-S7KRThVS">18</a>]</span> paulsson summing up the noise <span class="citation" data-cites="NCWOk1rp">[<a href="#ref-NCWOk1rp">6</a>]</span> lutz laco1 etc</p>
 <figure>
-<img src="images/WeakConstitutivePromoter.png" alt="Figure 1: (A) Mean GFP fluorescence for pJS23103, pZH509 and pZH520 as a function of ATc concentration. The additional weak, constitutive promoter for TetR in pJS23103 results in lower GFP expression at low ATc concentrations. (B) Noise (CV2) as a function of mean GFP expression for the same strains. pJS23103 retains the low gene expression noise characteristic of pZH509. Error bars in both plots are bootstrapped 95% confidence intervals from a single experiment. The mean and variance of the pZH501 strain which does not express GFP was subtracted from each sample." id="fig:weakPromoter" /><figcaption><span>Figure 1:</span> (<strong>A</strong>) Mean GFP fluorescence for pJS23103, pZH509 and pZH520 as a function of ATc concentration. The additional weak, constitutive promoter for TetR in pJS23103 results in lower GFP expression at low ATc concentrations. (<strong>B</strong>) Noise (<em>CV</em><sup>2</sup>) as a function of mean GFP expression for the same strains. pJS23103 retains the low gene expression noise characteristic of pZH509. Error bars in both plots are bootstrapped 95% confidence intervals from a single experiment. The mean and variance of the pZH501 strain which does not express GFP was subtracted from each sample.</figcaption>
+<img src="images/Fig1_pZH509_pJS101.png" alt="Figure 1: Influence of plasmid backbone on induction of TetR expression system. Mean single-cell GFP fluorescence for pZH509 (blue) and pJS101 (orange) plasmids as a function of ATc concentration. Error bars are 1 standard error." id="fig:pZH509-pJS101" /><figcaption><span>Figure 1:</span> <strong>Influence of plasmid backbone on induction of TetR expression system.</strong> Mean single-cell GFP fluorescence for pZH509 (blue) and pJS101 (orange) plasmids as a function of ATc concentration. Error bars are 1 standard error.</figcaption>
 </figure>
-<p>Figure 4: ZH509 vs pZH520 vs pJS23103 (a) mean(aTc), (b) noise(mean), (c) Microscope images at mid induction, (d) noise(mean) from microscope images</p>
-<h3 id="expression-of-two-genes-by-remixing-these-components">Expression of two genes by remixing these components</h3>
-<p>Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult to use fluorescent fusion proteins to detect single mRNAs <span class="citation" data-cites="cfHwILHp">[<a href="#ref-cfHwILHp">14</a>]</span>. We hypothesized that …</p>
-<p><span class="citation" data-cites="ne2ewtkS">[<a href="#ref-ne2ewtkS">15</a>]</span> mNeonGreen <span class="citation" data-cites="H1cK0KNl">[<a href="#ref-H1cK0KNl">16</a>]</span> mScarlet-I <span class="citation" data-cites="oLbIsF1b">[<a href="#ref-oLbIsF1b">17</a>]</span> The Pf3 coat protein is a small membrane-spanning protein with a cytoplasm-facing C terminus.</p>
+<h3 id="alternative-regulatory-constructs-with-laci-replacing-tetr">Alternative regulatory constructs with LacI replacing TetR</h3>
+<p>We hypothesized that replacing P<sub>LtetO-1</sub> with the inducible promoter P<sub>LlacO-1</sub> with similar characteristics <span class="citation" data-cites="NCWOk1rp">[<a href="#ref-NCWOk1rp">6</a>]</span> and replacing TetR with LacI might result in a similarly useful expression system that could be tuned independently. However, regulatory parameters for TetR and LacI vary wildly, with …</p>
+<p>binding constants: tetR: LacI:</p>
+<p>half induction: TetR ATc Tc LacI IPTG</p>
+<p>Figure <a href="#fig:pJS102-mean-noise">2</a> shows</p>
+<figure>
+<img src="images/Fig2_pJS102_mean_noise.png" alt="Figure 2: Characterizing mean expression levels and noise for different gene expression systems. (a) pJS102 mean induction (b) mean vs noise for all strains." id="fig:pJS102-mean-noise" /><figcaption><span>Figure 2:</span> <strong>Characterizing mean expression levels and noise for different gene expression systems.</strong> (<strong>a</strong>) pJS102 mean induction (<strong>b</strong>) mean vs noise for all strains.</figcaption>
+</figure>
+<h3 id="using-the-new-induction-system-for-detection-of-single-mrna-in-living-e.-coli">Using the new induction system for detection of single mRNA in living <em>E. coli</em></h3>
+<p>blah blah</p>
+<p>Figure <a href="#fig:pZH713-optimization">3</a> shows</p>
+<figure>
+<img src="images/Fig3_pZH713_optimization.png" alt="Figure 3: Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions. (a) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (b) Using the pJS102 expression system, an optimal range of 10–20 µM IPTG is quickly identified for single mRNA detection in minimal media." id="fig:pZH713-optimization" /><figcaption><span>Figure 3:</span> <strong>Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.</strong> (<strong>a</strong>) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (<strong>b</strong>) Using the pJS102 expression system, an optimal range of 10–20 µM IPTG is quickly identified for single mRNA detection in minimal media.</figcaption>
+</figure>
+<h3 id="independent-tunable-expression-of-two-genes">Independent, tunable expression of two genes</h3>
+<p>Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult to use fluorescent fusion proteins to detect single mRNAs <span class="citation" data-cites="cfHwILHp">[<a href="#ref-cfHwILHp">19</a>]</span>. We hypothesized that …</p>
+<p><span class="citation" data-cites="ne2ewtkS">[<a href="#ref-ne2ewtkS">20</a>]</span> mNeonGreen <span class="citation" data-cites="H1cK0KNl">[<a href="#ref-H1cK0KNl">21</a>]</span> mScarlet-I <span class="citation" data-cites="oLbIsF1b">[<a href="#ref-oLbIsF1b">22</a>]</span> The Pf3 coat protein is a small membrane-spanning protein with a cytoplasm-facing C terminus.</p>
+<p>Figure <a href="#fig:pJS101-pDG101">4</a> shows</p>
+<figure>
+<img src="images/Fig4_pJS101_pDG101.png" alt="Figure 4: Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions. (a) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (b) Using the pJS102 expression system, an optimal range of 10–20 µM IPTG is quickly identified for single mRNA detection in minimal media." id="fig:pJS101-pDG101" /><figcaption><span>Figure 4:</span> <strong>Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.</strong> (<strong>a</strong>) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (<strong>b</strong>) Using the pJS102 expression system, an optimal range of 10–20 µM IPTG is quickly identified for single mRNA detection in minimal media.</figcaption>
+</figure>
 <h2 id="discussion">Discussion</h2>
 <p>Possible to improve pJS23103 with somewhat stronger promoter?</p>
 <p>Possible to extend to 3 genes? Possible using additional repressor, pMB1 origin of replication, and different antibiotic selection.</p>
@@ -231,23 +245,48 @@ JR Sadler, H Sasmor, JL Betz<br />
 <div id="ref-ZZUG1lTS">
 <p>13. <a href="http://parts.igem.org/Promoters/Catalog/Anderson" class="uri">http://parts.igem.org/Promoters/Catalog/Anderson</a></p>
 </div>
+<div id="ref-TlAItren">
+<p>14. <strong>A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit.</strong><br />
+Zach Hensel<br />
+<em>PloS one</em> (2017-10-30) <a href="https://www.ncbi.nlm.nih.gov/pubmed/29084263" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/29084263</a></p>
+</div>
+<div id="ref-15TQ1MvYV">
+<p>15. <strong>BglBrick vectors and datasheets: A synthetic biology platform for gene expression.</strong><br />
+Taek Soon Lee, Rachel A Krupa, Fuzhong Zhang, Meghdad Hajimorad, William J Holtz, Nilu Prasad, Sung Kuk Lee, Jay D Keasling<br />
+<em>Journal of biological engineering</em> (2011-09-20) <a href="https://www.ncbi.nlm.nih.gov/pubmed/21933410" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/21933410</a></p>
+</div>
+<div id="ref-GcRoYBF2">
+<p>16. <strong>Noise in transcription negative feedback loops: simulation and experimental analysis.</strong><br />
+Yann Dublanche, Konstantinos Michalodimitrakis, Nico Kümmerer, Mathilde Foglierini, Luis Serrano<br />
+<em>Molecular systems biology</em> (2006-08-01) <a href="https://www.ncbi.nlm.nih.gov/pubmed/16883354" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/16883354</a></p>
+</div>
+<div id="ref-Qz6zNiXK">
+<p>17. <strong>Engineering stability in gene networks by autoregulation.</strong><br />
+A Becskei, L Serrano<br />
+<em>Nature</em> (2000-06-01) <a href="https://www.ncbi.nlm.nih.gov/pubmed/10850721" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/10850721</a></p>
+</div>
+<div id="ref-S7KRThVS">
+<p>18. <strong>Summing up the noise in gene networks.</strong><br />
+Johan Paulsson<br />
+<em>Nature</em> (2004-01-29) <a href="https://www.ncbi.nlm.nih.gov/pubmed/14749823" class="uri">https://www.ncbi.nlm.nih.gov/pubmed/14749823</a></p>
+</div>
 <div id="ref-cfHwILHp">
-<p>14. <strong>Spatial organization of the flow of genetic information in bacteria</strong><br />
+<p>19. <strong>Spatial organization of the flow of genetic information in bacteria</strong><br />
 Paula Montero Llopis, Audrey F. Jackson, Oleksii Sliusarenko, Ivan Surovtsev, Jennifer Heinritz, Thierry Emonet, Christine Jacobs-Wagner<br />
 <em>Nature</em> (2010-06-20) <a href="https://doi.org/10.1038/nature09152" class="uri">https://doi.org/10.1038/nature09152</a></p>
 </div>
 <div id="ref-ne2ewtkS">
-<p>15. <strong>A bright monomeric green fluorescent protein derived from Branchiostoma lanceolatum</strong><br />
+<p>20. <strong>A bright monomeric green fluorescent protein derived from Branchiostoma lanceolatum</strong><br />
 Nathan C Shaner, Gerard G Lambert, Andrew Chammas, Yuhui Ni, Paula J Cranfill, Michelle A Baird, Brittney R Sell, John R Allen, Richard N Day, Maria Israelsson, … Jiwu Wang<br />
 <em>Nature Methods</em> (2013-03-24) <a href="https://doi.org/10.1038/nmeth.2413" class="uri">https://doi.org/10.1038/nmeth.2413</a></p>
 </div>
 <div id="ref-H1cK0KNl">
-<p>16. <strong>mScarlet: a bright monomeric red fluorescent protein for cellular imaging</strong><br />
+<p>21. <strong>mScarlet: a bright monomeric red fluorescent protein for cellular imaging</strong><br />
 Daphne S Bindels, Lindsay Haarbosch, Laura van Weeren, Marten Postma, Katrin E Wiese, Marieke Mastop, Sylvain Aumonier, Guillaume Gotthard, Antoine Royant, Mark A Hink, Theodorus WJ Gadella<br />
 <em>Nature Methods</em> (2016-11-21) <a href="https://doi.org/10.1038/nmeth.4074" class="uri">https://doi.org/10.1038/nmeth.4074</a></p>
 </div>
 <div id="ref-oLbIsF1b">
-<p>17. <strong>Negatively charged amino acid residues play an active role in orienting the Sec-independent Pf3 coat protein in theEscherichia coliinner membrane</strong><br />
+<p>22. <strong>Negatively charged amino acid residues play an active role in orienting the Sec-independent Pf3 coat protein in theEscherichia coliinner membrane</strong><br />
 Dorothee Kiefer, Xintong Hu, Ross Dalbey, Andreas Kuhn<br />
 <em>The EMBO Journal</em> (1997-05-01) <a href="https://doi.org/10.1093/emboj/16.9.2197" class="uri">https://doi.org/10.1093/emboj/16.9.2197</a></p>
 </div>

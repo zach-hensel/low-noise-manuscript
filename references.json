@@ -1654,6 +1654,200 @@
     "id": "RB57dahw"
   },
   {
+    "title": "Engineering stability in gene networks by autoregulation.",
+    "volume": "405",
+    "issue": "6786",
+    "page": "590-3",
+    "container-title": "Nature",
+    "container-title-short": "Nature",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          6,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A",
+        "family": "Becskei"
+      },
+      {
+        "given": "L",
+        "family": "Serrano"
+      }
+    ],
+    "PMID": "10850721",
+    "DOI": "10.1038/35014651",
+    "abstract": "The genetic and biochemical networks which underlie such things as homeostasis in metabolism and the developmental programs of living cells, must withstand considerable variations and random perturbations of biochemical parameters. These occur as transient changes in, for example, transcription, translation, and RNA and protein degradation. The intensity and duration of these perturbations differ between cells in a population. The unique state of cells, and thus the diversity in a population, is owing to the different environmental stimuli the individual cells experience and the inherent stochastic nature of biochemical processes (for example, refs 5 and 6). It has been proposed, but not demonstrated, that autoregulatory, negative feedback loops in gene circuits provide stability, thereby limiting the range over which the concentrations of network components fluctuate. Here we have designed and constructed simple gene circuits consisting of a regulator and transcriptional repressor modules in Escherichia coli and we show the gain of stability produced by negative feedback.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/10850721",
+    "type": "article-journal",
+    "id": "Qz6zNiXK"
+  },
+  {
+    "title": "Summing up the noise in gene networks.",
+    "volume": "427",
+    "issue": "6973",
+    "page": "415-8",
+    "container-title": "Nature",
+    "container-title-short": "Nature",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          1,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Johan",
+        "family": "Paulsson"
+      }
+    ],
+    "PMID": "14749823",
+    "DOI": "10.1038/nature02257",
+    "abstract": "Random fluctuations in genetic networks are inevitable as chemical reactions are probabilistic and many genes, RNAs and proteins are present in low numbers per cell. Such 'noise' affects all life processes and has recently been measured using green fluorescent protein (GFP). Two studies show that negative feedback suppresses noise, and three others identify the sources of noise in gene expression. Here I critically analyse these studies and present a simple equation that unifies and extends both the mathematical and biological perspectives.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/14749823",
+    "type": "article-journal",
+    "id": "S7KRThVS"
+  },
+  {
+    "title": "Noise in transcription negative feedback loops: simulation and experimental analysis.",
+    "volume": "2",
+    "page": "41",
+    "container-title": "Molecular systems biology",
+    "container-title-short": "Mol. Syst. Biol.",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          8,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yann",
+        "family": "Dublanche"
+      },
+      {
+        "given": "Konstantinos",
+        "family": "Michalodimitrakis"
+      },
+      {
+        "given": "Nico",
+        "family": "Kümmerer"
+      },
+      {
+        "given": "Mathilde",
+        "family": "Foglierini"
+      },
+      {
+        "given": "Luis",
+        "family": "Serrano"
+      }
+    ],
+    "PMID": "16883354",
+    "PMCID": "PMC1681513",
+    "DOI": "10.1038/msb4100081",
+    "abstract": "Negative feedback loops have been invoked as a way to control and decrease transcriptional noise. Here, we have built three circuits to test the effect of negative feedback loops on transcriptional noise of an autoregulated gene encoding a transcription factor (TF) and a downstream gene (DG), regulated by this TF. Experimental analysis shows that self-repression decreases noise compared to expression from a non-regulated promoter. Interestingly enough, we find that noise minimization by negative feedback loop is optimal within a range of repression strength. Repression values outside this range result in noise increase producing a U-shaped behaviour. This behaviour is the result of external noise probably arising from plasmid fluctuations as shown by simulation of the network. Regarding the target gene of a self-repressed TF (sTF), we find a strong decrease of noise when repression by the sTF is strong and a higher degree of noise anti-correlation between sTF and its target. Simulations of the circuits indicate that the main source of noise in these circuits could come from plasmid variation and therefore that negative feedback loops play an important role in suppressing both external and internal noise. An important observation is that DG expression without negative feedback exhibits bimodality at intermediate TF repression values. This bimodal behaviour seems to be the result of external noise as it can only be found in those simulations that include plasmid variation.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16883354",
+    "type": "article-journal",
+    "id": "GcRoYBF2"
+  },
+  {
+    "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression.",
+    "volume": "5",
+    "page": "12",
+    "container-title": "Journal of biological engineering",
+    "container-title-short": "J Biol Eng",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Taek Soon",
+        "family": "Lee"
+      },
+      {
+        "given": "Rachel A",
+        "family": "Krupa"
+      },
+      {
+        "given": "Fuzhong",
+        "family": "Zhang"
+      },
+      {
+        "given": "Meghdad",
+        "family": "Hajimorad"
+      },
+      {
+        "given": "William J",
+        "family": "Holtz"
+      },
+      {
+        "given": "Nilu",
+        "family": "Prasad"
+      },
+      {
+        "given": "Sung Kuk",
+        "family": "Lee"
+      },
+      {
+        "given": "Jay D",
+        "family": "Keasling"
+      }
+    ],
+    "PMID": "21933410",
+    "PMCID": "PMC3189095",
+    "DOI": "10.1186/1754-1611-5-12",
+    "abstract": "As engineered biological systems become more complex, it is increasingly common to express multiple operons from different plasmids and inducible expression systems within a single host cell. Optimizing such systems often requires screening combinations of origins of replication, expression systems, and antibiotic markers. This procedure is hampered by a lack of quantitative data on how these components behave when more than one origin of replication or expression system are used simultaneously. Additionally, this process can be time consuming as it often requires the creation of new vectors or cloning into existing but disparate vectors.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/21933410",
+    "type": "article-journal",
+    "id": "15TQ1MvYV"
+  },
+  {
+    "title": "A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit.",
+    "volume": "12",
+    "issue": "10",
+    "page": "e0187259",
+    "container-title": "PloS one",
+    "container-title-short": "PLoS ONE",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zach",
+        "family": "Hensel"
+      }
+    ],
+    "PMID": "29084263",
+    "PMCID": "PMC5662224",
+    "DOI": "10.1371/journal.pone.0187259",
+    "abstract": "Experiments in synthetic biology and microbiology can benefit from protein expression systems with low cell-to-cell variability (noise) and expression levels precisely tunable across a useful dynamic range. Despite advances in understanding the molecular biology of microbial gene regulation, many experiments employ protein-expression systems exhibiting high noise and nearly all-or-none responses to induction. I present an expression system that incorporates elements known to reduce gene expression noise: negative autoregulation and bicistronic transcription. I show by stochastic simulation that while negative autoregulation can produce a more gradual response to induction, bicistronic expression of a repressor and gene of interest can be necessary to reduce noise below the extrinsic limit. I synthesized a plasmid-based system incorporating these principles and studied its properties in Escherichia coli cells, using flow cytometry and fluorescence microscopy to characterize induction dose-response, induction/repression kinetics and gene expression noise. By varying ribosome binding site strengths, expression levels from 55-10,740 molecules/cell were achieved with noise below the extrinsic limit. Individual strains are inducible across a dynamic range greater than 20-fold. Experimental comparison of different regulatory networks confirmed that bicistronic autoregulation reduces noise, and revealed unexpectedly high noise for a conventional expression system with a constitutively expressed transcriptional repressor. I suggest a hybrid, low-noise expression system to increase the dynamic range.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29084263",
+    "type": "article-journal",
+    "id": "TlAItren"
+  },
+  {
     "title": "A pSC101-derived plasmid which shows no sequence homology to other commonly used cloning vectors.",
     "volume": "31",
     "issue": "1-3",

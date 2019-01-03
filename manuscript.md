@@ -4,7 +4,7 @@ author-meta:
 - Soraia Lopes
 - Diogo Grilo
 - Zach Hensel
-date-meta: '2018-12-27'
+date-meta: '2019-01-03'
 keywords:
 - gene expression
 - synthetic biology
@@ -20,10 +20,10 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/62669dab14ca79fbb802e2c4aec45ff0f30db5b2/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/49084d1790d4e8a2abeeeb8070445e2dbcdc9861/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@62669da](https://github.com/zach-hensel/low-noise-manuscript/tree/62669dab14ca79fbb802e2c4aec45ff0f30db5b2)
-on December 27, 2018.
+from [zach-hensel/low-noise-manuscript@49084d1](https://github.com/zach-hensel/low-noise-manuscript/tree/49084d1790d4e8a2abeeeb8070445e2dbcdc9861)
+on January 3, 2019.
 </em></small>
 
 ## Authors
@@ -122,25 +122,46 @@ Flow cytometry methods and data analysis methods
 
 ### Moving bicistronic autoregulatory construct to a compatible plasmid backbone
 
-Info and testing for pJS101
+The first step in creating a low-noise system for tuning expression of two genes is to establish that a previously characterized bicistronic autoregulatory circuit functions well in a compatible plasmid backbone. In this expression system, GFP and TetR are expressed bicistronically from the TetR-repressible promoter P~LtetO-1~ and expression is induced by the addition of ATc [@TlAItren]. This system was shown to have low noise and a linearized dose response compared to a system in which TetR is constitutively expressed. We moved the system from a plasmid with a p15A replicon conferring ampicillin resistance to a lower-copy-number plasmid with a pSC101 replicon conferring spectinomycin resistance [@5CRbRLYC]. The p15A and pSC101 replicons have been used together in multiplasmid systems [@15TQ1MvYV].
 
-Info for pJS102 / pJS103
+[@TlAItren] my plosone paper
+[@15TQ1MvYV] keasling biobricks
 
-Figure 2: pZH509 vs pJS101 (a) mean(aTc),  (b) noise(mean) flow cytometry
+GFP expression mean and noise were characterized from low to high levels of induction by flow cytometry. Figure {@fig:pZH509-pJS101} shows that pJS101 induces at similar ATc concentrations as pZH509, with the change to the lower-copy pSC101 backbone resulting in a 58% drop in mean expression levels at a wide range of ATc concentrations. For a similar expression system in the absence of autoregulated TetR expression, moving the P~LtetO-1~ promoter from a p15A to a pSC101 backbone resulted in an 87% drop in expression [@NCWOk1rp]. A smaller change is expected in our experiment since negative autoregulation will provide dosage compensation, just autoregulation can reduce noise in plasmid copy number [@GcRoYBF2; @Qz6zNiXK; @S7KRThVS].
+
+[@GcRoYBF2] dublanche copy number variation
+[@Qz6zNiXK] becskei serrano autoregulation noise
+[@S7KRThVS] paulsson summing up the noise
+[@NCWOk1rp] lutz laco1 etc
+
+![**Influence of plasmid backbone on induction of TetR expression system.** Mean single-cell GFP fluorescence for pZH509 (blue) and pJS101 (orange) plasmids as a function of ATc concentration. Error bars are 1 standard error. ](images/Fig1_pZH509_pJS101.png){#fig:pZH509-pJS101}
 
 ### Alternative regulatory constructs with LacI replacing TetR
 
-We hypothesized that replacing P~LtetO-1~ with a promoter with similar characteristics and replacing TetR with a ...
+We hypothesized that replacing P~LtetO-1~ with the inducible promoter P~LlacO-1~  with similar characteristics [@NCWOk1rp] and replacing TetR with LacI might result in a similarly useful expression system that could be tuned independently. However, regulatory parameters for TetR and LacI vary wildly, with ...
 
-Figure 3: pZH509 vs pJS102 vs pJS103 (a) mean(aTc), (b) noise(mean), (c) Microscope images at mid induction, (d) noise(mean) from microscope images
+binding constants:
+tetR:
+LacI:
 
-### Increasing dynamic range with the addition of a weak constitutive promoter
+half induction:
+TetR ATc Tc
+LacI IPTG
 
-![(**A**) Mean GFP fluorescence for pJS23103, pZH509 and pZH520 as a function of ATc concentration. The additional weak, constitutive promoter for TetR in pJS23103 results in lower GFP expression at low ATc concentrations. (**B**) Noise (*CV*^2^) as a function of mean GFP expression for the same strains. pJS23103 retains the low gene expression noise characteristic of pZH509. Error bars in both plots are bootstrapped 95% confidence intervals from a single experiment. The mean and variance of the pZH501 strain which does not express GFP was subtracted from each sample.](images/WeakConstitutivePromoter.png){#fig:weakPromoter}
+Figure {@fig:pJS102-mean-noise} shows 
 
-Figure 4: ZH509 vs pZH520 vs pJS23103 (a) mean(aTc), (b) noise(mean), (c) Microscope images at mid induction, (d) noise(mean) from microscope images
+![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) pJS102 mean induction (**b**) mean vs noise for all strains.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise}
 
-### Expression of two genes by remixing these components
+### Using the new induction system for detection of single mRNA in living *E. coli*
+
+blah blah
+
+Figure {@fig:pZH713-optimization} shows 
+
+![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig3_pZH713_optimization.png){#fig:pZH713-optimization}
+
+
+### Independent, tunable expression of two genes
 
 Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult to use fluorescent fusion proteins to detect single mRNAs [@cfHwILHp]. We hypothesized that ...
 
@@ -148,6 +169,9 @@ Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult 
 [@H1cK0KNl] mScarlet-I
 [@oLbIsF1b] The Pf3 coat protein is a small membrane-spanning protein with a cytoplasm-facing C terminus.
 
+Figure {@fig:pJS101-pDG101} shows 
+
+![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101}
 
 ## Discussion
 
