@@ -1,21 +1,36 @@
 [
 {
   "type": "webpage",
-  "standard_citation": "url:https://github.com/greenelab/manubot-rootstock",
-  "URL": "https://github.com/greenelab/manubot-rootstock",
-  "title": "greenelab/manubot-rootstock GitHub repository",
-  "container-title": "GitHub",
+  "standard_citation": "url:https://greenelab.github.io/meta-review/",
+  "URL": "https://greenelab.github.io/meta-review/",
+  "title": "Open collaborative writing with Manubot",
+  "container-title": "Manubot Preprint",
   "issued": {
     "date-parts": [
       [
-        2017
+        2018
       ]
     ]
   },
   "author": [
     {
-      "given": "Daniel",
+      "given": "Daniel S.",
       "family": "Himmelstein"
+    },
+    { "given": "David R.",
+      "family": "Slochower"
+    },
+    {
+      "given": "Venkat S.",
+      "family": "Malladi"
+    },
+    {
+      "given": "Casey S.",
+      "family": "Greene"
+    },
+    {
+      "given": "Anthony",
+      "family": "Gitter"
     }
   ]
 }
