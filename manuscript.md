@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/cc0bd7faeed7c8030e3f2bfdd3ba6d50f1c5905a/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/167464f189c7163f1df17fce9f83a859ed4cd7ff/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@cc0bd7f](https://github.com/zach-hensel/low-noise-manuscript/tree/cc0bd7faeed7c8030e3f2bfdd3ba6d50f1c5905a)
+from [zach-hensel/low-noise-manuscript@167464f](https://github.com/zach-hensel/low-noise-manuscript/tree/167464f189c7163f1df17fce9f83a859ed4cd7ff)
 on January 4, 2019.
 </em></small>
 
@@ -125,7 +125,7 @@ We hypothesized that replacing P~LtetO-1~ with the inducible promoter P~LlacO-1~
 
 We first characterized induction of GFP expression in MG1655 cells harboring IPTG-inducible pJS102 by flow cytometry. **Figure {@fig:pJS102-mean-noise}a** shows an induction range of almost 2 orders of magnitude from 0 to 1250 µM IPTG, with very good reproducibility of induction levels in 3 independent experiments. Previous experiments with the TetR-based system showed a large jump in expression going from 0 nM to 0.5 nM ATc [@TlAItren]. This effect is not seen for pJS102, suggesting that switching from TetR:ATc to LacI:IPTG improves the dynamic range of achievable induction levels to a small extent.
 
-![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) pJS102 mean induction (**b**) mean vs noise for all strains.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise width=183mm}
+![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) Mean GFP expression for pJS102 with different IPTG concentrations. Zero data point is plotted separately to fit on logarithmic scale. Error bars 1 standard error. (**b**) GFP expression noise (CV^2^) as a function of mean for pJSZH509, pJS101, and pJS102. GFP mean increases monotonically with inducer concentration.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise width=183mm}
 
 Next, we compared noise in protein expression, with the concern that the *lac* operon present in the MG1655 host strain could lead to all-or-none expression at intermediate IPTG concentrations [@eUtnfAD6]. However, **Figure {@fig:pJS102-mean-noise}b** shows low noise in GFP expression at all IPTG concentrations, with noise levels comparable to pZH509 and pJS102 at the same mean GFP levels. Note that apparently high noise at very low expression is partially due to measurement noise (see Methods), and, at any rate, is much lower than noise when expression is regulated by a constitutively expressed repressor [@TlAItren]. Here, we also note that noise for pJS101, with its lower-copy-number pSC101 replicon, is lower than that for pZH509 or pJS102 at similar expression levels. This suggests that incorporating this construct into the chromosome, where copy number is more tightly regulated, may lead to a further noise reduction.
 
