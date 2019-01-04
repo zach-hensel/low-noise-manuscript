@@ -40,7 +40,6 @@
       "initials": "ZH",
       "email": "zach.hensel@itqb.unl.pt",
       "orcid": "0000-0002-4348-6229",
-      "twitter": "alchemytoday",
       "affiliations": [
         "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
@@ -60,16 +59,16 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "55dd17e2a537f6d251ec6f969f22a5cdc535e451"
+    "commit": "277ab59e178351138b27276b18a8d3ea770c60e3"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 9,
+      "doi": 8,
       "pmid": 18,
       "url": 2,
-      "total": 30
+      "total": 29
     },
-    "word_count": 2912
+    "word_count": 2939
   }
 }
