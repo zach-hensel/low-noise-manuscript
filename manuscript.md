@@ -4,7 +4,7 @@ author-meta:
 - Soraia Lopes
 - Diogo Grilo
 - Zach Hensel
-date-meta: '2019-01-03'
+date-meta: '2019-01-04'
 keywords:
 - gene expression
 - synthetic biology
@@ -20,10 +20,10 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/5d26b7d4de1ecf9d03d5baab9960ef8e638482fe/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/2f592a0b8e2beed063df1b36895b19cb23f1e211/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@5d26b7d](https://github.com/zach-hensel/low-noise-manuscript/tree/5d26b7d4de1ecf9d03d5baab9960ef8e638482fe)
-on January 3, 2019.
+from [zach-hensel/low-noise-manuscript@2f592a0](https://github.com/zach-hensel/low-noise-manuscript/tree/2f592a0b8e2beed063df1b36895b19cb23f1e211)
+on January 4, 2019.
 </em></small>
 
 ## Authors
@@ -68,43 +68,52 @@ on January 3, 2019.
 
 ## Abstract {.page_break_before}
 
-Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR), and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the lactose repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterized gene expression mean and noise across the range of induction levels for these strains, applied the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and showed that two plasmids can be co-transformed to independently tune expression of two different genes.
+Some microbiology experiments and biotechnology applications can be improved if it is possible to tune the expression of two different genes at the same time with cell-to-cell variation at or below the level of genes constitutively expressed from the chromosome (the “extrinsic noise limit”). This was recently achieved for a single gene by exploiting negative autoregulation by the tetracycline repressor (TetR) and bicistronic gene expression to reduce gene expression noise. We report new plasmids that use the same principles to achieve simultaneous, low-noise expression for two genes. The TetR system was moved to a compatible plasmid backbone, and a system based on the lactose repressor (LacI) was found to also exhibit gene expression noise below the extrinsic noise limit. We characterize gene expression mean and noise across the range of induction levels for these plasmids, apply the LacI system to tune expression for single-molecule mRNA detection in two different growth conditions, and show that two plasmids can be co-transformed to independently tune expression of two different genes.
 
 ## Introduction {.page_break_before}
 
-We recently reported the development of a plasmid-based gene-expression system in which a gene of interest is expressed bicistronically with the tetracycline repressor (TetR) [@RB57dahw]. Using this gene expression system, cell-to-cell is below the “extrinsic noise limit” observed for genes expressed from the chromosome [@oD6kpSs3]. When TetR and GFP are expressed bicistronically, GFP induction and gene expression noise is similar to that observed for a TetR-GFP fusion protein with autoregulation [@x1Hd2npA]. Compared to induction of gene expression under the control of a constitutively expressed transcriptional repressor, the inducer dose-response is relatively linearized, and gene expression noise is much lower at intermediate induction levels.
+We recently reported the development of a plasmid-based gene-expression system in which a gene of interest is expressed bicistronically with the tetracycline repressor (TetR) [@RB57dahw]. Using this gene expression system, cell-to-cell variation is below the “extrinsic noise limit” (coefficient of variation squared of protein concentration, $CV^2 \approx 0.1$) observed for genes expressed from the chromosome [@oD6kpSs3]. When TetR and GFP are expressed bicistronically, GFP induction and gene expression noise is similar to that observed for a TetR-GFP fusion protein with autoregulation [@x1Hd2npA]. Compared to induction of gene expression under the control of a constitutively expressed transcriptional repressor, the inducer dose-response is relatively linearized, and gene expression noise is much lower at intermediate induction levels [@RB57dahw].
 
-Why this would it be useful to do this for two different genes at the same time?
-Example for stoichiometric production of a protein complex
-Expressing genes at their native levels … e.g. for generating chromosome deletions
-
-Figure 1: Regulatory constructs used in this study. (a) pZH509, (b) pJS102, (c) pJS103, (d) pJS23103
+Our recent experiments in mRNA detection and other single-molecule experiments in living *E. coli* cells sometimes require the tunable expression of two different genes, both with low noise levels. For example, adopting a recently reported mRNA detection systems based on local enrichment of fluorescent RNA-binding proteins [@82diXnad] for use in *E. coli* requires lower noise in protein production relative to the same system in *S. cerevisiae*, because of a smaller cell volume and the inability to sequester unbound protein in the nucleus. At the same time, tunable expression with low noise in the level of the target RNA is desired to make it possible to characterize the accuracy of RNA detection over a range of RNA levels. We hoped that expressing both the target RNA and RNA-binding fluorescent protein on two plasmids that could be tuned independently would simplify and accelerate development of new RNA-detection systems in *E. coli*. Achieving this was a three-step process: first, characterizing the TetR-based system on a compatible plasmid backbone; second, establishing an orthogonal, low-noise expression system based on the *lac* repressor (LacI); and third, showing that the two systems can be tuned independently.
 
 ## Methods 
 
 ### Strain construction
 
-All plasmids were constructed using isothermal assembly [@dc6GAnhL] of fragments generated by PCR or double stranded DNA synthesis (IDT) and transformed Top10 E. coli cells (IBA #5-1600-020). Transformants were screened by colony PCR and verified by sequencing. Sequence maps are included as supplementary files and plasmids will be made available at AddGene after deposit and screening [@q8xLcfYV]. Purified plasmids were transformed into E. coli strain MG1655 by growing 2 mL of culture in SOB media at 37 C to OD600=0.4, washing twice with 1 mL ice-cold water, resuspending in 40 µL water, electroporation of 1–10 ng plasmid with the EC1 setting of a Micropulser (BioRad), and recovering for 1 hour at 37 C in SOC media.
+All plasmids were constructed using isothermal assembly [@dc6GAnhL] of fragments generated by PCR or double stranded DNA synthesis (IDT, Coralville) and transformed Top10 E. coli cells (5-1600-020, IBA Life Sciences, Göttingen). Transformants were screened by colony PCR and verified by sequencing. Purified plasmids were transformed into *E. coli* strain MG1655 by growing 3 mL of culture in SOB media at 30 °C to OD600=0.4, washing twice with 1 mL ice-cold water, resuspending in 40 µL water, electroporating 1-–10 ng plasmid with the EC1 setting of a Micropulser (Bio-Rad Laboratories, Hercules), and recovering for 1 hour at 37 °C in SOC media before plating on selective LB-agar.
 
-To generate pJS101 with a compatible backbone, plasmid pZH509 [@RB57dahw] was used as a template to amplify the bicistronic regulatory construct including the P~LtetO-1~ promoter [@NCWOk1rp], GFPmut2 [@13TJF2gcl], tn10 TetR [@Q1a7tU8] and rrnB T1 transcription terminator [@xjKSoV9v]. This was assembled by isothermal assembly with the backbone from pGB2 [@5CRbRLYC] with the pSC101 origin of replication and spectinomycin resistance to generate plasmid pJS101. Plasmids with the pSC101 and p15a origins of replication have been co-transformed in previous synthetic biology experiments [@fyyCRa8e].
+To generate pJS101 with a compatible backbone, plasmid pZH509 [@RB57dahw] was used as a template to amplify the bicistronic regulatory construct including the P~LtetO-1~ promoter [@NCWOk1rp], GFPmut2 [@13TJF2gcl], tn10 TetR [@Q1a7tU8] and rrnB T1 transcription terminator [@xjKSoV9v]. This was assembled by isothermal assembly with the backbone from pGB2 [@5CRbRLYC] with the pSC101 origin of replication and spectinomycin resistance to generate plasmid pJS101. Plasmid pJS102 was generated by 3-fragment isothermal assembly. Plasmid pZH509 was used as a template both for the vector backbone and for GFPmut2, with non-homologous extensions added to PCR primers to generate the P~LlacO-1~ promoter. LacI was amplified from *E. coli* MG1655 by colony PCR.
 
-Plasmids pJS102 and pJS103 were generated by 3-fragment isothermal assembly. Plasmid pZH509 was used as a template both for the vector backbone and for GFPmut2, with non-homologous extensions added to PCR primers to generate the P~LlacO~ and P~LlacOsym~ promoters. Promoter P~LlacOsym~ lacks the central G–C base pair in P~LlacO~ LacI binding sites, which are symmetrical [@swicCLW1] except that the second *lacOsym* sequence has one base changed to maintain the P~LlacO~ promoter –10 sequence. LacI was amplified from *E. coli* MG1655 by colony PCR. Plasmid pJS23103 was made by isothermal assembly of an inverse PCR product of pZH509, with non-homologous primer extensions adding the weak, constitutive BBa_J23103 promoter between GFPmut2 and TetR [@ZZUG1lTS].
+The test strain for mRNA imaging, ZHX99, was constructed similar to ZHX222 in recent work [@A1kNMUKB]. Similarly, in ZHX99 a construct in which a fusion protein of mVenus and Cro is expressed from the bacteriophage λ promoter *P~R~* was integrated into the chromosome to replace the *lac* operon in MG1655 [@RBKXt78E]. ZHX99 differs from ZHX222 in three ways. First, the *P~R~* promoter was weakened by site-directed mutagenesis to produce a strain with lower mRNA levels. Second, a very strong ribosome binding site was added (RBS #136 [@pzTydEMA]). Lastly, 24 tandem repeats of the recognition sequence for the PP7 coat protein were inserted between the open reading frame and transcription terminator (amplified by PCR from pDZ251 [@1GFLV3s4q]). The pZH713 plasmid for mRNA detection was constructed by replacing GFPmut2 in pJS102 with a fusion protein of SYFP2 (amplified from a plasmid [@XuRR8Zmt]) and the PP7 coat protein (PP7cp) (generated by codon optimization and DNA synthesis based on previously reported sequences [@EObeLKJ1]). Additionally, in pZH713 the PP7cp-SYFP2 fusion protein is translated from the weak ribosome binding site from pZH511 [@TlAItren].
 
-Plasmids were co-transformed into MG1655 by electroporation following the above protocol, except with 1 µL each undiluted plasmid (~20–40 ng) and selecting on plates with both spectinomycin and carbenicillin.
+To test independent induction of two genes, GFPmut2 in pJS102 was replaced by mScarlet-I (amplified from a plasmid [@zj8Ydkzo]) to make pDG101. Plasmids were co-transformed into MG1655 by electroporation following the above protocol, except with 1 µL each undiluted plasmid (~20–-40 ng) and selecting on LB-agar plates with both spectinomycin and carbenicillin. Sequence maps are included in supplementary file and plasmids useful for constructing additionally 2-gene expression systems (pJS101 and pJS102, **Table {@tbl:plasmidList}**) are available at AddGene (deposit numbers 118280 and 118281) and have been verified by NGS [@q8xLcfYV].
 
 | Plasmid | Ori | Promoter | GOI | Repressor Expression | Reference |
 |----------|----------|----------|----------|----------|----------|
 | pZH501 | p15a | CI-SNAP-tag | ~LtetO-1~ | bicistronic | [@RB57dahw] |
 | pZH509 | p15a | GFPmut2 |  P~LtetO-1~ | bicistronic | [@RB57dahw] |
 | pJS101 | pSC101 | GFPmut2 | P~LtetO-1~ | bicistronic | This work |
-| pJS102 | p15a | GFPmut2 | P~LlacO~ | bicistronic | This work |
-| pZH713 | p15a | PP7cp-SYFP2 | P~LlacO~  | bicistronic | This work |
+| pJS102 | p15a | GFPmut2 | P~LlacO-1~ | bicistronic | This work |
+| pZH713 | p15a | PP7cp-SYFP2 | P~LlacO-1~  | bicistronic | This work |
+| pDG101 | p15a | mScarlet-I | P~LlacO-1~  | bicistronic | This work |
 
 Table: Plasmids used in this study. {#tbl:plasmidList}
 
-### Cell Growth
+### Characterization of GFP expression by flow cytometry
 
-Cells were grown in overnight cultures at 32 C in M9 minimal media supplemented with 1% SOB media, 50 µg/mL carbenicillin or 50 µg/mL spectinomycin. The next day, cells were diluted 1:100 or more (if multiple experiments were to be done sequentially over several hours) in the same media supplemented with anhydrotetracycline. In this growth condition, doubling time was approximately 30 minutes for MG1655 strains harboring these plasmids.
+All flow cytometry experiment were repeated 3 times on different days and used plasmids transformed by electroporation into *E. coli* MG1655. Cultures were grown overnight at 30 °C from LB-agar plates supplemented with carbenicillin or spectinomycin (both at 50 $\frac{\mu g}{mL}$) in 1 mL EZ Rich Defined Medium (M2105, Teknova, Hollister) supplemented with the same antibiotics. Cells were reinoculated 1:400 in 1 mL of the same media supplemented with Isopropyl β-D-1-thiogalactopyranoside (IPTG, at concentrations of 0, 2, 4.5, 10, 22.4, 50, 111.8, 250, 559, and 1250 µM) or anhydrotetrycline (ATc, at concentrations of 1, 5, 25, and 125 nM) as indicated and grown at 30 °C for 4--4.5 hours until reaching an optical density at 600 nm of 0.2--0.3. Next, 10 µL of cells were added to 1 mL of PBS at pH 7.4 and examined by flow cytometry.
+
+Flow cytometry data was collected on an S3e cell sorter (Bio-Rad, Hercules) using a target flow rate of 2,000 counts/s and collecting 30,000 counts for each sample. A 488-nm laser line was used for excitation and its maximum power setting with amplification settings of 450 (forward scattering, FSC), 350 (side scattering, SSC), and 900 (FL1, 525/30 nm). The cell sorter is calibrated daily for a linear response to sample fluorescence intensity. Acquisition was triggered by forward scattering with a threshold of 3. Data was exported as an FCS file and imported into a custom Python script using FlowCal [@J6PWaBUu]. Following previous methods [@RB57dahw], one third of samples were selected based on proximity to the peak of FSC-AREA and SSC-HEIGHT in a 2D histogram using the density2d method in FlowCal. The FL1-AREA measurements were used to estimate the mean and variance of GFP distributions for all samples. This was done by estimating the probability density functions in bins distributed equally in logarithmic space and fitting by least squares minimization to a gamma function. We found that this method reduced the influence of low-FL1-AREA events that escaped other gating steps, and which had frequencies that varied for different samples and days (**Figure {@fig:gammaFits}**). In all plots, the mean fluorescence of a strain harboring a similar plasmid, pZH501, that does not encode a fluorescent protein, was subtracted [@RB57dahw].
+
+We note that side scattering was weakly correlated with fluorescence, and thus with cell size, so this gating modestly reduces measured noise in FL1-AREA. However, we are comparing to an "extrinsic noise limit" determined from measurements of cell fluorescence divided by cell area [@oD6kpSs3], which effectively does the same thing. In practice, we observed slightly lower noise measurements for GFP concentration in fluorescence microscopy images compared to total GFP fluorescence in the gated flow cytometry sample for similarly induced strains. This difference was more significant for very-low-expression conditions, and noise in conditions where GFP fluorescence distributions significantly overlap with ungated background events (GFP intensity less than 10^4^ in **Figure {@fig:gammaFits}**) is somewhat overestimated. The script for data analysis as well as all raw FCS data is available in **Supplementary File S2** and utilized modules from SciPy, NumPy, Matplotlib, and Pandas.
+
+### Microscopy
+
+For microscopy, cells were grown similarly to the protocol for flow cytometry. Differences for mRNA imaging were that cells were grown in M9 media supplemented with 1X MEM Amino Acids (M9A) or M9A additionally supplemented with 1% SOB media. Cells were imaged on agarose gel pads (3% BP165-25, Fisher Bio-Reagents) diluted in M9A (for mRNA imaging) or PBS (for two-plasmid imaging). For mRNA imaging, the microscope sample chamber was maintained at 30 °C. All imaging was done on a Leica DMI6000 inverted microscope using illumination from a Leica EL6000 source, fluorescence filter cubes (Leica GFP ET, a custom filter set with Semrock filters FF01-561/13, FF02-616/73, and DI02-R561, or the Semrock LF514-B filter set), a 100x/1.46 a-plan apochromat oil immersion objective, and an Evolve 512 EM-CCD camera (Photometrics). Images were prepared using Fiji [@1Xy8hvPg], with linear scaling and maintaining minimum and maximum intensity values for all comparable images.
+
+### SM-FISH
+
+Cells were grown in overnight cultures at 32 °C in M9 minimal media supplemented with 1% SOB media, 50 µg/mL carbenicillin or 50 µg/mL spectinomycin. The next day, cells were diluted 1:100 or more (if multiple experiments were to be done sequentially over several hours) in the same media supplemented with anhydrotetracycline. In this growth condition, doubling time was approximately 30 minutes for MG1655 strains harboring these plasmids.
 
 ### Microscopy
 
@@ -123,7 +132,7 @@ The first step in creating a low-noise system for tuning expression of two genes
 [@TlAItren] my plosone paper
 [@15TQ1MvYV] keasling biobricks
 
-GFP expression mean and noise were characterized from low to high levels of induction by flow cytometry. Figure {@fig:pZH509-pJS101} shows that pJS101 induces at similar ATc concentrations as pZH509, with the change to the lower-copy pSC101 backbone resulting in a 58% drop in mean expression levels at a wide range of ATc concentrations. For a similar expression system in the absence of autoregulated TetR expression, moving the P~LtetO-1~ promoter from a p15A to a pSC101 backbone resulted in an 87% drop in expression [@NCWOk1rp]. A smaller change is expected in our experiment since negative autoregulation will provide dosage compensation, just autoregulation can reduce noise in plasmid copy number [@GcRoYBF2; @Qz6zNiXK; @S7KRThVS].
+GFP expression mean and noise were characterized from low to high levels of induction by flow cytometry. **Figure {@fig:pZH509-pJS101}** shows that pJS101 induces at similar ATc concentrations as pZH509, with the change to the lower-copy pSC101 backbone resulting in a 58% drop in mean expression levels at a wide range of ATc concentrations. For a similar expression system in the absence of autoregulated TetR expression, moving the P~LtetO-1~ promoter from a p15A to a pSC101 backbone resulted in an 87% drop in expression [@NCWOk1rp]. A smaller change is expected in our experiment since negative autoregulation will provide dosage compensation, just autoregulation can reduce noise in plasmid copy number [@GcRoYBF2; @Qz6zNiXK; @S7KRThVS].
 
 [@GcRoYBF2] dublanche copy number variation
 [@Qz6zNiXK] becskei serrano autoregulation noise
@@ -144,7 +153,9 @@ half induction:
 TetR ATc Tc
 LacI IPTG
 
-Figure {@fig:pJS102-mean-noise} shows 
+**Figure {@fig:pJS102-mean-noise}** shows 
+
+Note that MG1655 has the full *lac* operon, and that we have seen that the system works well in the presence and absence of the *lac* operon (MG1655/pJS102 vs ZHX99/pZH713)
 
 ![**Characterizing mean expression levels and noise for different gene expression systems.** (**a**) pJS102 mean induction (**b**) mean vs noise for all strains.](images/Fig2_pJS102_mean_noise.png){#fig:pJS102-mean-noise width=183mm}
 
@@ -152,7 +163,7 @@ Figure {@fig:pJS102-mean-noise} shows
 
 blah blah
 
-Figure {@fig:pZH713-optimization} shows 
+**Figure {@fig:pZH713-optimization}** shows 
 
 ![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig3_pZH713_optimization.png){#fig:pZH713-optimization width=89mm}
 
@@ -165,15 +176,22 @@ Aggregation of mRNA-binding proteins from RNA bacteriophages makes it difficult 
 [@H1cK0KNl] mScarlet-I
 [@oLbIsF1b] The Pf3 coat protein is a small membrane-spanning protein with a cytoplasm-facing C terminus.
 
-Figure {@fig:pJS101-pDG101} shows 
+**Figure {@fig:pJS101-pDG101}** shows 
 
 ![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101 width=89mm}
 
 ## Discussion
 
+We expect that the expression plasmids introduced here will be widely useful for applications in molecular biology. Adopting these systems for use with any 
+
 Possible to improve pJS23103 with somewhat stronger promoter?
 
 Possible to extend to 3 genes? Possible using additional repressor, pMB1 origin of replication, and different antibiotic selection.
+
+
+Why this would it be useful to do this for two different genes at the same time?
+Example for stoichiometric production of a protein complex
+Expressing genes at their native levels … e.g. for generating chromosome deletions
 
 ## Author contributions
 

@@ -1,5 +1,33 @@
 [
   {
+    "arxiv_id": "1506.08596v1",
+    "version": "1",
+    "URL": "https://arxiv.org/abs/1506.08596v1",
+    "title": "Cell-cycle-synchronized, oscillatory expression of a negatively\n  autoregulated gene in E. coli",
+    "issued": {
+      "date-parts": [
+        [
+          "2015",
+          "06",
+          "29"
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Zach Hensel"
+      },
+      {
+        "literal": "Tatiana T. Marquez-Lago"
+      }
+    ],
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "abstract": "Engineering genetic networks to be both predictable and robust is a key\nchallenge in synthetic biology. Synthetic circuits must reliably function in\ndynamic, stochastic and heterogeneous environments, and simple circuits can be\nstudied to refine complex gene-regulation models. Although robust behaviours\nsuch as genetic oscillators have been designed and implemented in prokaryotic\nand eukaryotic organisms, a priori genetic engineering of even simple networks\nremains difficult, and many aspects of cell and molecular biology critical to\nengineering robust networks are still inadequately characterized. Particularly,\nperiodic processes such as gene doubling and cell division are rarely\nconsidered in gene regulatory models, which may become more important as\nsynthetic biologists utilize new tools for chromosome integration. We studied a\nchromosome-integrated, negative-feedback circuit based upon the bacteriophage\n{\\lambda} transcriptional repressor Cro and observed strong, feedback-dependent\noscillations in single-cell time traces. This finding was surprising due to a\nlack of cooperativity, long delays or fast protein degradation. We further show\nthat oscillations are synchronized to the cell cycle by gene duplication, with\nphase shifts predictably correlating with estimated gene doubling times.\nFurthermore, we characterized the influence of negative feedback on the\nmagnitude and dynamics of noise in gene expression. Our results show that\ncell-cycle effects must be accounted for in accurate, predictive models for\neven simple gene circuits. Cell-cycle-periodic expression of {\\lambda} Cro also\nsuggests an explanation for cell-size dependence in lysis probability and an\nevolutionary basis for site-specific {\\lambda} integration.",
+    "type": "report",
+    "id": "A1kNMUKB"
+  },
+  {
     "indexed": {
       "date-parts": [
         [
@@ -1351,148 +1379,6 @@
       "date-parts": [
         [
           2018,
-          12,
-          25
-        ]
-      ],
-      "date-time": "2018-12-25T01:42:39Z",
-      "timestamp": 1545702159787
-    },
-    "reference-count": 38,
-    "publisher": "Springer Nature",
-    "issue": "1",
-    "content-domain": {
-      "domain": [],
-      "crossmark-restriction": false
-    },
-    "published-print": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
-    "DOI": "10.1186/1754-1611-5-12",
-    "type": "article-journal",
-    "created": {
-      "date-parts": [
-        [
-          2011,
-          9,
-          20
-        ]
-      ],
-      "date-time": "2011-09-20T18:44:00Z",
-      "timestamp": 1316544240000
-    },
-    "page": "12",
-    "source": "Crossref",
-    "is-referenced-by-count": 155,
-    "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression",
-    "prefix": "10.1186",
-    "volume": "5",
-    "author": [
-      {
-        "given": "Taek",
-        "family": "Lee",
-        "sequence": "first",
-        "affiliation": []
-      },
-      {
-        "given": "Rachel A",
-        "family": "Krupa",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "Fuzhong",
-        "family": "Zhang",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "Meghdad",
-        "family": "Hajimorad",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "William J",
-        "family": "Holtz",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "Nilu",
-        "family": "Prasad",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "Sung",
-        "family": "Lee",
-        "sequence": "additional",
-        "affiliation": []
-      },
-      {
-        "given": "Jay D",
-        "family": "Keasling",
-        "sequence": "additional",
-        "affiliation": []
-      }
-    ],
-    "member": "297",
-    "container-title": "Journal of Biological Engineering",
-    "original-title": [],
-    "language": "en",
-    "deposited": {
-      "date-parts": [
-        [
-          2016,
-          5,
-          16
-        ]
-      ],
-      "date-time": "2016-05-16T17:28:01Z",
-      "timestamp": 1463419681000
-    },
-    "score": 1.0,
-    "subtitle": [],
-    "short-title": [],
-    "issued": {
-      "date-parts": [
-        [
-          2011
-        ]
-      ]
-    },
-    "references-count": 38,
-    "journal-issue": {
-      "published-print": {
-        "date-parts": [
-          [
-            2011
-          ]
-        ]
-      },
-      "issue": "1"
-    },
-    "alternative-id": [
-      "1754-1611-5-12"
-    ],
-    "URL": "https://doi.org/10.1186/1754-1611-5-12",
-    "relation": {
-      "cites": []
-    },
-    "container-title-short": "J Biol Eng",
-    "short_url": "https://doi.org/dvqf88",
-    "id": "fyyCRa8e"
-  },
-  {
-    "indexed": {
-      "date-parts": [
-        [
-          2018,
           10,
           22
         ]
@@ -1654,6 +1540,40 @@
     "id": "RB57dahw"
   },
   {
+    "title": "One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products.",
+    "volume": "97",
+    "issue": "12",
+    "page": "6640-5",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          6,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "K A",
+        "family": "Datsenko"
+      },
+      {
+        "given": "B L",
+        "family": "Wanner"
+      }
+    ],
+    "PMID": "10829079",
+    "PMCID": "PMC18686",
+    "DOI": "10.1073/pnas.120163297",
+    "abstract": "We have developed a simple and highly efficient method to disrupt chromosomal genes in Escherichia coli in which PCR primers provide the homology to the targeted gene(s). In this procedure, recombination requires the phage lambda Red recombinase, which is synthesized under the control of an inducible promoter on an easily curable, low copy number plasmid. To demonstrate the utility of this approach, we generated PCR products by using primers with 36- to 50-nt extensions that are homologous to regions adjacent to the gene to be inactivated and template plasmids carrying antibiotic resistance genes that are flanked by FRT (FLP recognition target) sites. By using the respective PCR products, we made 13 different disruptions of chromosomal genes. Mutants of the arcB, cyaA, lacZYA, ompR-envZ, phnR, pstB, pstCA, pstS, pstSCAB-phoU, recA, and torSTRCAD genes or operons were isolated as antibiotic-resistant colonies after the introduction into bacteria carrying a Red expression plasmid of synthetic (PCR-generated) DNA. The resistance genes were then eliminated by using a helper plasmid encoding the FLP recombinase which is also easily curable. This procedure should be widely useful, especially in genome analysis of E. coli and other bacteria because the procedure can be done in wild-type cells.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/10829079",
+    "type": "article-journal",
+    "id": "RBKXt78E"
+  },
+  {
     "title": "Engineering stability in gene networks by autoregulation.",
     "volume": "405",
     "issue": "6786",
@@ -1716,6 +1636,47 @@
     "id": "S7KRThVS"
   },
   {
+    "title": "Cyan and yellow super fluorescent proteins with improved brightness, protein folding, and FRET Förster radius.",
+    "volume": "45",
+    "issue": "21",
+    "page": "6570-80",
+    "container-title": "Biochemistry",
+    "container-title-short": "Biochemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Gert-Jan",
+        "family": "Kremers"
+      },
+      {
+        "given": "Joachim",
+        "family": "Goedhart"
+      },
+      {
+        "given": "Erik B",
+        "family": "van Munster"
+      },
+      {
+        "given": "Theodorus W J",
+        "family": "Gadella"
+      }
+    ],
+    "PMID": "16716067",
+    "DOI": "10.1021/bi0516273",
+    "abstract": "Enhanced cyan and yellow fluorescent proteins are widely used for dual color imaging and protein-protein interaction studies based on fluorescence resonance energy transfer. Use of these fluorescent proteins can be limited by their thermosensitivity, dim fluorescence, and tendency for aggregation. Here we report the results of a site-directed mutagenesis approach to improve these fluorescent proteins. We created monomeric optimized variants of ECFP and EYFP, which fold faster and more efficiently at 37 degrees C and have superior solubility and brightness. Bacteria expressing SCFP3A were 9-fold brighter than those expressing ECFP and 1.2-fold brighter than bacteria expressing Cerulean. SCFP3A has an increased quantum yield (0.56) and fluorescence lifetime. Bacteria expressing SYFP2 were 12 times brighter than those expressing EYFP(Q69K) and almost 2-fold brighter than bacteria expressing Venus. In HeLa cells, the improvements were less pronounced; nonetheless, cells expressing SCFP3A and SYFP2 were both 1.5-fold brighter than cells expressing ECFP and EYFP(Q69K), respectively. The enhancements of SCFP3A and SYFP2 are most probably due to an increased intrinsic brightness (1.7-fold and 1.3-fold for purified recombinant proteins, compared to ECFP & EYFP(Q69K), respectively) and due to enhanced protein folding and maturation. The latter enhancements most significantly contribute to the increased fluorescent yield in bacteria whereas they appear less significant for mammalian cell systems. SCFP3A and SYFP2 make a superior donor-acceptor pair for fluorescence resonance energy transfer, because of the high quantum yield and increased lifetime of SCFP3A and the high extinction coefficient of SYFP2. Furthermore, SCFP1, a CFP variant with a short fluorescence lifetime but identical spectra compared to ECFP and SCFP3A, was characterized. Using the large lifetime difference between SCFP1 and SCFP3A enabled us to perform for the first time dual-lifetime imaging of spectrally identical fluorescent species in living cells.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16716067",
+    "type": "article-journal",
+    "id": "XuRR8Zmt"
+  },
+  {
     "title": "Noise in transcription negative feedback loops: simulation and experimental analysis.",
     "volume": "2",
     "page": "41",
@@ -1759,6 +1720,52 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16883354",
     "type": "article-journal",
     "id": "GcRoYBF2"
+  },
+  {
+    "title": "Real-time observation of transcription initiation and elongation on an endogenous yeast gene.",
+    "volume": "332",
+    "issue": "6028",
+    "page": "475-8",
+    "container-title": "Science (New York, N.Y.)",
+    "container-title-short": "Science",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          22
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Daniel R",
+        "family": "Larson"
+      },
+      {
+        "given": "Daniel",
+        "family": "Zenklusen"
+      },
+      {
+        "given": "Bin",
+        "family": "Wu"
+      },
+      {
+        "given": "Jeffrey A",
+        "family": "Chao"
+      },
+      {
+        "given": "Robert H",
+        "family": "Singer"
+      }
+    ],
+    "PMID": "21512033",
+    "PMCID": "PMC3152976",
+    "DOI": "10.1126/science.1202142",
+    "abstract": "Cellular messenger RNA levels are achieved by the combinatorial complexity of factors controlling transcription, yet the small number of molecules involved in these pathways fluctuates stochastically. It has not yet been experimentally possible to observe the activity of single polymerases on an endogenous gene to elucidate how these events occur in vivo. Here, we describe a method of fluctuation analysis of fluorescently labeled RNA to measure dynamics of nascent RNA--including initiation, elongation, and termination--at an active yeast locus. We find no transcriptional memory between initiation events, and elongation speed can vary by threefold throughout the cell cycle. By measuring the abundance and intranuclear mobility of an upstream transcription factor, we observe that the gene firing rate is directly determined by trans-activating factor search times.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/21512033",
+    "type": "article-journal",
+    "id": "1GFLV3s4q"
   },
   {
     "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression.",
@@ -1818,6 +1825,272 @@
     "id": "15TQ1MvYV"
   },
   {
+    "title": "Fluorescence fluctuation spectroscopy enables quantitative imaging of single mRNAs in living cells.",
+    "volume": "102",
+    "issue": "12",
+    "page": "2936-44",
+    "container-title": "Biophysical journal",
+    "container-title-short": "Biophys. J.",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Bin",
+        "family": "Wu"
+      },
+      {
+        "given": "Jeffrey A",
+        "family": "Chao"
+      },
+      {
+        "given": "Robert H",
+        "family": "Singer"
+      }
+    ],
+    "PMID": "22735544",
+    "PMCID": "PMC3379624",
+    "DOI": "10.1016/j.bpj.2012.05.017",
+    "abstract": "Imaging mRNA with single-molecule sensitivity in live cells has become an indispensable tool for quantitatively studying RNA biology. The MS2 system has been extensively used due to its unique simplicity and sensitivity. However, the levels of the coat protein needed for consistent labeling of mRNAs limits the sensitivity and quantitation of this technology. Here, we applied fluorescence fluctuation spectroscopy to quantitatively characterize and enhance the MS2 system. Surprisingly, we found that a high fluorescence background resulted from inefficient dimerization of fluorescent protein (FP)-labeled MS2 coat protein (MCP). To mitigate this problem, we used a single-chain tandem dimer of MCP (tdMCP) that significantly increased the uniformity and sensitivity of mRNA labeling. Furthermore, we characterized the PP7 coat protein and the binding to its respective RNA stem loop. We conclude that the PP7 system performs better for RNA labeling. Finally, we used these improvements to study endogenous β-actin mRNA, which has 24xMS2 binding sites inserted into the 3' untranslated region. The tdMCP-FP allowed uniform RNA labeling and provided quantitative measurements of endogenous mRNA concentration and diffusion. This work provides a foundation for quantitative spectroscopy and imaging of single mRNAs directly in live cells.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/22735544",
+    "type": "article-journal",
+    "id": "EObeLKJ1"
+  },
+  {
+    "title": "Fiji: an open-source platform for biological-image analysis.",
+    "volume": "9",
+    "issue": "7",
+    "page": "676-82",
+    "container-title": "Nature methods",
+    "container-title-short": "Nat. Methods",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          28
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Johannes",
+        "family": "Schindelin"
+      },
+      {
+        "given": "Ignacio",
+        "family": "Arganda-Carreras"
+      },
+      {
+        "given": "Erwin",
+        "family": "Frise"
+      },
+      {
+        "given": "Verena",
+        "family": "Kaynig"
+      },
+      {
+        "given": "Mark",
+        "family": "Longair"
+      },
+      {
+        "given": "Tobias",
+        "family": "Pietzsch"
+      },
+      {
+        "given": "Stephan",
+        "family": "Preibisch"
+      },
+      {
+        "given": "Curtis",
+        "family": "Rueden"
+      },
+      {
+        "given": "Stephan",
+        "family": "Saalfeld"
+      },
+      {
+        "given": "Benjamin",
+        "family": "Schmid"
+      },
+      {
+        "given": "Jean-Yves",
+        "family": "Tinevez"
+      },
+      {
+        "given": "Daniel James",
+        "family": "White"
+      },
+      {
+        "given": "Volker",
+        "family": "Hartenstein"
+      },
+      {
+        "given": "Kevin",
+        "family": "Eliceiri"
+      },
+      {
+        "given": "Pavel",
+        "family": "Tomancak"
+      },
+      {
+        "given": "Albert",
+        "family": "Cardona"
+      }
+    ],
+    "PMID": "22743772",
+    "PMCID": "PMC3855844",
+    "DOI": "10.1038/nmeth.2019",
+    "abstract": "Fiji is a distribution of the popular open-source software ImageJ focused on biological-image analysis. Fiji uses modern software engineering practices to combine powerful software libraries with a broad range of scripting languages to enable rapid prototyping of image-processing algorithms. Fiji facilitates the transformation of new algorithms into ImageJ plugins that can be shared with end users through an integrated update system. We propose Fiji as a platform for productive collaboration between computer science and biology research communities.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/22743772",
+    "type": "article-journal",
+    "id": "1Xy8hvPg"
+  },
+  {
+    "title": "Translation rate is controlled by coupled trade-offs between site accessibility, selective RNA unfolding and sliding at upstream standby sites.",
+    "volume": "42",
+    "issue": "4",
+    "page": "2646-59",
+    "container-title": "Nucleic acids research",
+    "container-title-short": "Nucleic Acids Res.",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Amin",
+        "family": "Espah Borujeni"
+      },
+      {
+        "given": "Anirudh S",
+        "family": "Channarasappa"
+      },
+      {
+        "given": "Howard M",
+        "family": "Salis"
+      }
+    ],
+    "PMID": "24234441",
+    "PMCID": "PMC3936740",
+    "DOI": "10.1093/nar/gkt1139",
+    "abstract": "The ribosome's interactions with mRNA govern its translation rate and the effects of post-transcriptional regulation. Long, structured 5' untranslated regions (5' UTRs) are commonly found in bacterial mRNAs, though the physical mechanisms that determine how the ribosome binds these upstream regions remain poorly defined. Here, we systematically investigate the ribosome's interactions with structured standby sites, upstream of Shine-Dalgarno sequences, and show that these interactions can modulate translation initiation rates by over 100-fold. We find that an mRNA's translation initiation rate is controlled by the amount of single-stranded surface area, the partial unfolding of RNA structures to minimize the ribosome's binding free energy penalty, the absence of cooperative binding and the potential for ribosomal sliding. We develop a biophysical model employing thermodynamic first principles and a four-parameter free energy model to accurately predict the ribosome's translation initiation rates for 136 synthetic 5' UTRs with large structures, diverse shapes and multiple standby site modules. The model predicts and experiments confirm that the ribosome can readily bind distant standby site modules that support high translation rates, providing a physical mechanism for observed context effects and long-range post-transcriptional regulation. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/24234441",
+    "type": "article-journal",
+    "id": "pzTydEMA"
+  },
+  {
+    "title": "FlowCal: A User-Friendly, Open Source Software Tool for Automatically Converting Flow Cytometry Data from Arbitrary to Calibrated Units.",
+    "volume": "5",
+    "issue": "7",
+    "page": "774-80",
+    "container-title": "ACS synthetic biology",
+    "container-title-short": "ACS Synth Biol",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Sebastian M",
+        "family": "Castillo-Hair"
+      },
+      {
+        "given": "John T",
+        "family": "Sexton"
+      },
+      {
+        "given": "Brian P",
+        "family": "Landry"
+      },
+      {
+        "given": "Evan J",
+        "family": "Olson"
+      },
+      {
+        "given": "Oleg A",
+        "family": "Igoshin"
+      },
+      {
+        "given": "Jeffrey J",
+        "family": "Tabor"
+      }
+    ],
+    "PMID": "27110723",
+    "PMCID": "PMC5556937",
+    "DOI": "10.1021/acssynbio.5b00284",
+    "abstract": "Flow cytometry is widely used to measure gene expression and other molecular biological processes with single cell resolution via fluorescent probes. Flow cytometers output data in arbitrary units (a.u.) that vary with the probe, instrument, and settings. Arbitrary units can be converted to the calibrated unit molecules of equivalent fluorophore (MEF) using commercially available calibration particles. However, there is no convenient, nonproprietary tool available to perform this calibration. Consequently, most researchers report data in a.u., limiting interpretation. Here, we report a software tool named FlowCal to overcome current limitations. FlowCal can be run using an intuitive Microsoft Excel interface, or customizable Python scripts. The software accepts Flow Cytometry Standard (FCS) files as inputs and is compatible with different calibration particles, fluorescent probes, and cell types. Additionally, FlowCal automatically gates data, calculates common statistics, and produces publication quality plots. We validate FlowCal by calibrating a.u. measurements of E. coli expressing superfolder GFP (sfGFP) collected at 10 different detector sensitivity (gain) settings to a single MEF value. Additionally, we reduce day-to-day variability in replicate E. coli sfGFP expression measurements due to instrument drift by 33%, and calibrate S. cerevisiae Venus expression data to MEF units. Finally, we demonstrate a simple method for using FlowCal to calibrate fluorescence units across different cytometers. FlowCal should ease the quantitative analysis of flow cytometry data within and across laboratories and facilitate the adoption of standard fluorescence units in synthetic biology and beyond.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/27110723",
+    "type": "article-journal",
+    "id": "J6PWaBUu"
+  },
+  {
+    "title": "Characterization of a spectrally diverse set of fluorescent proteins as FRET acceptors for mTurquoise2.",
+    "volume": "7",
+    "issue": "1",
+    "page": "11999",
+    "container-title": "Scientific reports",
+    "container-title-short": "Sci Rep",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Marieke",
+        "family": "Mastop"
+      },
+      {
+        "given": "Daphne S",
+        "family": "Bindels"
+      },
+      {
+        "given": "Nathan C",
+        "family": "Shaner"
+      },
+      {
+        "given": "Marten",
+        "family": "Postma"
+      },
+      {
+        "given": "Theodorus W J",
+        "family": "Gadella"
+      },
+      {
+        "given": "Joachim",
+        "family": "Goedhart"
+      }
+    ],
+    "PMID": "28931898",
+    "PMCID": "PMC5607329",
+    "DOI": "10.1038/s41598-017-12212-x",
+    "abstract": "The performance of Förster Resonance Energy Transfer (FRET) biosensors depends on brightness and photostability, which are dependent on the characteristics of the fluorescent proteins that are employed. Yellow fluorescent protein (YFP) is often used as an acceptor but YFP is prone to photobleaching and pH changes. In this study, we evaluated the properties of a diverse set of acceptor fluorescent proteins in combination with the optimized CFP variant mTurquoise2 as the donor. To determine the theoretical performance of acceptors, the Förster radius was determined. The practical performance was determined by measuring FRET efficiency and photostability of tandem fusion proteins in mammalian cells. Our results show that mNeonGreen is the most efficient acceptor for mTurquoise2 and that the photostability is better than SYFP2. The non-fluorescent YFP variant sREACh is an efficient acceptor, which is useful in lifetime-based FRET experiments. Among the orange and red fluorescent proteins, mCherry and mScarlet-I are the best performing acceptors. Several new pairs were applied in a multimolecular FRET based sensor for detecting activation of a heterotrimeric G-protein by G-protein coupled receptors. Overall, the sensor with mNeonGreen as acceptor and mTurquoise2 as donor showed the highest dynamic range in ratiometric FRET imaging experiments with the G-protein sensor.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/28931898",
+    "type": "article-journal",
+    "id": "zj8Ydkzo"
+  },
+  {
     "title": "A plasmid-based Escherichia coli gene expression system with cell-to-cell variation below the extrinsic noise limit.",
     "volume": "12",
     "issue": "10",
@@ -1846,6 +2119,56 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29084263",
     "type": "article-journal",
     "id": "TlAItren"
+  },
+  {
+    "title": "An improved MS2 system for accurate reporting of the mRNA life cycle.",
+    "volume": "15",
+    "issue": "1",
+    "page": "81-89",
+    "container-title": "Nature methods",
+    "container-title-short": "Nat. Methods",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Evelina",
+        "family": "Tutucci"
+      },
+      {
+        "given": "Maria",
+        "family": "Vera"
+      },
+      {
+        "given": "Jeetayu",
+        "family": "Biswas"
+      },
+      {
+        "given": "Jennifer",
+        "family": "Garcia"
+      },
+      {
+        "given": "Roy",
+        "family": "Parker"
+      },
+      {
+        "given": "Robert H",
+        "family": "Singer"
+      }
+    ],
+    "PMID": "29131164",
+    "PMCID": "PMC5843578",
+    "DOI": "10.1038/nmeth.4502",
+    "abstract": "The MS2-MCP system enables researchers to image multiple steps of the mRNA life cycle with high temporal and spatial resolution. However, for short-lived mRNAs, the tight binding of the MS2 coat protein (MCP) to the MS2 binding sites (MBS) protects the RNA from being efficiently degraded, and this confounds the study of mRNA regulation. Here, we describe a reporter system (MBSV6) with reduced affinity for the MCP, which allows mRNA degradation while preserving single-molecule detection determined by single-molecule FISH (smFISH) or live imaging. Constitutive mRNAs (MDN1 and DOA1) and highly-regulated mRNAs (GAL1 and ASH1) endogenously tagged with MBSV6 in Saccharomyces cerevisiae degrade normally. As a result, short-lived mRNAs were imaged throughout their complete life cycle. The MBSV6 reporter revealed that, in contrast to previous findings, coordinated recruitment of mRNAs at specialized structures such as P-bodies during stress did not occur, and mRNA degradation was heterogeneously distributed in the cytoplasm.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29131164",
+    "type": "article-journal",
+    "id": "82diXnad"
   },
   {
     "title": "A pSC101-derived plasmid which shows no sequence homology to other commonly used cloning vectors.",
@@ -1881,42 +2204,6 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/6098521",
     "type": "article-journal",
     "id": "5CRbRLYC"
-  },
-  {
-    "title": "A perfectly symmetric lac operator binds the lac repressor very tightly.",
-    "volume": "80",
-    "issue": "22",
-    "page": "6785-9",
-    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
-    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
-    "issued": {
-      "date-parts": [
-        [
-          1983,
-          11
-        ]
-      ]
-    },
-    "author": [
-      {
-        "given": "J R",
-        "family": "Sadler"
-      },
-      {
-        "given": "H",
-        "family": "Sasmor"
-      },
-      {
-        "given": "J L",
-        "family": "Betz"
-      }
-    ],
-    "PMID": "6316325",
-    "PMCID": "PMC390070",
-    "abstract": "A completely symmetric DNA segment has been constructed that binds the lactose repressor of Escherichia coli 10-fold more tightly than does the natural lactose operator sequence. This tight-binding operator is an inverted repeat of a 15-base-pair segment from the left half of the natural operator sequence, the inversion being about the point indicated by the arrow shown below: (sequence in text) where the upper sequence is the natural operator and the lower sequence is the symmetric operator. The increased affinity of repressor for this symmetric sequence supports the idea that the tetrameric repressor is designed for a two-module binding to DNA, presumably via two (or two pairs) of its identical subunits. The natural operator is apparently \"flawed\" by \"incorrect\" base pairs in the right operator half and by an \"incorrect\" spacing between the operator halves with respect to maximal repressor binding.",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/6316325",
-    "type": "article-journal",
-    "id": "swicCLW1"
   },
   {
     "title": "FACS-optimized mutants of the green fluorescent protein (GFP).",
@@ -2019,11 +2306,6 @@
     "id": "NCWOk1rp"
   },
   {
-    "URL": "http://parts.igem.org/Promoters/Catalog/Anderson",
-    "type": "webpage",
-    "id": "ZZUG1lTS"
-  },
-  {
     "type": "webpage",
     "URL": "https://greenelab.github.io/meta-review/",
     "title": "Open collaborative writing with Manubot",
@@ -2060,8 +2342,27 @@
     "id": "1GGGHdsew"
   },
   {
-    "URL": "https://www.addgene.org/Zach_Hensel/",
     "type": "webpage",
+    "URL": "https://www.addgene.org/Zach_Hensel/",
+    "title": "Zach Hensel Lab Plasmids",
+    "container-title": "AddGene",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Zach",
+        "family": "Hensel"
+      },
+      {
+        "given": "João",
+        "family": "Silva"
+      }
+    ],
     "id": "q8xLcfYV"
   }
 ]
