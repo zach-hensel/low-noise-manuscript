@@ -34,4 +34,27 @@
     }
   ]
 }
+{
+  "type": "webpage",
+  "standard_citation": "url:https://www.addgene.org/Zach_Hensel/,
+  "URL": "https://www.addgene.org/Zach_Hensel/",
+  "title": "Zach Hensel Lab Plasmids",
+  "container-title": "AddGene"",
+  "issued": {
+    "date-parts": [
+      [
+        2019
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Zach",
+      "family": "Hensel"
+    },
+    { "given": "João",
+      "family": "Silva"
+    }
+  ]
+}
 ]
