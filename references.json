@@ -1469,6 +1469,64 @@
     "id": "J6PWaBUu"
   },
   {
+    "title": "Comparative Single-Cell Analysis of Different E. coli Expression Systems during Microfluidic Cultivation.",
+    "volume": "11",
+    "issue": "8",
+    "page": "e0160711",
+    "container-title": "PloS one",
+    "container-title-short": "PLoS ONE",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Dennis",
+        "family": "Binder"
+      },
+      {
+        "given": "Christopher",
+        "family": "Probst"
+      },
+      {
+        "given": "Alexander",
+        "family": "Grünberger"
+      },
+      {
+        "given": "Fabienne",
+        "family": "Hilgers"
+      },
+      {
+        "given": "Anita",
+        "family": "Loeschcke"
+      },
+      {
+        "given": "Karl-Erich",
+        "family": "Jaeger"
+      },
+      {
+        "given": "Dietrich",
+        "family": "Kohlheyer"
+      },
+      {
+        "given": "Thomas",
+        "family": "Drepper"
+      }
+    ],
+    "PMID": "27525986",
+    "PMCID": "PMC4985164",
+    "DOI": "10.1371/journal.pone.0160711",
+    "abstract": "Recombinant protein production is mostly realized with large-scale cultivations and monitored at the level of the entire population. Detailed knowledge of cell-to-cell variations with respect to cellular growth and product formation is limited, even though phenotypic heterogeneity may distinctly hamper overall production yields, especially for toxic or difficult-to-express proteins. Unraveling phenotypic heterogeneity is thus a key aspect in understanding and optimizing recombinant protein production in biotechnology and synthetic biology. Here, microfluidic single-cell analysis serves as the method of choice to investigate and unmask population heterogeneities in a dynamic and spatiotemporal fashion. In this study, we report on comparative microfluidic single-cell analyses of commonly used E. coli expression systems to uncover system-inherent specifications in the synthetic M9CA growth medium. To this end, the PT7lac/LacI, the PBAD/AraC and the Pm/XylS system were systematically analyzed in order to gain detailed insights into variations of growth behavior and expression phenotypes and thus to uncover individual strengths and deficiencies at the single-cell level. Specifically, we evaluated the impact of different system-specific inducers, inducer concentrations as well as genetic modifications that affect inducer-uptake and regulation of target gene expression on responsiveness and phenotypic heterogeneity. Interestingly, the most frequently applied expression system based on E. coli strain BL21(DE3) clearly fell behind with respect to expression homogeneity and robustness of growth. Moreover, both the choice of inducer and the presence of inducer uptake systems proved crucial for phenotypic heterogeneity. Conclusively, microfluidic evaluation of different inducible E. coli expression systems and setups identified the modified lacY-deficient PT7lac/LacI as well as the Pm/XylS system with conventional m-toluic acid induction as key players for precise and robust triggering of bacterial gene expression in E. coli in a homogeneous fashion. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/27525986",
+    "type": "article-journal",
+    "id": "5dC8qsZ9"
+  },
+  {
     "title": "Characterization of a spectrally diverse set of fluorescent proteins as FRET acceptors for mTurquoise2.",
     "volume": "7",
     "issue": "1",
@@ -1597,6 +1655,39 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29131164",
     "type": "article-journal",
     "id": "82diXnad"
+  },
+  {
+    "title": "Production of Protein-Complex Components Is Stoichiometric and Lacks General Feedback Regulation in Eukaryotes.",
+    "volume": "7",
+    "issue": "6",
+    "page": "580-589.e4",
+    "container-title": "Cell systems",
+    "container-title-short": "Cell Syst",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "James C",
+        "family": "Taggart"
+      },
+      {
+        "given": "Gene-Wei",
+        "family": "Li"
+      }
+    ],
+    "PMID": "30553725",
+    "DOI": "10.1016/j.cels.2018.11.003",
+    "abstract": "Constituents of multiprotein complexes are required at well-defined levels relative to each other. However, it remains unknown whether eukaryotic cells typically produce precise amounts of subunits, or instead rely on degradation to mitigate imprecise production. Here, we quantified the production rates of multiprotein complexes in unicellular and multicellular eukaryotes using ribosome profiling. By resolving read-mapping ambiguities, which occur for a large fraction of ribosome footprints and distort quantitation accuracy in eukaryotes, we found that obligate components of multiprotein complexes are produced in proportion to their stoichiometry, indicating that their abundances are already precisely tuned at the synthesis level. By systematically interrogating the impact of gene dosage variations in budding yeast, we found a general lack of negative feedback regulation protecting the normally precise rates of subunit synthesis. These results reveal a core principle of proteome homeostasis and highlight the evolution toward quantitative control at every step in the central dogma.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/30553725",
+    "type": "article-journal",
+    "id": "12aHdKu6v"
   },
   {
     "title": "A pSC101-derived plasmid which shows no sequence homology to other commonly used cloning vectors.",

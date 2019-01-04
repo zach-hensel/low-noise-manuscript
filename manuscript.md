@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/96ac25fbdafa0e594ffe38b84b21ab03275cd938/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/cc0bd7faeed7c8030e3f2bfdd3ba6d50f1c5905a/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@96ac25f](https://github.com/zach-hensel/low-noise-manuscript/tree/96ac25fbdafa0e594ffe38b84b21ab03275cd938)
+from [zach-hensel/low-noise-manuscript@cc0bd7f](https://github.com/zach-hensel/low-noise-manuscript/tree/cc0bd7faeed7c8030e3f2bfdd3ba6d50f1c5905a)
 on January 4, 2019.
 </em></small>
 
@@ -139,27 +139,17 @@ Lastly, we note that the strain used for mRNA imaging has its entire *lac* opero
 
 ![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) PP7cp-SYFP2 is induced with 100 µM IPTG to detect single mVenus-Cro mRNA molecules in supplemented media and minimal media conditions; in minimal media there is too high a PP7cp-SYFP expression level to see single mRNA spots above background. Scale bar 4 µm. (**b**) Using the pJS102 expression system, an optimal range of 10—20 µM IPTG is quickly identified for single mRNA detection in minimal media. Scale bar 2 µM.](images/Fig3_pZH713_optimization.png){#fig:pZH713-optimization width=89mm}
 
-
 ### Independent, tunable expression of two genes
 
+Lastly, we tested whether ATc-inducible and IPTG-inducible plasmids could be combined to achieve low-noise expression of two genes into the same cell. We replaced GFPmut2 in pJS102 with the fast-maturing RFP mScarlet-I [@zj8Ydkzo] to create the plasmid pDG101. This plasmid was co-transformed with pJS101 into *E. coli* MG1655 and green and red fluorescence were compared at different combinations of ATc and IPTG concentrations. **Figure {@fig:pJS101-pDG101}a** shows that pJS101 induction by ATc was unaffected by pDG101 induction by IPTG, and that all conditions gave low noise in GFP concentration. **Figure {@fig:pJS101-pDG101}b** shows that mScarlet-I expression from pDG101 was similarly unaffected by the level of pJS101 induction by ATc. Thus, independent, tunable expression of two genes can be achieved by replacing GFPmut2 in pJS101 and pJS102 with other genes of interest and co-transforming the plasmids into *E. coli*.
 
-
-**Figure {@fig:pJS101-pDG101}** shows 
-
-![**Using IPTG to tune expression of a fluorescent RNA-binding protein for single mRNA detection in different growth conditions.** (**a**) 100 µM IPTG works well in rich media conditions, but has too high an expression level to see single mRNA spots above background in minimal media conditions. (**b**) Using the pJS102 expression system, an optimal range of 10--20 µM IPTG is quickly identified for single mRNA detection in minimal media.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101 width=89mm}
+![**Independence of induction of TetR and LacI systems.** MG1655 cells harboring pJS101 (ATc-inducible expression of GFP) and pDG101 (IPTG-inducible expression of mScarlet-I) were grown with different combinations of IPTG and ATc concentrations. (**a**) GFP fluorescence shows no influence of IPTG on ATc-induced expression of GFP. (**b**) No influence of ATc on IPTG-induced expression of mScarlet-I. Scale bar 3 µm.](images/Fig4_pJS101_pDG101.png){#fig:pJS101-pDG101 width=89mm}
 
 ## Discussion
 
-We expect that the expression plasmids introduced here will be widely useful for applications in molecular biology. Adopting these systems for use with any 
+We expect that the expression plasmids introduced here will be useful for diverse applications in molecular biology. Expression and purification of heteromeric protein complexes could be improved by stoichiometric production of their components, mimicking proportional synthesis in natural systems [@12aHdKu6v]. Additionally, low-noise expression can improve protein production yields [@5dC8qsZ9]. These systems could also be used in synthetic biology applications where yields can be improved by sequential induction of different components with low cell-to-cell variability. The capacity for low-noise expression at very low expression levels makes them particularly promising for single-molecule imaging experiments or for recombinant expression of low-copy-number components with low cell-to-cell variation to reproduce chromosomal expression levels.
 
-Possible to improve pJS23103 with somewhat stronger promoter?
-
-Possible to extend to 3 genes? Possible using additional repressor, pMB1 origin of replication, and different antibiotic selection.
-
-
-Why this would it be useful to do this for two different genes at the same time?
-Example for stoichiometric production of a protein complex
-Expressing genes at their native levels … e.g. for generating chromosome deletions
+Using modern molecular cloning techniques, it is simple to replace GFPmut2 in pJS101 and pJS102 with genes of interest. The apparent insensitivity of this circuit to regulatory parameters (DNA and inducer binding affinities) suggests that it can be easily extended to a third repressor-based expression system. Further, additional ribosome binding sites can be added to the bicistronic operon to express additional components.
 
 ## Author contributions
 
