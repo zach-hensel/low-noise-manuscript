@@ -1,0 +1,3 @@
+### SM-FISH
+
+Cells were grown in overnight cultures at 32 °C in M9 minimal media supplemented with 1% SOB media, 50 µg/mL carbenicillin or 50 µg/mL spectinomycin. The next day, cells were diluted 1:100 or more (if multiple experiments were to be done sequentially over several hours) in the same media supplemented with anhydrotetracycline. In this growth condition, doubling time was approximately 30 minutes for MG1655 strains harboring these plasmids.
