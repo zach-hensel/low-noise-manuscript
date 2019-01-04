@@ -1442,6 +1442,46 @@
     "id": "Qz6zNiXK"
   },
   {
+    "title": "Tet repressor induction without Mg2+.",
+    "volume": "39",
+    "issue": "35",
+    "page": "10914-20",
+    "container-title": "Biochemistry",
+    "container-title-short": "Biochemistry",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          9,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "O",
+        "family": "Scholz"
+      },
+      {
+        "given": "P",
+        "family": "Schubert"
+      },
+      {
+        "given": "M",
+        "family": "Kintrup"
+      },
+      {
+        "given": "W",
+        "family": "Hillen"
+      }
+    ],
+    "PMID": "10978179",
+    "abstract": "We have examined anhydrotetracycline (atc) binding to Tet repressor (TetR) in dependence of the Mg(2+) concentration. Of all tc compounds tested so far, atc has the highest affinity for TetR, with a K(A) of 9.8 x 10(11) M(-1) in the presence of Mg(2+) and 6.5 x 10(7) M(-1) without Mg(2+). Thus, it binds TetR with 500-fold higher affinity than tc under both conditions. The Mg(2+)-free binding of atc to TetR leads to induction in vitro, demonstrating that the metal is not necessary to trigger the associated conformational change. To obtain more detailed information about Mg(2+)-free induction, we constructed and prepared to homogeneity four single-alanine substitution mutants of TetR. Three of them affect residues involved in contacting Mg(2+) (TetR H100A, E147A, and T103A), and one altered residue contacts tc TetR N82A. TetR H100A and E147A are induced by atc, with and without Mg(2+), showing 110-fold and 1000-fold decreased Mg(2+)-dependent and unchanged Mg(2+)-independent atc binding, respectively. Thus, the contacts of these residues to Mg(2+) are not necessary for induction. TetR N82A is not inducible under any of the conditions employed and shows an about 4000-fold decreased atc binding constant. The Mg(2+)-dependent affinity of TetR T103A for atc is only 400-fold reduced, but no induction with atc was observed. Thus, Thr103 must be essential for the conformational change associated with induction in the absence of Mg(2+).",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/10978179",
+    "type": "article-journal",
+    "id": "Ls5d7x4o"
+  },
+  {
     "title": "Summing up the noise in gene networks.",
     "volume": "427",
     "issue": "6973",
@@ -1469,6 +1509,149 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/14749823",
     "type": "article-journal",
     "id": "S7KRThVS"
+  },
+  {
+    "title": "Two mutations in the tetracycline repressor change the inducer anhydrotetracycline to a corepressor.",
+    "volume": "32",
+    "issue": "2",
+    "page": "842-7",
+    "container-title": "Nucleic acids research",
+    "container-title-short": "Nucleic Acids Res.",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          2,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Annette",
+        "family": "Kamionka"
+      },
+      {
+        "given": "Joanna",
+        "family": "Bogdanska-Urbaniak"
+      },
+      {
+        "given": "Oliver",
+        "family": "Scholz"
+      },
+      {
+        "given": "Wolfgang",
+        "family": "Hillen"
+      }
+    ],
+    "PMID": "14764926",
+    "PMCID": "PMC373327",
+    "DOI": "10.1093/nar/gkh200",
+    "abstract": "We report for the first time the in vitro characterization of a reverse tetracycline repressor (revTetR). The dimeric wild-type repressor (TetR) binds to tet operator tetO in the absence of the inducer anhydrotetracycline (atc) to confer tight repression. We have isolated the revTetR G96E L205S mutant, which, contrary to TetR, binds tetO only in the presence of atc. This reverse acting mutant was overproduced and purified. Effector and DNA binding properties were analyzed by EMSA and quantified by fluorescence titration and surface plasmon resonance. The association constant K(A) of revTetR for binding of [atcMg](+) is approximately 10(8) M(-1), four orders of magnitude lower than that of TetR. The affinity of TetR for tetO is 5.6 +/- 2 x 10(9) M(-1) and that for revTetR in the presence of atc is 1 +/- 0.2 x 10(8) M(-1). Both induced forms, the atc-bound TetR and the free revTetR, have the same low affinity of 4 +/- 1 x 10(5) M(-1) for DNA. Therefore, atc does not act as a dimerization agent for revTetR. We discuss the structural differences between TetR and revTetR potentially underlying this reversal of activity.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/14764926",
+    "type": "article-journal",
+    "id": "cpANz6cV"
+  },
+  {
+    "title": "Induction of the lac promoter in the absence of DNA loops and the stoichiometry of induction.",
+    "volume": "34",
+    "issue": "2",
+    "page": "606-12",
+    "container-title": "Nucleic acids research",
+    "container-title-short": "Nucleic Acids Res.",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Stefan",
+        "family": "Oehler"
+      },
+      {
+        "given": "Siegfried",
+        "family": "Alberti"
+      },
+      {
+        "given": "Benno",
+        "family": "Müller-Hill"
+      }
+    ],
+    "PMID": "16432263",
+    "PMCID": "PMC1345695",
+    "DOI": "10.1093/nar/gkj453",
+    "abstract": "In vivo induction of the Escherichia coli lactose operon as a function of inducer concentration generates a sigmoidal curve, indicating a non-linear response. Suggested explanations for this dependence include a 2:1 inducer-repressor stoichiometry of induction, which is the currently accepted view. It is, however, known for decades that, in vitro, operator binding as a function of inducer concentration is not sigmoidal. This discrepancy between in vivo and in vitro data has so far not been resolved. We demonstrate that the in vivo non-linearity of induction is due to cooperative repression of the wild-type lac operon through DNA loop formation. In the absence of DNA loops, in vivo induction curves are hyperbolic. In the light of this result, we re-address the question of functional molecular inducer-repressor stoichiometry in induction of the lac operon.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16432263",
+    "type": "article-journal",
+    "id": "WxFVKQqb"
+  },
+  {
+    "title": "ENZYME INDUCTION AS AN ALL-OR-NONE PHENOMENON.",
+    "volume": "43",
+    "issue": "7",
+    "page": "553-66",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "issued": {
+      "date-parts": [
+        [
+          1957,
+          7,
+          15
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "A",
+        "family": "Novick"
+      },
+      {
+        "given": "M",
+        "family": "Weiner"
+      }
+    ],
+    "PMID": "16590055",
+    "PMCID": "PMC528498",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16590055",
+    "type": "article-journal",
+    "id": "eUtnfAD6"
+  },
+  {
+    "title": "Isolation of the lac repressor.",
+    "volume": "56",
+    "issue": "6",
+    "page": "1891-8",
+    "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "issued": {
+      "date-parts": [
+        [
+          1966,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "W",
+        "family": "Gilbert"
+      },
+      {
+        "given": "B",
+        "family": "Müller-Hill"
+      }
+    ],
+    "PMID": "16591435",
+    "PMCID": "PMC220206",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16591435",
+    "type": "article-journal",
+    "id": "YoMCfbca"
   },
   {
     "title": "Cyan and yellow super fluorescent proteins with improved brightness, protein folding, and FRET Förster radius.",
@@ -1601,6 +1784,46 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/21512033",
     "type": "article-journal",
     "id": "1GFLV3s4q"
+  },
+  {
+    "title": "The three operators of the lac operon cooperate in repression.",
+    "volume": "9",
+    "issue": "4",
+    "page": "973-9",
+    "container-title": "The EMBO journal",
+    "container-title-short": "EMBO J.",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "S",
+        "family": "Oehler"
+      },
+      {
+        "given": "E R",
+        "family": "Eismann"
+      },
+      {
+        "given": "H",
+        "family": "Krämer"
+      },
+      {
+        "given": "B",
+        "family": "Müller-Hill"
+      }
+    ],
+    "PMID": "2182324",
+    "PMCID": "PMC551766",
+    "abstract": "We tested the effect of systematic destruction of all three lac operators of the chromosomal lac operon of Escherichia coli on repression by Lac repressor. Absence of just one 'pseudo-operator' O2 or O3 decreases repression by wild-type tetrameric Lac repressor approximately 2- to 3-fold; absence of both 'pseudo-operators' decreases repression greater than 50-fold. O1 alone represses under these conditions only approximately 20-fold. Dimeric active Lac repressor (iadi) represses the wild-type lac operon to about the same low extent. This indicates that cooperative interaction between lac operators is due to DNA loop formation mediated by tetrameric Lac repressor. Under conditions where loop formation is impossible, occupation of O3 but not of O2 may lead to weak repression. This suggests that under these conditions CAP activation may be inhibited and that stopping transcription at O2 does not significantly contribute to repression.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/2182324",
+    "type": "article-journal",
+    "id": "UMSODjob"
   },
   {
     "title": "BglBrick vectors and datasheets: A synthetic biology platform for gene expression.",
