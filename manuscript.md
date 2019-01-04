@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/2f592a0b8e2beed063df1b36895b19cb23f1e211/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/55dd17e2a537f6d251ec6f969f22a5cdc535e451/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@2f592a0](https://github.com/zach-hensel/low-noise-manuscript/tree/2f592a0b8e2beed063df1b36895b19cb23f1e211)
+from [zach-hensel/low-noise-manuscript@55dd17e](https://github.com/zach-hensel/low-noise-manuscript/tree/55dd17e2a537f6d251ec6f969f22a5cdc535e451)
 on January 4, 2019.
 </em></small>
 
@@ -110,18 +110,6 @@ We note that side scattering was weakly correlated with fluorescence, and thus w
 ### Microscopy
 
 For microscopy, cells were grown similarly to the protocol for flow cytometry. Differences for mRNA imaging were that cells were grown in M9 media supplemented with 1X MEM Amino Acids (M9A) or M9A additionally supplemented with 1% SOB media. Cells were imaged on agarose gel pads (3% BP165-25, Fisher Bio-Reagents) diluted in M9A (for mRNA imaging) or PBS (for two-plasmid imaging). For mRNA imaging, the microscope sample chamber was maintained at 30 °C. All imaging was done on a Leica DMI6000 inverted microscope using illumination from a Leica EL6000 source, fluorescence filter cubes (Leica GFP ET, a custom filter set with Semrock filters FF01-561/13, FF02-616/73, and DI02-R561, or the Semrock LF514-B filter set), a 100x/1.46 a-plan apochromat oil immersion objective, and an Evolve 512 EM-CCD camera (Photometrics). Images were prepared using Fiji [@1Xy8hvPg], with linear scaling and maintaining minimum and maximum intensity values for all comparable images.
-
-### SM-FISH
-
-Cells were grown in overnight cultures at 32 °C in M9 minimal media supplemented with 1% SOB media, 50 µg/mL carbenicillin or 50 µg/mL spectinomycin. The next day, cells were diluted 1:100 or more (if multiple experiments were to be done sequentially over several hours) in the same media supplemented with anhydrotetracycline. In this growth condition, doubling time was approximately 30 minutes for MG1655 strains harboring these plasmids.
-
-### Microscopy
-
-Microscopy methods and microscopy data analysis methods
-
-### Flow cytometry
-
-Flow cytometry methods and data analysis methods
 
 ## Results 
 
