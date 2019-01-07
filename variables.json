@@ -1,10 +1,10 @@
 {
-  "date": "January 4, 2019",
+  "date": "January 7, 2019",
   "authors": [
     {
-      "name": "Jo\u00e3o Silva",
+      "name": "Jo\u00e3o P. N. Silva",
       "initials": "JS",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "orcid": "0000-0003-4455-4286",
       "affiliations": [
         "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "name": "Soraia Lopes",
+      "name": "Soraia Vidigal Lopes",
       "initials": "SL",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "orcid": "0000-0002-3705-2619",
       "affiliations": [
         "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
@@ -24,9 +24,9 @@
       ]
     },
     {
-      "name": "Diogo Grilo",
+      "name": "Diogo J. Grilo",
       "initials": "DG",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
+      "orcid": "0000-0003-1279-3629",
       "affiliations": [
         "Instituto de Tecnologia Qu\u00edmica e Biol\u00f3gica Ant\u00f3nio Xavier, Universidade Nova de Lisboa, Oeiras, Portugal"
       ],
@@ -59,7 +59,7 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "167464f189c7163f1df17fce9f83a859ed4cd7ff"
+    "commit": "1c3fade311aadd38bb67f97c078f2ef2f5f48d78"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -69,6 +69,6 @@
       "url": 2,
       "total": 35
     },
-    "word_count": 3743
+    "word_count": 3778
   }
 }
