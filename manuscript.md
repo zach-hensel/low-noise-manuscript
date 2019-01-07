@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/1c3fade311aadd38bb67f97c078f2ef2f5f48d78/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/676d500af117a19ce116d06762324bf7b6021b80/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@1c3fade](https://github.com/zach-hensel/low-noise-manuscript/tree/1c3fade311aadd38bb67f97c078f2ef2f5f48d78)
+from [zach-hensel/low-noise-manuscript@676d500](https://github.com/zach-hensel/low-noise-manuscript/tree/676d500af117a19ce116d06762324bf7b6021b80)
 on January 7, 2019.
 </em></small>
 
@@ -106,6 +106,8 @@ Flow cytometry data was collected on an S3e cell sorter (Bio-Rad, Hercules) usin
 ### Microscopy
 
 For microscopy, cells were grown similarly to the protocol for flow cytometry, except that overnight cultures were diluted 1:100 and imaged after 2—4 hours of growth with induction. For mRNA imaging, cells were grown in M9 media supplemented with 1X MEM Amino Acids (M9A) or M9A additionally supplemented with 1% SOB media. For 2-plasmid imaging, cells were grown in EZ Rich media. Cells were imaged on agarose gel pads (3% BP165-25, Fisher Bio-Reagents) diluted in M9A (for mRNA imaging) or PBS (for 2-plasmid imaging). For mRNA imaging, the microscope sample chamber was maintained at 30 °C. All imaging was done on a Leica DMI6000 inverted microscope using illumination from a Leica EL6000 source (at various intensities ensuring minimal photobleaching during acquisition), fluorescence filter cubes (Leica GFP ET, a custom filter set with Semrock filters FF01-561/13, FF02-616/73, and DI02-R561, or the Semrock LF514-B filter set), a 100x/1.46 a-plan apochromat oil immersion objective, and an Evolve 512 EM-CCD camera (Photometrics). Images were prepared using Fiji [@1Xy8hvPg], with linear scaling and maintaining minimum and maximum intensity values for all comparable images.
+
+To analyze microscopy data for 2-plasmid imaging, 100 cells from each sample were manually segmented using the selection brush tool in Fiji with a width of 10 pixels. This selection was used to extract the mean green and red intensities (proportional to the concentration of GFPmut2 and mScarlet-I molecules in the cell, respectively) in images of the same areas. For each image, the mean background intensity was also measured from a region containing no cells, which was subtracted from each single-cell data point. The average fluorescence level was calculated for each condition, and normalized by the highest average value for each color (20,500 counts/pixel for green and 10,534 counts/pixel for red).
 
 ## Results 
 
