@@ -4,7 +4,7 @@ author-meta:
 - Soraia Vidigal Lopes
 - Diogo J. Grilo
 - Zach Hensel
-date-meta: '2019-01-07'
+date-meta: '2019-01-08'
 keywords:
 - gene expression
 - synthetic biology
@@ -23,7 +23,7 @@ This manuscript
 ([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/676d500af117a19ce116d06762324bf7b6021b80/))
 was automatically generated
 from [zach-hensel/low-noise-manuscript@676d500](https://github.com/zach-hensel/low-noise-manuscript/tree/676d500af117a19ce116d06762324bf7b6021b80)
-on January 7, 2019.
+on January 8, 2019.
 </em></small>
 
 ## Authors
