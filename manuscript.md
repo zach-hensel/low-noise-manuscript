@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/5f2c31aa2f6aaf65e91d4e1ce2a5acef4cc3ae79/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/7af0e3ce3c2e70bed00052a5ee5b8d119ca145e4/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@5f2c31a](https://github.com/zach-hensel/low-noise-manuscript/tree/5f2c31aa2f6aaf65e91d4e1ce2a5acef4cc3ae79)
+from [zach-hensel/low-noise-manuscript@7af0e3c](https://github.com/zach-hensel/low-noise-manuscript/tree/7af0e3ce3c2e70bed00052a5ee5b8d119ca145e4)
 on January 8, 2019.
 </em></small>
 
@@ -129,7 +129,7 @@ We first characterized induction of GFP expression in MG1655 cells harboring IPT
 
 Next, we compared noise in protein expression, with the concern that the *lac* operon present in the MG1655 host strain could lead to all-or-none expression at intermediate IPTG concentrations [@eUtnfAD6]. However, **Figure {@fig:pJS102-mean-noise}b** shows low noise in GFP expression at all IPTG concentrations, with noise levels comparable to pZH509 and pJS102 at the same mean GFP levels. Note that apparently high noise at very low expression is partially due to measurement noise, and, at any rate, is much lower than noise when expression is regulated by a constitutively expressed repressor [@TlAItren]. Here, we also note that noise for pJS101, with its lower-copy-number pSC101 replicon, is lower than that for pZH509 or pJS102 at similar expression levels. This suggests that incorporating this construct into the chromosome, where copy number is more tightly regulated, may lead to a further noise reduction.
 
-We found that side scattering was weakly correlated with fluorescence, and thus with cell size, so gating for scattering modestly reduces measured noise in fluorescence intensity. However, we are comparing to an "extrinsic noise limit" determined from measurements of cell fluorescence divided by cell area [@oD6kpSs3], which effectively does the same thing. In practice, we observe slightly lower noise measurements for GFP concentration in fluorescence microscopy images compared to total GFP fluorescence in the gated flow cytometry sample for similarly induced strains. This difference was more significant for very-low-expression conditions, and noise in conditions where GFP fluorescence distributions significantly overlap with ungated background events (GFP intensity less than 10^4^ in **Figure {@fig:gammaFits}**) is somewhat overestimated.
+We found that side scattering was weakly correlated with fluorescence, and thus with cell size, so gating for scattering modestly reduces measured noise in fluorescence intensity. However, we are comparing to an "extrinsic noise limit" determined from measurements of cell fluorescence divided by cell area [@oD6kpSs3], which effectively does the same thing. In practice, we observe slightly lower noise measurements for GFP concentration in fluorescence microscopy images compared to total GFP fluorescence in the gated flow cytometry sample for similarly induced strains. This difference was more significant for very-low-expression conditions, and noise in conditions where GFP fluorescence distributions significantly overlap with ungated background events (GFP intensity less than 10^4^ in **Figure {@fig:gammaFits}**) is somewhat overestimated. Our noise measurements are also to those found in a measurements of many *E. coli* promoters using a similar flow cytometry method with similar gating and fitting procedures [@16n3gU60l].
 
 ### Using the new induction system for detection of single mRNA in living *E. coli*
 

@@ -1098,6 +1098,60 @@
     "id": "15TQ1MvYV"
   },
   {
+    "title": "A genome-wide analysis of promoter-mediated phenotypic noise in Escherichia coli.",
+    "volume": "8",
+    "issue": "1",
+    "page": "e1002443",
+    "container-title": "PLoS genetics",
+    "container-title-short": "PLoS Genet.",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          1,
+          19
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Olin K",
+        "family": "Silander"
+      },
+      {
+        "given": "Nela",
+        "family": "Nikolic"
+      },
+      {
+        "given": "Alon",
+        "family": "Zaslaver"
+      },
+      {
+        "given": "Anat",
+        "family": "Bren"
+      },
+      {
+        "given": "Ilya",
+        "family": "Kikoin"
+      },
+      {
+        "given": "Uri",
+        "family": "Alon"
+      },
+      {
+        "given": "Martin",
+        "family": "Ackermann"
+      }
+    ],
+    "PMID": "22275871",
+    "PMCID": "PMC3261926",
+    "DOI": "10.1371/journal.pgen.1002443",
+    "abstract": "Gene expression is subject to random perturbations that lead to fluctuations in the rate of protein production. As a consequence, for any given protein, genetically identical organisms living in a constant environment will contain different amounts of that particular protein, resulting in different phenotypes. This phenomenon is known as \"phenotypic noise.\" In bacterial systems, previous studies have shown that, for specific genes, both transcriptional and translational processes affect phenotypic noise. Here, we focus on how the promoter regions of genes affect noise and ask whether levels of promoter-mediated noise are correlated with genes' functional attributes, using data for over 60% of all promoters in Escherichia coli. We find that essential genes and genes with a high degree of evolutionary conservation have promoters that confer low levels of noise. We also find that the level of noise cannot be attributed to the evolutionary time that different genes have spent in the genome of E. coli. In contrast to previous results in eukaryotes, we find no association between promoter-mediated noise and gene expression plasticity. These results are consistent with the hypothesis that, in bacteria, natural selection can act to reduce gene expression noise and that some of this noise is controlled through the sequence of the promoter region alone.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/22275871",
+    "type": "article-journal",
+    "id": "16n3gU60l"
+  },
+  {
     "title": "Fluorescence fluctuation spectroscopy enables quantitative imaging of single mRNAs in living cells.",
     "volume": "102",
     "issue": "12",
