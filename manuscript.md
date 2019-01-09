@@ -10,7 +10,7 @@ keywords:
 - synthetic biology
 - transcription
 lang: en-US
-title: Plasmids for independently tunable, low-noise gene expression
+title: Plasmids for independently tunable, low-noise expression of two genes
 ...
 
 
@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/62b1115000d85a86ba166e71f221878b80dfde0a/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/519cd56e55d103b32e7accbd9f7d95f1a0459f73/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@62b1115](https://github.com/zach-hensel/low-noise-manuscript/tree/62b1115000d85a86ba166e71f221878b80dfde0a)
+from [zach-hensel/low-noise-manuscript@519cd56](https://github.com/zach-hensel/low-noise-manuscript/tree/519cd56e55d103b32e7accbd9f7d95f1a0459f73)
 on January 9, 2019.
 </em></small>
 
