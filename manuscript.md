@@ -4,7 +4,7 @@ author-meta:
 - Soraia Vidigal Lopes
 - Diogo J. Grilo
 - Zach Hensel
-date-meta: '2019-01-08'
+date-meta: '2019-01-09'
 keywords:
 - gene expression
 - synthetic biology
@@ -20,10 +20,10 @@ title: Plasmids for independently tunable, low-noise gene expression
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/7af0e3ce3c2e70bed00052a5ee5b8d119ca145e4/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/5fcaa552c5424712778aaa5b7534837012c0b5cf/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@7af0e3c](https://github.com/zach-hensel/low-noise-manuscript/tree/7af0e3ce3c2e70bed00052a5ee5b8d119ca145e4)
-on January 8, 2019.
+from [zach-hensel/low-noise-manuscript@5fcaa55](https://github.com/zach-hensel/low-noise-manuscript/tree/5fcaa552c5424712778aaa5b7534837012c0b5cf)
+on January 9, 2019.
 </em></small>
 
 ## Authors
@@ -107,7 +107,7 @@ Flow cytometry data was collected on an S3e cell sorter (Bio-Rad, Hercules) usin
 
 For microscopy, cells were grown similarly to the protocol for flow cytometry, except that overnight cultures were diluted 1:100 and imaged after 2—4 hours of growth with induction. For mRNA imaging, cells were grown in M9 media supplemented with 1X MEM Amino Acids (M9A) or M9A additionally supplemented with 1% SOB media. For 2-plasmid imaging, cells were grown in EZ Rich media. Cells were imaged on agarose gel pads (3% BP165-25, Fisher Bio-Reagents) diluted in M9A (for mRNA imaging) or PBS (for 2-plasmid imaging). For mRNA imaging, the microscope sample chamber was maintained at 30 °C. All imaging was done on a Leica DMI6000 inverted microscope using illumination from a Leica EL6000 source (at various intensities ensuring minimal photobleaching during acquisition), fluorescence filter cubes (Leica GFP ET, a custom filter set with Semrock filters FF01-561/13, FF02-616/73, and DI02-R561, or the Semrock LF514-B filter set), a 100x/1.46 a-plan apochromat oil immersion objective, and an Evolve 512 EM-CCD camera (Photometrics) using a 16-bit EM gain amplification. Images were prepared using Fiji [@1Xy8hvPg], with linear scaling and maintaining minimum and maximum intensity values for all comparable images.
 
-To analyze microscopy data for 2-plasmid imaging, 100 cells from each sample were manually segmented using the selection brush tool in Fiji with a width of 10 pixels. This selection was used to extract the mean green and red intensities (proportional to the concentration of GFPmut2 and mScarlet-I molecules in the cell, respectively) in images of the same areas. For each image, the mean background intensity was also measured from a region containing no cells, which was subtracted from each single-cell data point. The average fluorescence level was calculated for each condition, and normalized by the highest average value for each color (20,500 counts/pixel for green and 10,534 counts/pixel for red). The Fiji and Python scripts used to analyze microscopy data are available in available in **File S2**.
+To analyze microscopy data for 2-plasmid imaging, 100 cells from each sample were manually segmented using the selection brush tool in Fiji with a width of 10 pixels. This selection was used to extract the mean green and red intensities (proportional to the concentration of GFPmut2 and mScarlet-I molecules in the cell, respectively) in images of the same areas. For each image, the mean background intensity was also measured from a region containing no cells, which was subtracted from each single-cell data point. The average fluorescence level was calculated for each condition, and normalized by the highest average value for each color (20,500 counts/pixel for green and 10,534 counts/pixel for red). The Fiji and Python scripts used to analyze microscopy data are available in **File S2**.
 
 ## Results 
 
@@ -168,6 +168,6 @@ This work was financially supported by: Project LISBOA-01-0145-FEDER-007660 (Mic
 
 ## Supplementary Material {.page_break_before}
 
-![**Reproducibility of low-noise expression in 3 independent experiments.** Probability densities for each flow cytometry sample were calculated by kernel density estimates for the negative control plasmid pZH501 (orange), ZH509 (blue), pJS101 (green), and pJS102 (red) with fluorescence levels monotonically increasing with concentration of ATc (1, 5, 25, 125 nM) or IPTG (0, 2, 4.5, 10, 22.5, 50, 111.8, 250, 559, 1250). Distributions were fit by least squares regression to a gamma function (black dashed lines) to estimate sample mean and variance while minimizing the influence of non-fluorescent background events, which varied in frequency for different days and samples. ](images/FigureS1_gammaFits.png){#fig:gammaFits tag="S1" width=89mm}
+![**Reproducibility of low-noise expression in 3 independent experiments.** Probability densities for each flow cytometry sample were calculated by kernel density estimates for the negative control plasmid pZH501 (orange), ZH509 (blue), pJS101 (green), and pJS102 (red) with fluorescence levels monotonically increasing with concentration of ATc (1, 5, 25, 125 nM) or IPTG (0, 2, 4.5, 10, 22.5, 50, 111.8, 250, 559, 1250). Distributions were fit by least squares regression to a gamma function (black dashed lines) to estimate sample mean and variance while minimizing the influence of non-fluorescent background events, which varied in frequency for different days and samples. All plots are normalized by the maximum value of the fit gamma distribution.](images/FigureS1_gammaFits.png){#fig:gammaFits tag="S1" width=89mm}
 
-**Supplementary File S2**: Raw flow cytometry data, Python scripts required to reproduce Figures {@fig:pZH509-pJS101} and {@fig:pJS102-mean-noise}, DNA sequences, and explanatory text files are available as a compressed archive at Zenodo.
+**Supplementary File S2**: Raw flow cytometry data, Python scripts required to reproduce Figures {@fig:pZH509-pJS101} and {@fig:pJS102-mean-noise}, DNA sequences, and explanatory text files are available as a compressed archive at Zenodo [@V7sgPYoL].

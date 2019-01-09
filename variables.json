@@ -1,5 +1,5 @@
 {
-  "date": "January 8, 2019",
+  "date": "January 9, 2019",
   "authors": [
     {
       "name": "Jo\u00e3o P. N. Silva",
@@ -59,16 +59,16 @@
     "repo_slug": "zach-hensel/low-noise-manuscript",
     "repo_owner": "zach-hensel",
     "repo_name": "low-noise-manuscript",
-    "commit": "7af0e3ce3c2e70bed00052a5ee5b8d119ca145e4"
+    "commit": "5fcaa552c5424712778aaa5b7534837012c0b5cf"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 3,
+      "doi": 4,
       "pmid": 29,
       "url": 2,
-      "total": 35
+      "total": 36
     },
-    "word_count": 3985
+    "word_count": 3996
   }
 }
