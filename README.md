@@ -22,11 +22,7 @@ Manubot automates citations and references, versions manuscripts using git, and 
 The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
 See [`USAGE.md`](USAGE.md) for documentation how to write a manuscript.
 
-<<<<<<< HEAD
 Please open [an issue](https://github.com/zach-hensel/low-noise-manuscript/issues) for questions related to Manubot usage, bug reports, or general inquiries.
-=======
-Please open [an issue](https://git.io/fhQHM) for questions related to Manubot usage, bug reports, or general inquiries.
->>>>>>> b422130eb46ea5d188779910772192730d79b172
 
 ### Repository directories & files
 
@@ -73,29 +69,17 @@ sh build/autobuild.sh
 
 ### Continuous Integration
 
-<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/zach-hensel/low-noise-manuscript.svg?branch=master)](https://travis-ci.org/zach-hensel/low-noise-manuscript)
-=======
-[![Build Status](https://travis-ci.com/manubot/rootstock.svg?branch=master)](https://travis-ci.com/manubot/rootstock)
->>>>>>> b422130eb46ea5d188779910772192730d79b172
 
 Whenever a pull request is opened, Travis CI will test whether the changes break the build process to generate a formatted manuscript.
 The build process aims to detect common errors, such as invalid citations.
 If your pull request build fails, see the Travis CI logs for the cause of failure and revise your pull request accordingly.
 
-<<<<<<< HEAD
 When a commit to the `master` branch occurs (for example, when a pull request is merged), Travis CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/zach-hensel/low-noise-manuscript/tree/gh-pages) and [`output`](https://github.com/zach-hensel/low-noise-manuscript/tree/output) branches.
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
 + **HTML manuscript** at https://zach-hensel.github.io/low-noise-manuscript/
 + **PDF manuscript** at https://zach-hensel.github.io/low-noise-manuscript/manuscript.pdf
-=======
-When a commit to the `master` branch occurs (for example, when a pull request is merged), Travis CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) and [`output`](https://github.com/manubot/rootstock/tree/output) branches.
-The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
-
-+ **HTML manuscript** at https://manubot.github.io/rootstock/
-+ **PDF manuscript** at https://manubot.github.io/rootstock/manuscript.pdf
->>>>>>> b422130eb46ea5d188779910772192730d79b172
 
 For continuous integration configuration details, see [`.travis.yml`](.travis.yml).
 
@@ -110,11 +94,8 @@ We encourage users to openly license their manuscripts, which is the default as 
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
-<<<<<<< HEAD
+
 Please attribute by linking to https://github.com/zach-hensel/low-noise-manuscript.
-=======
-Please attribute by linking to https://github.com/manubot/rootstock.
->>>>>>> b422130eb46ea5d188779910772192730d79b172
 
 Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
@@ -134,12 +115,4 @@ All other files are only available under CC BY 4.0, including:
 + `*.pdf`
 + `*.docx`
 
-<<<<<<< HEAD
-Except for the following files with different licenses:
-
-+ `build/assets/anchors.js` which is [released](https://www.bryanbraun.com/anchorjs/) under an [MIT License](https://opensource.org/licenses/MIT)
-
 Please open [an issue](https://github.com/zach-hensel/low-noise-manuscript/issues) for any question related to licensing.
-=======
-Please open [an issue](https://github.com/manubot/rootstock/issues) for any question related to licensing.
->>>>>>> b422130eb46ea5d188779910772192730d79b172
