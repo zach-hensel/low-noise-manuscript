@@ -1,4 +1,4 @@
-# Exit on errors
+# Exit on errorss
 set -o errexit
 
 # Add commit hash to the README
