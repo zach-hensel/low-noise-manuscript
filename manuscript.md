@@ -4,7 +4,7 @@ author-meta:
 - Soraia Vidigal Lopes
 - Diogo J. Grilo
 - Zach Hensel
-date-meta: '2019-01-09'
+date-meta: '2019-03-14'
 keywords:
 - gene expression
 - synthetic biology
@@ -20,10 +20,10 @@ title: Plasmids for independently tunable, low-noise expression of two genes
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/519cd56e55d103b32e7accbd9f7d95f1a0459f73/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/2fc18d6416816a1e94791b2304def8caefcf8b0f/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@519cd56](https://github.com/zach-hensel/low-noise-manuscript/tree/519cd56e55d103b32e7accbd9f7d95f1a0459f73)
-on January 9, 2019.
+from [zach-hensel/low-noise-manuscript@2fc18d6](https://github.com/zach-hensel/low-noise-manuscript/tree/2fc18d6416816a1e94791b2304def8caefcf8b0f)
+on March 14, 2019.
 </em></small>
 
 ## Authors
@@ -31,30 +31,30 @@ on January 9, 2019.
 
 
 + **João P. N. Silva**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-4455-4286](https://orcid.org/0000-0003-4455-4286)<br>
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
   </small>
 
 + **Soraia Vidigal Lopes**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-3705-2619](https://orcid.org/0000-0002-3705-2619)<br>
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
   </small>
 
 + **Diogo J. Grilo**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0003-1279-3629](https://orcid.org/0000-0003-1279-3629)<br>
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
   </small>
 
 + **Zach Hensel**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-4348-6229](https://orcid.org/0000-0002-4348-6229)
-    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    · ![GitHub icon](images/github.svg){.inline_icon}
     [zach-hensel](https://github.com/zach-hensel)<br>
   <small>
      Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
@@ -121,7 +121,7 @@ GFP expression mean and noise were characterized from low to high levels of indu
 
 ### Alternative regulatory constructs with LacI replacing TetR
 
-We hypothesized that replacing P~LtetO-1~ with the inducible promoter P~LlacO-1~,  with similar characteristics [@NCWOk1rp], and replacing TetR with LacI might result in a similarly useful expression system that could be tuned independently. However, regulatory parameters for TetR and LacI vary significantly. TetR binds *tetO2* more strongly than LacI binds *lacO1* (approximately 0.5—1.0 kcal/mol difference in binding energy [@cpANz6cV; @UMSODjob] for a single site, with 2 tandem sites in our constructs). And, TetR binds ATc much more strongly than LacI binds IPTG (over 3 orders of magnitude difference in typical concentrations required for half-induction [@Ls5d7x4o; @WxFVKQqb]).
+We hypothesized that replacing P~LtetO-1~ with the inducible promoter P~LlacO-1~,  with similar characteristics [@NCWOk1rp], and replacing TetR with LacI might result in a similarly useful expression system that could be tuned independently. However, regulatory parameters for TetR and LacI vary significantly. TetR binds *tetO2* more strongly than LacI binds *lacO1* (approximately 0.5—1.0 kcal/mol difference in binding energy [@IbIaRemg; @UMSODjob] for a single site, with 2 tandem sites in our constructs). And, TetR binds ATc much more strongly than LacI binds IPTG (over 3 orders of magnitude difference in typical concentrations required for half-induction [@Ls5d7x4o; @WxFVKQqb]).
 
 We first characterized induction of GFP expression in MG1655 cells harboring IPTG-inducible pJS102 by flow cytometry. **Figure {@fig:pJS102-mean-noise}a** shows an induction range of almost 2 orders of magnitude from 0 to 1250 µM IPTG, with very good reproducibility of induction levels in 3 independent experiments. Previous experiments with the TetR-based system showed a large jump in expression going from 0 nM to 0.5 nM ATc [@TlAItren]. This effect is not seen for pJS102, suggesting that switching from TetR:ATc to LacI:IPTG improves the dynamic range of achievable induction levels to a small extent.
 

@@ -1,15 +1,15 @@
 [
   {
-    "arxiv_id": "1506.08596v1",
+    "number": "1506.08596v1",
     "version": "1",
     "URL": "https://arxiv.org/abs/1506.08596v1",
     "title": "Cell-cycle-synchronized, oscillatory expression of a negatively\n  autoregulated gene in E. coli",
     "issued": {
       "date-parts": [
         [
-          "2015",
-          "06",
-          "29"
+          2015,
+          6,
+          29
         ]
       ]
     },
@@ -28,154 +28,42 @@
     "id": "A1kNMUKB"
   },
   {
-    "indexed": {
-      "date-parts": [
-        [
-          2018,
-          12,
-          26
-        ]
-      ],
-      "date-time": "2018-12-26T07:02:38Z",
-      "timestamp": 1545807758621
-    },
-    "reference-count": 18,
     "publisher": "Springer Nature",
     "issue": "5",
-    "license": [
-      {
-        "URL": "http://www.springer.com/tdm",
-        "start": {
-          "date-parts": [
-            [
-              2009,
-              4,
-              12
-            ]
-          ],
-          "date-time": "2009-04-12T00:00:00Z",
-          "timestamp": 1239494400000
-        },
-        "delay-in-days": 0,
-        "content-version": "unspecified"
-      }
-    ],
-    "content-domain": {
-      "domain": [],
-      "crossmark-restriction": false
-    },
-    "published-print": {
-      "date-parts": [
-        [
-          2009,
-          5
-        ]
-      ]
-    },
     "DOI": "10.1038/nmeth.1318",
     "type": "article-journal",
-    "created": {
-      "date-parts": [
-        [
-          2009,
-          4,
-          12
-        ]
-      ],
-      "date-time": "2009-04-12T17:42:09Z",
-      "timestamp": 1239558129000
-    },
     "page": "343-345",
     "source": "Crossref",
-    "is-referenced-by-count": 2496,
     "title": "Enzymatic assembly of DNA molecules up to several hundred kilobases",
-    "prefix": "10.1038",
     "volume": "6",
     "author": [
       {
         "given": "Daniel G",
-        "family": "Gibson",
-        "sequence": "first",
-        "affiliation": []
+        "family": "Gibson"
       },
       {
         "given": "Lei",
-        "family": "Young",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Young"
       },
       {
         "given": "Ray-Yuan",
-        "family": "Chuang",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Chuang"
       },
       {
         "given": "J Craig",
-        "family": "Venter",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Venter"
       },
       {
         "given": "Clyde A",
-        "family": "Hutchison",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Hutchison"
       },
       {
         "given": "Hamilton O",
-        "family": "Smith",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Smith"
       }
     ],
-    "member": "297",
-    "published-online": {
-      "date-parts": [
-        [
-          2009,
-          4,
-          12
-        ]
-      ]
-    },
     "container-title": "Nature Methods",
-    "original-title": [],
     "language": "en",
-    "link": [
-      {
-        "URL": "http://www.nature.com/articles/nmeth.1318.pdf",
-        "content-type": "application/pdf",
-        "content-version": "vor",
-        "intended-application": "text-mining"
-      },
-      {
-        "URL": "http://www.nature.com/articles/nmeth.1318",
-        "content-type": "text/html",
-        "content-version": "vor",
-        "intended-application": "text-mining"
-      },
-      {
-        "URL": "http://www.nature.com/articles/nmeth.1318.pdf",
-        "content-type": "application/pdf",
-        "content-version": "vor",
-        "intended-application": "similarity-checking"
-      }
-    ],
-    "deposited": {
-      "date-parts": [
-        [
-          2018,
-          1,
-          10
-        ]
-      ],
-      "date-time": "2018-01-10T16:19:05Z",
-      "timestamp": 1515601145000
-    },
-    "score": 1.0,
-    "subtitle": [],
-    "short-title": [],
     "issued": {
       "date-parts": [
         [
@@ -185,120 +73,36 @@
         ]
       ]
     },
-    "references-count": 18,
-    "journal-issue": {
-      "published-print": {
-        "date-parts": [
-          [
-            2009,
-            5
-          ]
-        ]
-      },
-      "issue": "5"
-    },
-    "alternative-id": [
-      "BFnmeth1318"
-    ],
-    "URL": "https://doi.org/10.1038/nmeth.1318",
-    "relation": {
-      "cites": []
-    },
+    "URL": "https://doi.org/ckn92w",
     "container-title-short": "Nat Methods",
-    "short_url": "https://doi.org/ckn92w",
+    "PMID": "19363495",
     "id": "dc6GAnhL"
   },
   {
-    "indexed": {
-      "date-parts": [
-        [
-          2018,
-          12,
-          13
-        ]
-      ],
-      "date-time": "2018-12-13T18:04:08Z",
-      "timestamp": 1544724248533
-    },
-    "reference-count": 0,
     "publisher": "Oxford University Press (OUP)",
     "issue": "12",
-    "content-domain": {
-      "domain": [],
-      "crossmark-restriction": false
-    },
-    "published-print": {
-      "date-parts": [
-        [
-          1984
-        ]
-      ]
-    },
     "DOI": "10.1093/nar/12.12.4849",
     "type": "article-journal",
-    "created": {
-      "date-parts": [
-        [
-          2007,
-          1,
-          4
-        ]
-      ],
-      "date-time": "2007-01-04T22:15:07Z",
-      "timestamp": 1167948907000
-    },
     "page": "4849-4863",
     "source": "Crossref",
-    "is-referenced-by-count": 44,
     "title": "Nucleotide sequence of the repressor gene of the TN10 tetracycline resistance determinant",
-    "prefix": "10.1093",
     "volume": "12",
     "author": [
       {
         "given": "Kathleen",
-        "family": "Postle",
-        "sequence": "first",
-        "affiliation": []
+        "family": "Postle"
       },
       {
         "given": "Toai T.",
-        "family": "Nguyen",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Nguyen"
       },
       {
         "given": "Kevin P.",
-        "family": "Bertrand",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Bertrand"
       }
     ],
-    "member": "286",
     "container-title": "Nucleic Acids Research",
-    "original-title": [],
     "language": "en",
-    "link": [
-      {
-        "URL": "http://academic.oup.com/nar/article-pdf/12/12/4849/3918733/12-12-4849.pdf",
-        "content-type": "unspecified",
-        "content-version": "vor",
-        "intended-application": "similarity-checking"
-      }
-    ],
-    "deposited": {
-      "date-parts": [
-        [
-          2017,
-          8,
-          23
-        ]
-      ],
-      "date-time": "2017-08-23T19:05:29Z",
-      "timestamp": 1503515129000
-    },
-    "score": 1.0,
-    "subtitle": [],
-    "short-title": [],
     "issued": {
       "date-parts": [
         [
@@ -306,155 +110,87 @@
         ]
       ]
     },
-    "references-count": 0,
-    "journal-issue": {
-      "published-print": {
-        "date-parts": [
-          [
-            1984
-          ]
-        ]
-      },
-      "issue": "12"
-    },
-    "URL": "https://doi.org/10.1093/nar/12.12.4849",
-    "relation": {},
+    "URL": "https://doi.org/cvpfkh",
     "container-title-short": "Nucl Acids Res",
-    "short_url": "https://doi.org/cvpfkh",
     "id": "Q1a7tU8"
   },
   {
-    "indexed": {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "DOI": "10.1093/nar/gkh200",
+    "type": "article-journal",
+    "page": "842-847",
+    "source": "Crossref",
+    "title": "Two mutations in the tetracycline repressor change the inducer anhydrotetracycline to a corepressor",
+    "volume": "32",
+    "author": [
+      {
+        "given": "A.",
+        "family": "Kamionka"
+      }
+    ],
+    "container-title": "Nucleic Acids Research",
+    "language": "en",
+    "issued": {
       "date-parts": [
         [
-          2018,
-          12,
-          27
-        ]
-      ],
-      "date-time": "2018-12-27T10:42:45Z",
-      "timestamp": 1545907365793
-    },
-    "reference-count": 33,
-    "publisher": "American Association for the Advancement of Science (AAAS)",
-    "issue": "5991",
-    "content-domain": {
-      "domain": [],
-      "crossmark-restriction": false
-    },
-    "published-print": {
-      "date-parts": [
-        [
-          2010,
-          7,
-          30
+          2004,
+          1,
+          21
         ]
       ]
     },
+    "URL": "https://doi.org/fsvj4n",
+    "container-title-short": "Nucleic Acids Research",
+    "PMCID": "PMC373327",
+    "PMID": "14764926",
+    "id": "IbIaRemg"
+  },
+  {
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "5991",
     "DOI": "10.1126/science.1188308",
     "type": "article-journal",
-    "created": {
-      "date-parts": [
-        [
-          2010,
-          7,
-          29
-        ]
-      ],
-      "date-time": "2010-07-29T21:52:27Z",
-      "timestamp": 1280440347000
-    },
     "page": "533-538",
     "source": "Crossref",
-    "is-referenced-by-count": 979,
     "title": "Quantifying E. coli Proteome and Transcriptome with Single-Molecule Sensitivity in Single Cells",
-    "prefix": "10.1126",
     "volume": "329",
     "author": [
       {
         "given": "Y.",
-        "family": "Taniguchi",
-        "sequence": "first",
-        "affiliation": []
+        "family": "Taniguchi"
       },
       {
         "given": "P. J.",
-        "family": "Choi",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Choi"
       },
       {
         "given": "G.-W.",
-        "family": "Li",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Li"
       },
       {
         "given": "H.",
-        "family": "Chen",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Chen"
       },
       {
         "given": "M.",
-        "family": "Babu",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Babu"
       },
       {
         "given": "J.",
-        "family": "Hearn",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Hearn"
       },
       {
         "given": "A.",
-        "family": "Emili",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Emili"
       },
       {
         "given": "X. S.",
-        "family": "Xie",
-        "sequence": "additional",
-        "affiliation": []
+        "family": "Xie"
       }
     ],
-    "member": "221",
-    "published-online": {
-      "date-parts": [
-        [
-          2010,
-          7,
-          29
-        ]
-      ]
-    },
     "container-title": "Science",
-    "original-title": [],
     "language": "en",
-    "link": [
-      {
-        "URL": "https://syndication.highwire.org/content/doi/10.1126/science.1188308",
-        "content-type": "unspecified",
-        "content-version": "vor",
-        "intended-application": "similarity-checking"
-      }
-    ],
-    "deposited": {
-      "date-parts": [
-        [
-          2017,
-          6,
-          19
-        ]
-      ],
-      "date-time": "2017-06-19T11:53:56Z",
-      "timestamp": 1497873236000
-    },
-    "score": 1.0,
-    "subtitle": [],
-    "short-title": [],
     "issued": {
       "date-parts": [
         [
@@ -464,34 +200,10 @@
         ]
       ]
     },
-    "references-count": 33,
-    "journal-issue": {
-      "published-online": {
-        "date-parts": [
-          [
-            2010,
-            7,
-            29
-          ]
-        ]
-      },
-      "published-print": {
-        "date-parts": [
-          [
-            2010,
-            7,
-            30
-          ]
-        ]
-      },
-      "issue": "5991"
-    },
-    "URL": "https://doi.org/10.1126/science.1188308",
-    "relation": {
-      "cites": []
-    },
+    "URL": "https://doi.org/c3tkbc",
     "container-title-short": "Science",
-    "short_url": "https://doi.org/c3tkbc",
+    "PMCID": "PMC2922915",
+    "PMID": "20671182",
     "id": "oD6kpSs3"
   },
   {
@@ -528,8 +240,7 @@
     "DOI": "10.5281/zenodo.2536104",
     "publisher": "Zenodo",
     "title": "Supplementary File S2: Plasmids for independently tunable, low- noise gene expression",
-    "URL": "https://doi.org/10.5281/zenodo.2536104",
-    "short_url": "https://doi.org/gfs2x5"
+    "URL": "https://doi.org/gfs2x5"
   },
   {
     "title": "One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products.",
@@ -538,6 +249,7 @@
     "page": "6640-5",
     "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
     "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "ISSN": "0027-8424",
     "issued": {
       "date-parts": [
         [
@@ -572,6 +284,7 @@
     "page": "590-3",
     "container-title": "Nature",
     "container-title-short": "Nature",
+    "ISSN": "0028-0836",
     "issued": {
       "date-parts": [
         [
@@ -605,6 +318,7 @@
     "page": "10914-20",
     "container-title": "Biochemistry",
     "container-title-short": "Biochemistry",
+    "ISSN": "0006-2960",
     "issued": {
       "date-parts": [
         [
@@ -645,6 +359,7 @@
     "page": "415-8",
     "container-title": "Nature",
     "container-title-short": "Nature",
+    "ISSN": "1476-4687",
     "issued": {
       "date-parts": [
         [
@@ -668,54 +383,13 @@
     "id": "S7KRThVS"
   },
   {
-    "title": "Two mutations in the tetracycline repressor change the inducer anhydrotetracycline to a corepressor.",
-    "volume": "32",
-    "issue": "2",
-    "page": "842-7",
-    "container-title": "Nucleic acids research",
-    "container-title-short": "Nucleic Acids Res.",
-    "issued": {
-      "date-parts": [
-        [
-          2004,
-          2,
-          4
-        ]
-      ]
-    },
-    "author": [
-      {
-        "given": "Annette",
-        "family": "Kamionka"
-      },
-      {
-        "given": "Joanna",
-        "family": "Bogdanska-Urbaniak"
-      },
-      {
-        "given": "Oliver",
-        "family": "Scholz"
-      },
-      {
-        "given": "Wolfgang",
-        "family": "Hillen"
-      }
-    ],
-    "PMID": "14764926",
-    "PMCID": "PMC373327",
-    "DOI": "10.1093/nar/gkh200",
-    "abstract": "We report for the first time the in vitro characterization of a reverse tetracycline repressor (revTetR). The dimeric wild-type repressor (TetR) binds to tet operator tetO in the absence of the inducer anhydrotetracycline (atc) to confer tight repression. We have isolated the revTetR G96E L205S mutant, which, contrary to TetR, binds tetO only in the presence of atc. This reverse acting mutant was overproduced and purified. Effector and DNA binding properties were analyzed by EMSA and quantified by fluorescence titration and surface plasmon resonance. The association constant K(A) of revTetR for binding of [atcMg](+) is approximately 10(8) M(-1), four orders of magnitude lower than that of TetR. The affinity of TetR for tetO is 5.6 +/- 2 x 10(9) M(-1) and that for revTetR in the presence of atc is 1 +/- 0.2 x 10(8) M(-1). Both induced forms, the atc-bound TetR and the free revTetR, have the same low affinity of 4 +/- 1 x 10(5) M(-1) for DNA. Therefore, atc does not act as a dimerization agent for revTetR. We discuss the structural differences between TetR and revTetR potentially underlying this reversal of activity.",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/14764926",
-    "type": "article-journal",
-    "id": "cpANz6cV"
-  },
-  {
     "title": "Real-time kinetics of gene activity in individual bacteria.",
     "volume": "123",
     "issue": "6",
     "page": "1025-36",
     "container-title": "Cell",
     "container-title-short": "Cell",
+    "ISSN": "0092-8674",
     "issued": {
       "date-parts": [
         [
@@ -757,6 +431,7 @@
     "page": "606-12",
     "container-title": "Nucleic acids research",
     "container-title-short": "Nucleic Acids Res.",
+    "ISSN": "1362-4962",
     "issued": {
       "date-parts": [
         [
@@ -795,6 +470,7 @@
     "page": "553-66",
     "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
     "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "ISSN": "0027-8424",
     "issued": {
       "date-parts": [
         [
@@ -827,6 +503,7 @@
     "page": "1891-8",
     "container-title": "Proceedings of the National Academy of Sciences of the United States of America",
     "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
+    "ISSN": "0027-8424",
     "issued": {
       "date-parts": [
         [
@@ -858,6 +535,7 @@
     "page": "6570-80",
     "container-title": "Biochemistry",
     "container-title-short": "Biochemistry",
+    "ISSN": "0006-2960",
     "issued": {
       "date-parts": [
         [
@@ -898,6 +576,7 @@
     "page": "41",
     "container-title": "Molecular systems biology",
     "container-title-short": "Mol. Syst. Biol.",
+    "ISSN": "1744-4292",
     "issued": {
       "date-parts": [
         [
@@ -944,6 +623,7 @@
     "page": "77-81",
     "container-title": "Nature",
     "container-title-short": "Nature",
+    "ISSN": "1476-4687",
     "issued": {
       "date-parts": [
         [
@@ -998,6 +678,7 @@
     "page": "475-8",
     "container-title": "Science (New York, N.Y.)",
     "container-title-short": "Science",
+    "ISSN": "1095-9203",
     "issued": {
       "date-parts": [
         [
@@ -1044,6 +725,7 @@
     "page": "973-9",
     "container-title": "The EMBO journal",
     "container-title-short": "EMBO J.",
+    "ISSN": "0261-4189",
     "issued": {
       "date-parts": [
         [
@@ -1083,6 +765,7 @@
     "page": "12",
     "container-title": "Journal of biological engineering",
     "container-title-short": "J Biol Eng",
+    "ISSN": "1754-1611",
     "issued": {
       "date-parts": [
         [
@@ -1141,6 +824,7 @@
     "page": "e1002443",
     "container-title": "PLoS genetics",
     "container-title-short": "PLoS Genet.",
+    "ISSN": "1553-7404",
     "issued": {
       "date-parts": [
         [
@@ -1195,6 +879,7 @@
     "page": "2936-44",
     "container-title": "Biophysical journal",
     "container-title-short": "Biophys. J.",
+    "ISSN": "1542-0086",
     "issued": {
       "date-parts": [
         [
@@ -1233,6 +918,7 @@
     "page": "676-82",
     "container-title": "Nature methods",
     "container-title-short": "Nat. Methods",
+    "ISSN": "1548-7105",
     "issued": {
       "date-parts": [
         [
@@ -1323,6 +1009,7 @@
     "page": "2646-59",
     "container-title": "Nucleic acids research",
     "container-title-short": "Nucleic Acids Res.",
+    "ISSN": "1362-4962",
     "issued": {
       "date-parts": [
         [
@@ -1361,6 +1048,7 @@
     "page": "774-80",
     "container-title": "ACS synthetic biology",
     "container-title-short": "ACS Synth Biol",
+    "ISSN": "2161-5063",
     "issued": {
       "date-parts": [
         [
@@ -1411,6 +1099,7 @@
     "page": "e0160711",
     "container-title": "PloS one",
     "container-title-short": "PLoS ONE",
+    "ISSN": "1932-6203",
     "issued": {
       "date-parts": [
         [
@@ -1469,6 +1158,7 @@
     "page": "11999",
     "container-title": "Scientific reports",
     "container-title-short": "Sci Rep",
+    "ISSN": "2045-2322",
     "issued": {
       "date-parts": [
         [
@@ -1519,6 +1209,7 @@
     "page": "e0187259",
     "container-title": "PloS one",
     "container-title-short": "PLoS ONE",
+    "ISSN": "1932-6203",
     "issued": {
       "date-parts": [
         [
@@ -1549,6 +1240,7 @@
     "page": "81-89",
     "container-title": "Nature methods",
     "container-title-short": "Nat. Methods",
+    "ISSN": "1548-7105",
     "issued": {
       "date-parts": [
         [
@@ -1599,6 +1291,7 @@
     "page": "580-589.e4",
     "container-title": "Cell systems",
     "container-title-short": "Cell Syst",
+    "ISSN": "2405-4712",
     "issued": {
       "date-parts": [
         [
@@ -1632,6 +1325,7 @@
     "page": "165-71",
     "container-title": "Gene",
     "container-title-short": "Gene",
+    "ISSN": "0378-1119",
     "issued": {
       "date-parts": [
         [
@@ -1667,6 +1361,7 @@
     "page": "33-8",
     "container-title": "Gene",
     "container-title-short": "Gene",
+    "ISSN": "0378-1119",
     "issued": {
       "date-parts": [
         [
@@ -1701,6 +1396,7 @@
     "page": "4767-74",
     "container-title": "The EMBO journal",
     "container-title-short": "EMBO J.",
+    "ISSN": "0261-4189",
     "issued": {
       "date-parts": [
         [
@@ -1734,6 +1430,7 @@
     "page": "1203-10",
     "container-title": "Nucleic acids research",
     "container-title-short": "Nucleic Acids Res.",
+    "ISSN": "0305-1048",
     "issued": {
       "date-parts": [
         [
