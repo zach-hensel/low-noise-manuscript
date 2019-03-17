@@ -55,7 +55,7 @@
             // start panel open/closed based on option
             if (
                 options.startOpen === 'true' ||
-                (options.startOpen === 'auto' && isSmallScreen())
+                (options.startOpen === 'auto' && !isSmallScreen())
             )
                 openPanel();
             else
@@ -75,7 +75,7 @@
             const page = window.getComputedStyle(document.body);
             const width =
                 parseInt(page.width) || parseInt(page.maxWidth) || 816;
-            return width + 320 < window.innerWidth;
+            return window.innerWidth < width + 320;
         }
 
         // when window is scrolled or hash changed
