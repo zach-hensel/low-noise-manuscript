@@ -4,7 +4,7 @@ author-meta:
 - Soraia Vidigal Lopes
 - Diogo J. Grilo
 - Zach Hensel
-date-meta: '2019-03-14'
+date-meta: '2019-03-17'
 keywords:
 - gene expression
 - synthetic biology
@@ -20,10 +20,10 @@ title: Plasmids for independently tunable, low-noise expression of two genes
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/3ae5e37f79b31e06772a80a15ac00474d6d47330/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@3ae5e37](https://github.com/zach-hensel/low-noise-manuscript/tree/3ae5e37f79b31e06772a80a15ac00474d6d47330)
-on March 14, 2019.
+from [zach-hensel/low-noise-manuscript@8ae41e4](https://github.com/zach-hensel/low-noise-manuscript/tree/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854)
+on March 17, 2019.
 </em></small>
 
 ## Authors
