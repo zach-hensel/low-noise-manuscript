@@ -25,7 +25,7 @@
 <header id="title-block-header">
 <h1 class="title">Plasmids for independently tunable, low-noise expression of two genes</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854">zach-hensel/low-noise-manuscript@8ae41e4</a> on March 17, 2019. </em></small></p>
+<p><small><em> This manuscript (<a href="https://zach-hensel.github.io/low-noise-manuscript/v/afe7bc44013d54e4353d96c57ca3c01c9bbf6d10/">permalink</a>) was automatically generated from <a href="https://github.com/zach-hensel/low-noise-manuscript/tree/afe7bc44013d54e4353d96c57ca3c01c9bbf6d10">zach-hensel/low-noise-manuscript@afe7bc4</a> on March 17, 2019. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
 <li><p><strong>João P. N. Silva</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0003-4455-4286">0000-0003-4455-4286</a><br> <small> Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal </small></p></li>
@@ -3148,7 +3148,7 @@ DOI: <a href="https://doi.org/10.5281/zenodo.2536104">10.5281/zenodo.2536104</a>
             // start panel open/closed based on option
             if (
                 options.startOpen === 'true' ||
-                (options.startOpen === 'auto' && isSmallScreen())
+                (options.startOpen === 'auto' && !isSmallScreen())
             )
                 openPanel();
             else
@@ -3168,7 +3168,7 @@ DOI: <a href="https://doi.org/10.5281/zenodo.2536104">10.5281/zenodo.2536104</a>
             const page = window.getComputedStyle(document.body);
             const width =
                 parseInt(page.width) || parseInt(page.maxWidth) || 816;
-            return width + 320 < window.innerWidth;
+            return window.innerWidth < width + 320;
         }
 
         // when window is scrolled or hash changed

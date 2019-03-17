@@ -20,9 +20,9 @@ title: Plasmids for independently tunable, low-noise expression of two genes
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/afe7bc44013d54e4353d96c57ca3c01c9bbf6d10/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@8ae41e4](https://github.com/zach-hensel/low-noise-manuscript/tree/8ae41e4d9f7fb40e5164ed98b1a0926c6738a854)
+from [zach-hensel/low-noise-manuscript@afe7bc4](https://github.com/zach-hensel/low-noise-manuscript/tree/afe7bc44013d54e4353d96c57ca3c01c9bbf6d10)
 on March 17, 2019.
 </em></small>
 
