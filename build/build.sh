@@ -69,7 +69,6 @@ if [ "$BUILD_PDF" != "false" ]; then
     --webtex=https://latex.codecogs.com/svg.latex? \
     --include-after-body=build/themes/default.html \
     --output=output/manuscript.pdf \
-    --css=build/themes/pdf.css \ # Extra CSS for PDF output if desired
     $INPUT_PATH
   rm images
 fi
