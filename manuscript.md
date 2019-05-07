@@ -22,9 +22,9 @@ _A DOI-citable version of this manuscript is available at <https://doi.org/10.11
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/a5ed2504168f4f519ff3ac474e2d8feb677dd313/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/c8260a54473aec70a734dc09aad0ddabadcc074f/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@a5ed250](https://github.com/zach-hensel/low-noise-manuscript/tree/a5ed2504168f4f519ff3ac474e2d8feb677dd313)
+from [zach-hensel/low-noise-manuscript@c8260a5](https://github.com/zach-hensel/low-noise-manuscript/tree/c8260a54473aec70a734dc09aad0ddabadcc074f)
 on May 7, 2019.
 </em></small>
 
