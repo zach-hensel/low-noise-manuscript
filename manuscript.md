@@ -22,9 +22,9 @@ _A DOI-citable version of this manuscript is available at <https://doi.org/10.11
 
 <small><em>
 This manuscript
-([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/c163889a05a3d9e4804ca69e30135f7fadfb2020/))
+([permalink](https://zach-hensel.github.io/low-noise-manuscript/v/a5ed2504168f4f519ff3ac474e2d8feb677dd313/))
 was automatically generated
-from [zach-hensel/low-noise-manuscript@c163889](https://github.com/zach-hensel/low-noise-manuscript/tree/c163889a05a3d9e4804ca69e30135f7fadfb2020)
+from [zach-hensel/low-noise-manuscript@a5ed250](https://github.com/zach-hensel/low-noise-manuscript/tree/a5ed2504168f4f519ff3ac474e2d8feb677dd313)
 on May 7, 2019.
 </em></small>
 
@@ -129,7 +129,7 @@ We chose p15a and pSC101 plasmids for these systems because we primarily apply t
 We expect that the expression plasmids introduced here will be useful for diverse applications in molecular biology. Expression and purification of heteromeric protein complexes could be improved by stoichiometric production of their components, mimicking proportional synthesis in natural systems [@12aHdKu6v]. Additionally, low-noise expression can improve protein production yields [@5dC8qsZ9]. These systems could also be used in synthetic biology applications where yields can be improved by sequential induction of different components with low cell-to-cell variability. The capacity for low-noise expression at very low expression levels makes them particularly promising for single-molecule imaging experiments or for recombinant expression of low-copy-number components with low cell-to-cell variation to reproduce chromosomal expression levels. We see two major drawbacks to our gene expression system. First, the dynamic range of inducible expression is lower than for systems controlled by constitutively expressed transcriptional repressors [@NCWOk1rp; @TlAItren], because some expression must occur at zero inducer concentration before negative feedback kicks in. While the dynamic range could possibly be expanded by increasing repressor binding strength or having a low level of constitutive repressor expression, we have yet to succeed in this. Second, TetR and LacI are expressed at different levels at different induction conditions. This could have off-target effects (*e.g.* from non-specific DNA binding); we have occasionally observed slow growth at very high induction levels (over 200 nM ATc for pZH509), but we have not tested whether this is due to high TetR expression or high GFPmut2 expression. 
 
 
-## Methods 
+## Materials and methods
 
 ### Strain construction
 
