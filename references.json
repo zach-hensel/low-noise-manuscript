@@ -112,6 +112,8 @@
     },
     "URL": "https://doi.org/cvpfkh",
     "container-title-short": "Nucl Acids Res",
+    "PMCID": "PMC318884",
+    "PMID": "6330687",
     "id": "Q1a7tU8"
   },
   {
@@ -492,6 +494,7 @@
     ],
     "PMID": "16590055",
     "PMCID": "PMC528498",
+    "DOI": "10.1073/pnas.43.7.553",
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16590055",
     "type": "article-journal",
     "id": "eUtnfAD6"
@@ -524,6 +527,7 @@
     ],
     "PMID": "16591435",
     "PMCID": "PMC220206",
+    "DOI": "10.1073/pnas.56.6.1891",
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/16591435",
     "type": "article-journal",
     "id": "YoMCfbca"
@@ -670,6 +674,65 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/20562858",
     "type": "article-journal",
     "id": "uQeM79z"
+  },
+  {
+    "title": "Quantifying E. coli proteome and transcriptome with single-molecule sensitivity in single cells.",
+    "volume": "329",
+    "issue": "5991",
+    "page": "533-8",
+    "container-title": "Science (New York, N.Y.)",
+    "container-title-short": "Science",
+    "ISSN": "1095-9203",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yuichi",
+        "family": "Taniguchi"
+      },
+      {
+        "given": "Paul J",
+        "family": "Choi"
+      },
+      {
+        "given": "Gene-Wei",
+        "family": "Li"
+      },
+      {
+        "given": "Huiyi",
+        "family": "Chen"
+      },
+      {
+        "given": "Mohan",
+        "family": "Babu"
+      },
+      {
+        "given": "Jeremy",
+        "family": "Hearn"
+      },
+      {
+        "given": "Andrew",
+        "family": "Emili"
+      },
+      {
+        "given": "X Sunney",
+        "family": "Xie"
+      }
+    ],
+    "PMID": "20671182",
+    "PMCID": "PMC2922915",
+    "DOI": "10.1126/science.1188308",
+    "abstract": "Protein and messenger RNA (mRNA) copy numbers vary from cell to cell in isogenic bacterial populations. However, these molecules often exist in low copy numbers and are difficult to detect in single cells. We carried out quantitative system-wide analyses of protein and mRNA expression in individual cells with single-molecule sensitivity using a newly constructed yellow fluorescent protein fusion library for Escherichia coli. We found that almost all protein number distributions can be described by the gamma distribution with two fitting parameters which, at low expression levels, have clear physical interpretations as the transcription rate and protein burst size. At high expression levels, the distributions are dominated by extrinsic noise. We found that a single cell's protein and mRNA copy numbers for any given gene are uncorrelated.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/20671182",
+    "type": "article-journal",
+    "id": "12XWQPtGk"
   },
   {
     "title": "Real-time observation of transcription initiation and elongation on an endogenous yeast gene.",
@@ -1003,6 +1066,40 @@
     "id": "1Xy8hvPg"
   },
   {
+    "title": "Broad host range plasmids.",
+    "volume": "348",
+    "issue": "2",
+    "page": "87-96",
+    "container-title": "FEMS microbiology letters",
+    "container-title-short": "FEMS Microbiol. Lett.",
+    "ISSN": "1574-6968",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Aayushi",
+        "family": "Jain"
+      },
+      {
+        "given": "Preeti",
+        "family": "Srivastava"
+      }
+    ],
+    "PMID": "23980652",
+    "DOI": "10.1111/1574-6968.12241",
+    "abstract": "Plasmids are and will remain important cloning vehicles for biotechnology. They have also been associated with the spread of a number of diseases and therefore are a subject of environmental concern. With the advent of sequencing technologies, the database of plasmids is increasing. It will be of immense importance to identify the various bacterial hosts in which the plasmid can replicate. The present review article describes the features that confer broad host range to the plasmids, the molecular basis of plasmid host range evolution, and applications in recombinant DNA technology and environment. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/23980652",
+    "type": "article-journal",
+    "id": "N7fJlkrJ"
+  },
+  {
     "title": "Translation rate is controlled by coupled trade-offs between site accessibility, selective RNA unfolding and sliding at upstream standby sites.",
     "volume": "42",
     "issue": "4",
@@ -1285,6 +1382,45 @@
     "id": "82diXnad"
   },
   {
+    "title": "Systematic characterization of maturation time of fluorescent proteins in living cells.",
+    "volume": "15",
+    "issue": "1",
+    "page": "47-51",
+    "container-title": "Nature methods",
+    "container-title-short": "Nat. Methods",
+    "ISSN": "1548-7105",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Enrique",
+        "family": "Balleza"
+      },
+      {
+        "given": "J Mark",
+        "family": "Kim"
+      },
+      {
+        "given": "Philippe",
+        "family": "Cluzel"
+      }
+    ],
+    "PMID": "29320486",
+    "PMCID": "PMC5765880",
+    "DOI": "10.1038/nmeth.4509",
+    "abstract": "The slow maturation time of fluorescent proteins (FPs) limits the temporal accuracy of measurements of rapid processes such as gene expression dynamics and effectively reduces fluorescence signal in growing cells. We used high-precision time-lapse microscopy to characterize the maturation kinetics of 50 FPs that span the visible spectrum at two different temperatures in Escherichia coli cells. We identified fast-maturing FPs from this set that yielded the highest signal-to-noise ratio and temporal resolution in individual growing cells.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29320486",
+    "type": "article-journal",
+    "id": "1BqRRwE9k"
+  },
+  {
     "title": "Production of Protein-Complex Components Is Stoichiometric and Lacks General Feedback Regulation in Eukaryotes.",
     "volume": "7",
     "issue": "6",
@@ -1353,6 +1489,56 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/6098521",
     "type": "article-journal",
     "id": "5CRbRLYC"
+  },
+  {
+    "title": "Tetracycline analogs affecting binding to Tn10-Encoded Tet repressor trigger the same mechanism of induction.",
+    "volume": "35",
+    "issue": "23",
+    "page": "7439-46",
+    "container-title": "Biochemistry",
+    "container-title-short": "Biochemistry",
+    "ISSN": "0006-2960",
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          6,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "T",
+        "family": "Lederer"
+      },
+      {
+        "given": "M",
+        "family": "Kintrup"
+      },
+      {
+        "given": "M",
+        "family": "Takahashi"
+      },
+      {
+        "given": "P E",
+        "family": "Sum"
+      },
+      {
+        "given": "G A",
+        "family": "Ellestad"
+      },
+      {
+        "given": "W",
+        "family": "Hillen"
+      }
+    ],
+    "PMID": "8652521",
+    "DOI": "10.1021/bi952683e",
+    "abstract": "We examined the influence of substituents in tetracycline (tc) analogs modified at positions 2 and 4-9 and anhydrotetracycline (atc) on induction of the Tn10-encoded Tet repressor (TetR) by a quantitative in vitro induction assay. The equilibrium association constants of the modified tc to TetR were independently determined to distinguish effects on binding from those on induction. We found a correlation between the binding affinity and induction of TetR for most tc analogs. While a substitution at position 5 revealed only minor effects, changes at position 6 increased binding and induction efficiencies up to 20-fold. A chlorine at position 7 or 8 enhanced binding and induction about 4- and 9-fold, respectively. Substituents at position 9 decreased binding up to 5-fold. Epimerization of the dimethylamino function at position 4 in 4-epi-tc resulted in about 300-fold-reduced binding and 80-fold-reduced induction. Substitution of this grouping by hydrogen in 4-de(dimethylamino)-tc resulted in no binding and no induction. The respective atc analog failed to induce as well, although binding was still observed. The dimethylamino function may, thus, play a role in triggering the conformational change of TetR necessary for induction. Substitution of the 2-carboxamido by a nitrilo function did not influence binding and induction efficiencies. Atc showed about 30-fold increased binding and induction, being the most effective inducer tested in this study. The equilibrium association constants of most TetR-[Mg-tc]+ and TetR-([Mg-tc]+)2 analog complexes with tet operator are decreased about 10(2)- and 10(8)-fold, respectively, as compared to those of free TetR. This suggests that these tc analogs share the same molecular mechanism of TetR induction.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/8652521",
+    "type": "article-journal",
+    "id": "8PQGpPEb"
   },
   {
     "title": "FACS-optimized mutants of the green fluorescent protein (GFP).",
@@ -1452,6 +1638,7 @@
     ],
     "PMID": "9092630",
     "PMCID": "PMC146584",
+    "DOI": "10.1093/nar/25.6.1203",
     "abstract": "Based on parameters governing promoter activity and using regulatory elements of the lac, ara and tet operon transcription control sequences were composed which permit the regulation in Escherichia coli of several gene activities independently and quantitatively. The novel promoter PLtetO-1 allows the regulation of gene expression over an up to 5000-fold range with anhydrotetracycline (aTc) whereas with IPTG and arabinose the activity of Plac/ara-1 may be controlled 1800-fold. Escherichia coli host strains which produce defined amounts of the regulatory proteins, Lac and Tet repressor as well as AraC from chromosomally located expression units provide highly reproducible in vivo conditions. Controlling the expression of the genes encoding luciferase, the low abundance E.coli protein DnaJ and restriction endonuclease Cfr9I not only demonstrates that high levels of expression can be achieved but also suggests that under conditions of optimal repression only around one mRNA every 3rd generation is produced. This potential of quantitative control will open up new approaches in the study of gene function in vivo, in particular with low abundance regulatory gene products. The system will also provide new opportunities for the controlled expression of heterologous genes.",
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/9092630",
     "type": "article-journal",
